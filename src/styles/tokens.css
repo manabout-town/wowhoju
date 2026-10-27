@@ -36,6 +36,7 @@
   --dur-big: 480ms;
 
   --header-h: 64px;
+  --header-full: 64px; /* 폰은 메뉴 띠까지 */
   --wrap: 1244px;
   --gut: clamp(16px, 4vw, 40px);
 }
@@ -48,3 +49,4 @@
   --line: rgba(40, 32, 28, 0.14);
   color: var(--t1);
 }
+@media (max-width: 1020px) { :root { --header-full: 112px; } }

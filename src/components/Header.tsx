@@ -9,7 +9,8 @@ export const NAV: [string, string][] = [
 ];
 
 // 투명 헤더: 바탕 없이 글자만. 화면에 고정하지 않고 페이지 맨 위에만 둠(유저 2026-10-28) — 스크롤하면 같이 올라감.
-export function Header() {
+export function Header({ path }: { path: string }) {
+  const cur = (h: string) => (path === h.slice(1) || (h !== '#/' && path.startsWith(h.slice(1) + '/')) ? 'page' : undefined);
   const [menu, setMenu] = useState(false);
   useEffect(() => {
     const close = () => setMenu(false);
@@ -24,11 +25,14 @@ export function Header() {
       <div className="hd__in wrap">
         <a className="hd__mark" href="#/" aria-label="와우호주 홈"><img src="/logo/logo-ko-white.png" alt="와우호주" width="173" height="23" /></a>
         <nav className="hd__nav" aria-label="메인 메뉴">
-          {NAV.map(([l, h]) => <a key={h} href={h}>{l}</a>)}
+          {NAV.map(([l, h]) => <a key={h} href={h} aria-current={cur(h)}>{l}</a>)}
         </nav>
         <a className="hd__talk" href={facts.kakaoChat.value} target="_blank" rel="noreferrer">카톡상담</a>
         <button type="button" className="hd__burger" aria-expanded={menu} aria-controls="mmenu" onClick={() => setMenu(!menu)}>{menu ? '닫기' : '메뉴'}</button>
       </div>
+      <nav className="hd__strip" aria-label="메뉴 바로가기">
+        {NAV.map(([l, h]) => <a key={h} href={h} aria-current={cur(h)}>{l}</a>)}
+      </nav>
       <div id="mmenu" className="hd__menu" hidden={!menu}>
         <nav className="wrap" aria-label="모바일 메뉴">
           <a href="#/">홈</a>

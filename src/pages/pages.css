@@ -1,6 +1,6 @@
 /* 하위 페이지 — 홈과 같은 규칙: 영상 바탕, 박스 없음, 구분선·간격·굵기로 묶음 */
 .pg { min-height: 60svh; }
-.pg:first-child { padding-top: calc(var(--header-h) + clamp(40px, 8vw, 96px)); }
+.pg:first-child { padding-top: calc(var(--header-full) + clamp(32px, 7vw, 96px)); }
 .pg-h1 { font-size: clamp(36px, 6.4vw, 80px); margin-bottom: 18px; }
 .pg-q { font-size: clamp(20px, 2.2vw, 28px); margin: 8px 0 18px; max-width: 680px; }
 .pg-split { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: clamp(32px, 6vw, 88px); align-items: start; }
@@ -28,7 +28,7 @@
 
 /* 투어 목록 */
 .tl-cats { display: flex; flex-wrap: wrap; gap: 6px 20px; }
-.tl-cats a { font-size: 15px; font-weight: 700; color: var(--t2); text-decoration: none; padding: 4px 0; box-shadow: inset 0 -2px 0 transparent; transition: color var(--dur-ui) var(--ease-ui), box-shadow var(--dur-ui) var(--ease-ui); }
+.tl-cats a { font-size: 17px; font-weight: 800; color: var(--t2); text-decoration: none; padding: 4px 0; box-shadow: inset 0 -2px 0 transparent; transition: color var(--dur-ui) var(--ease-ui), box-shadow var(--dur-ui) var(--ease-ui); }
 .tl-cats a:hover, .tl-cats a[aria-current='page'] { color: var(--t1); box-shadow: inset 0 -2px 0 var(--point); }
 .tl-form { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 18px 24px; margin-bottom: 28px; }
 .fl--wide { grid-column: 1 / -1; }
