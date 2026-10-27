@@ -49,4 +49,4 @@
   --line: rgba(40, 32, 28, 0.14);
   color: var(--t1);
 }
-@media (max-width: 1020px) { :root { --header-full: 112px; } }
+@media (max-width: 1020px) { :root { --header-full: 104px; } }

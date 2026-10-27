@@ -8,10 +8,17 @@ export const NAV: [string, string][] = [
   ['맞춤투어', '#/custom'], ['여행정보', '#/info'], ['고객센터', '#/help'],
 ];
 
-// 투명 헤더: 바탕 없이 글자만. 화면에 고정하지 않고 페이지 맨 위에만 둠(유저 2026-10-28) — 스크롤하면 같이 올라감.
+// 투명 헤더: 바탕 없이 글자만. 화면 위에 늘 고정(유저 2026-10-28 「휠다운하면 헤더가 없어지잖아」) — 내려가면 아래 그라디언트만 진해짐.
 export function Header({ path }: { path: string }) {
   const cur = (h: string) => (path === h.slice(1) || (h !== '#/' && path.startsWith(h.slice(1) + '/')) ? 'page' : undefined);
   const [menu, setMenu] = useState(false);
+  const [scrolled, setScrolled] = useState(false);
+  useEffect(() => {
+    const on = () => setScrolled(scrollY > 40);
+    on();
+    addEventListener('scroll', on, { passive: true });
+    return () => removeEventListener('scroll', on);
+  }, []);
   useEffect(() => {
     const close = () => setMenu(false);
     addEventListener('hashchange', close);
@@ -21,7 +28,7 @@ export function Header({ path }: { path: string }) {
   return (
     <>
     <a className="skip" href="#main" onClick={(e) => { e.preventDefault(); document.getElementById('main')?.focus(); }}>본문 바로가기</a>
-    <header className={`hd${menu ? ' is-menu' : ''}`}>
+    <header className={`hd${menu ? ' is-menu' : ''}${scrolled ? ' is-scrolled' : ''}`}>
       <div className="hd__in wrap">
         <a className="hd__mark" href="#/" aria-label="와우호주 홈"><img src="/logo/logo-ko-white.png" alt="와우호주" width="173" height="23" /></a>
         <nav className="hd__nav" aria-label="메인 메뉴">

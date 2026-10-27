@@ -44,7 +44,7 @@ h3 { font-family: var(--sans); font-size: clamp(19px, 2vw, 24px); font-weight: 7
 main { position: relative; z-index: 1; }
 
 /* 섹션: 화면 끝까지 꽉 찬 바탕. 떠 있는 판(여백+둥근 모서리) 금지. 바탕은 detail-spec 2절 교대표대로. */
-.sec { position: relative; overflow: clip; padding: clamp(80px, 12vw, 160px) 0; scroll-margin-top: calc(var(--header-h) + 12px); }
+.sec { position: relative; overflow: clip; padding: clamp(80px, 12vw, 160px) 0; scroll-margin-top: calc(var(--header-full) + 12px); }
 .sec--light { background: var(--light); }
 .sec--brand { background: var(--brand); }
 .sec--dark { background: var(--dark); }

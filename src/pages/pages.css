@@ -105,7 +105,7 @@
 .td-related b { font-size: 17px; }
 
 /* 예약 문의 — 판 없이 오른쪽 기둥, 왼쪽 세로선 하나 */
-.td-book { position: sticky; top: calc(var(--header-h) + 16px); display: grid; gap: 16px; padding-left: clamp(18px, 2.4vw, 28px); box-shadow: inset 2px 0 0 var(--point); }
+.td-book { position: sticky; top: calc(var(--header-full) + 16px); display: grid; gap: 16px; padding-left: clamp(18px, 2.4vw, 28px); box-shadow: inset 2px 0 0 var(--point); }
 .td-book-h { font-size: clamp(24px, 2.6vw, 32px); margin: 0 !important; }
 .td-pax { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
 .td-bad { font-size: 13px; font-weight: 700; color: var(--brand-soft); }
