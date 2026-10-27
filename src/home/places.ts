@@ -6,7 +6,7 @@ export const PLACES: Place[] = [
   { name: '로트네스트', lat: -32.0, lng: 115.52, dest: 'rottnest', at: 0.1, left: true },
   { name: '란셀린', lat: -31.02, lng: 115.33, dest: 'pinnacles', at: 0.2, left: true },
   { name: '피너클스', lat: -30.6, lng: 115.16, dest: 'pinnacles', at: 0.3, left: true },
-  { name: '칼바리·핑크호수', lat: -27.71, lng: 114.16, dest: 'kalbarri', at: 0.5, left: true },
+  { name: '칼바리·핑크호수', lat: -27.71, lng: 114.16, dest: 'kalbarri', at: 0.5 },
   { name: '멍키마이어', lat: -25.79, lng: 113.72, dest: 'kalbarri', at: 0.6 },
   { name: '웨이브락', lat: -32.44, lng: 118.9, dest: 'waverock', at: 0.45 },
   { name: '마가렛리버', lat: -33.95, lng: 115.07, dest: 'margaret', at: 0.55, left: true },
@@ -25,5 +25,6 @@ export const ROUTES = [
   { id: 'east', tone: 'gold', label: '동쪽 — 웨이브락', d: path('퍼스', '웨이브락'), kmTo: '웨이브락', km: 296, note: '파도 모양 화강암' },
 ] as const;
 
-// 퍼스→멍키마이어 약 900km(위키백과 Monkey Mia), 퍼스→웨이브락 296km(Wave Rock), 남부는 마가렛리버 277km(Margaret River, Western Australia)
+// 퍼스→멍키마이어 약 900km(위키백과 Monkey Mia), 퍼스→웨이브락 296km(Wave Rock) — research/local.json.
+// 마가렛리버 277km: 위키백과 Margaret River, Western Australia 도입부 「277 kilometres (172 mi) south of Perth」(2026-10-27 API로 확인)
 export const routeLen = (r: (typeof ROUTES)[number]) => r.km;

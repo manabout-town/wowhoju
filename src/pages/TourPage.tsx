@@ -2,6 +2,7 @@ import { useMemo, useRef, useState } from 'react';
 import { tourById, tours, quote, departsOn, type Tour } from '../data/tours';
 import { reviews } from '../data/reviews';
 import { facts } from '../data/facts';
+import { say } from '../data/copy';
 import { Ph } from '../components/Ph';
 import { Sents } from '../components/Lines';
 import { TourMeta } from './TourMeta';
@@ -139,9 +140,10 @@ function Booking({ t }: { t: Tour }) {
   const [ad, setAd] = useState(2);
   const [kd, setKd] = useState(0);
   const [copied, setCopied] = useState(false);
-  const ok = !date || departsOn(t, date);
+  const today = (() => { const d = new Date(); d.setMinutes(d.getMinutes() - d.getTimezoneOffset()); return d.toISOString().slice(0, 10); })();
+  const inRange = !date || ((!t.lastDate || date <= t.lastDate) && date >= today);
+  const ok = !date || (departsOn(t, date) && inRange);
   const sum = quote(t, ad, kd);
-  const today = new Date().toISOString().slice(0, 10);
   const msg = `[와우호주 예약 문의]\n투어: ${t.title}\n출발 날짜: ${date || '미정'}\n인원: 성인 ${ad}명${kd ? `, 아동 ${kd}명` : ''}\n예상 금액: ${sum != null ? `$${sum.toLocaleString('en-AU')} (호주달러, 할인 전)` : '상담 확인'}\n원래 상품 페이지: ${t.url}`;
   const copyKakao = async () => {
     try { await navigator.clipboard.writeText(msg); setCopied(true); } catch { setCopied(false); }
@@ -151,7 +153,7 @@ function Booking({ t }: { t: Tour }) {
     <aside id="td-book" className="td-book" aria-label="예약 문의">
       <h2 className="td-book-h">예약 문의</h2>
       <label className="fl"><span>출발 날짜</span><input type="date" min={today} max={t.lastDate ?? undefined} value={date} onChange={(e) => setDate(e.target.value)} aria-invalid={!ok} /></label>
-      {!ok && <p className="td-bad">이 투어는 {t.weekdays.map((d) => WD[d]).join('·')}요일에 출발합니다.</p>}
+      {!ok && <p className="td-bad">{!inRange ? `예약할 수 있는 날짜는 오늘부터 ${t.lastDate ?? ''}까지입니다.` : `이 투어는 ${t.weekdays.map((d) => WD[d]).join('·')}요일에 출발합니다.`}</p>}
       <div className="td-pax">
         <label className="fl fl--half"><span>성인</span><select value={ad} onChange={(e) => setAd(Number(e.target.value))}>{Array.from({ length: 15 }, (_, i) => <option key={i} value={i + 1}>{i + 1}명</option>)}</select></label>
         <label className="fl fl--half"><span>아동{t.childNote ? ` (${t.childNote})` : ''}</span><select value={kd} onChange={(e) => setKd(Number(e.target.value))}>{Array.from({ length: 16 }, (_, i) => <option key={i} value={i}>{i}명</option>)}</select></label>
@@ -164,6 +166,13 @@ function Booking({ t }: { t: Tour }) {
       </div>
       <p className="td-sumnote" aria-live="polite"><Sents s={copied ? '문의 내용을 복사했습니다. 카톡 대화창에 붙여 넣어 보내세요.' : '이 페이지는 제안 시안이라 결제는 진행되지 않습니다. 예약 확정·결제는 와우호주 상담으로 진행됩니다.'} /></p>
       <p className="td-sumnote"><a href="#/help">취소 수수료·FAQ 보기</a></p>
+      <div className="td-why">
+        <h3>궁금한 점이 있나요?</h3>
+        <p><Sents s={say('kakaoGuide')} /></p>
+        <p className="td-why-c"><a href={facts.kakaoChat.value} target="_blank" rel="noreferrer">카톡채널 와우호주투어</a><a href={`tel:${facts.phone.value.replace(/\s/g, '')}`}>{facts.phone.value}</a><a href={`mailto:${facts.email.value}`}>{facts.email.value}</a></p>
+        <h3>와우호주와 함께하면</h3>
+        <ul className="td-ul"><li>{say('custom2')}</li><li>{say('hidden1')}</li><li>{say('careful')}</li></ul>
+      </div>
     </aside>
   );
 }

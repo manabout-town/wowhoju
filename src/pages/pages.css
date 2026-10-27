@@ -170,3 +170,11 @@
 .ab-why b { font-family: var(--display); font-weight: var(--display-w); font-size: clamp(20px, 2vw, 26px); line-height: 1.3; text-wrap: balance; }
 .ab-why span { font-size: 15px; color: var(--t2); }
 @media (max-width: 860px) { .ab-why { grid-template-columns: 1fr; } }
+
+.tl-uluru { max-width: 860px; margin-bottom: 36px; }
+.tl-uluru .lead { margin-bottom: 14px; }
+.td-why { display: grid; gap: 10px; margin-top: 12px; padding-top: 18px; box-shadow: inset 0 1px 0 var(--line); }
+.td-why h3 { font-size: 17px; }
+.td-why p { font-size: 14px; color: var(--t2); }
+.td-why-c { display: grid; gap: 6px; }
+.td-why-c a { font-weight: 700; color: var(--t1); text-underline-offset: 4px; }

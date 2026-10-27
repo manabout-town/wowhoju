@@ -1,4 +1,4 @@
-import { useEffect } from 'react';
+import { useEffect, lazy, Suspense } from 'react';
 import { Header } from './components/Header';
 import { Footer } from './components/Footer';
 import { SceneBg } from './fx/SceneBg';
@@ -16,7 +16,10 @@ import { Season } from './home/Season';
 import { Contact } from './home/Contact';
 import { Tours } from './pages/Tours';
 import { TourPage } from './pages/TourPage';
-import { CustomPage, InfoPage, HelpPage, AboutPage } from './pages/Pages';
+const CustomPage = lazy(() => import('./pages/Pages').then((m) => ({ default: m.CustomPage })));
+const InfoPage = lazy(() => import('./pages/Pages').then((m) => ({ default: m.InfoPage })));
+const HelpPage = lazy(() => import('./pages/Pages').then((m) => ({ default: m.HelpPage })));
+const AboutPage = lazy(() => import('./pages/Pages').then((m) => ({ default: m.AboutPage })));
 import { useLenis } from './lib/useLenis';
 import { useReveal } from './lib/useReveal';
 import { useRoute } from './lib/route';
@@ -41,7 +44,7 @@ export default function App() {
       <SceneBg page={key} />
       {home && <Intro video="/video/lancelin.mp4" poster="/video/lancelin.jpg" lines={[[say('painting').split(',')[0] + ','], ['잊지 못할 서호주 여행']]} word="와우호주" logo="/logo/logo-ko.png" storageKey="wowhoju-intro" />}
       <Header home={home} />
-      <main id="top" key={key}>
+      <main id="main" tabIndex={-1} key={key}>
         {home && (
           <>
             <Hero />
@@ -59,10 +62,12 @@ export default function App() {
         )}
         {route.page === 'tours' && <Tours route={route} />}
         {route.page === 'tour' && <TourPage id={route.parts[0]} />}
-        {route.page === 'custom' && <CustomPage />}
-        {route.page === 'info' && <InfoPage route={route} />}
-        {route.page === 'help' && <HelpPage />}
-        {route.page === 'about' && <AboutPage />}
+        <Suspense fallback={<section className="sec pg" data-bg="pinnacles" />}>
+          {route.page === 'custom' && <CustomPage />}
+          {route.page === 'info' && <InfoPage route={route} />}
+          {route.page === 'help' && <HelpPage />}
+          {route.page === 'about' && <AboutPage />}
+        </Suspense>
       </main>
       <Footer />
     </>

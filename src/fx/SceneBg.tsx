@@ -29,13 +29,22 @@ export function SceneBg({ page }: { page: string }) {
         if (prev) setTimeout(() => { if (cur !== prev.dataset.k) prev.pause(); }, 900);
       }
     };
-    const secs = [...document.querySelectorAll<HTMLElement>('[data-bg]')];
     const io = new IntersectionObserver((es) => {
       for (const e of es) if (e.isIntersecting) { const t = e.target as HTMLElement; show(t.dataset.bg!, t.dataset.tone ?? 'night'); }
     }, { rootMargin: '-45% 0px -45% 0px' });
-    secs.forEach((s) => io.observe(s));
-    if (secs[0]) show(secs[0].dataset.bg!, secs[0].dataset.tone ?? 'night');
-    return () => io.disconnect();
+    const seen = new Set<Element>();
+    const scan = () => {
+      const secs = [...document.querySelectorAll<HTMLElement>('[data-bg]')];
+      let added = 0;
+      secs.forEach((s) => { if (!seen.has(s)) { seen.add(s); io.observe(s); added++; } });
+      if (added && secs[0] && scrollY < innerHeight) show(secs[0].dataset.bg!, secs[0].dataset.tone ?? 'night');
+    };
+    scan();
+    // 지연 로딩된 페이지 섹션도 잡음
+    const mo = new MutationObserver(scan);
+    const main = document.querySelector('main');
+    if (main) mo.observe(main, { childList: true }); // 바로 아래 자식만(스크럽 글자 바뀜은 무시)
+    return () => { io.disconnect(); mo.disconnect(); };
   }, [page]);
   return (
     <div className="scn" ref={ref} aria-hidden>

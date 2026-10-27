@@ -1,6 +1,7 @@
 import { useRef, useState } from 'react';
 import { useScrub } from '../lib/scrub';
 import { facts, channels } from '../data/facts';
+import posts from '../data/posts.json';
 import { Lines } from '../components/Lines';
 import { Ph } from '../components/Ph';
 import { flyStage, SHOTS } from './galleryFly';
@@ -38,7 +39,7 @@ export function Gallery() {
         </div>
       </div>
       <div className="wrap ga-over">
-        <h2><Lines l={[['손님들이 직접'], ['남긴 서호주']]} /></h2>
+        <h2><Lines l={[['사진으로 먼저'], ['걸어 보는 서호주']]} /></h2>
         <p className="ga-meta"><b className="ga-cap">{SHOTS[0].where}</b><span><i className="ga-n num">1</i> / {SHOTS.length}장</span></p>
       </div>
       </div>
@@ -53,6 +54,9 @@ export function Gallery() {
             </li>
           ))}
         </ul>
+        <h3 className="ga-blog-h">블로그 최근 글</h3>
+        <ul className="po-list">{posts.recent.slice(0, 5).map((p) => <li key={p.url}><a href={p.url} target="_blank" rel="noreferrer"><b>{p.title}</b><span className="num">{p.date.replaceAll('-', '.')}</span></a></li>)}</ul>
+        <p className="ga-links"><a href="#/info">여행정보 글 전체</a></p>
         <p className="ga-links">
           <a href={channels.insta} target="_blank" rel="noreferrer">인스타그램 @wowhoju · 게시물 {facts.instaPosts.value}개</a>
           <a href={channels.youtube} target="_blank" rel="noreferrer">유튜브 채널</a>

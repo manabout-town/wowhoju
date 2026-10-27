@@ -44,7 +44,7 @@ export function Story() {
           <p className="quote st-quote">“{say('aboutLived')}”</p>
           <p className="claim">와우호주 About Us 소개 문장</p>
           <div className="st-years">
-            <p><b className="big st-year num">{facts.restart.value}</b><span>코로나로 멈췄다가<br />다시 투어를 시작한 해</span></p>
+            <p><b className="big st-year num">{facts.restart.value}</b><span>코로나로 멈췄다가<br />다시 투어를 시작한 해<small className="claim">와우호주 블로그 소개</small></span></p>
             <p><b className="big num">{facts.abnSince.value}</b><span>운영 법인<br />사업자 등록</span></p>
           </div>
           <p className="quote st-restart">{say('restart')}</p>

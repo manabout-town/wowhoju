@@ -282,3 +282,9 @@
 @media (max-width: 380px) { .ct-clock { grid-template-columns: 88px minmax(0, 1fr); } .ct-clock svg { width: 88px; height: 88px; } }
 .dy-photos::after { content: ''; position: absolute; inset: 40% 0 0; background: linear-gradient(180deg, rgba(20, 14, 12, 0), rgba(20, 14, 12, 0.72)); pointer-events: none; }
 .dy-says { z-index: 1; }
+.ga-blog-h { margin: 36px 0 8px; }
+.ga .po-list { list-style: none; margin: 0 0 12px; padding: 0; }
+.ga .po-list a { display: flex; justify-content: space-between; gap: 18px; padding: 12px 0; box-shadow: inset 0 -1px 0 var(--line); color: inherit; text-decoration: none; }
+.ga .po-list b { font-size: 15px; font-weight: 600; }
+.ga .po-list a:hover b { color: var(--point); }
+.ga .po-list span { flex: none; font-size: 13px; color: var(--t3); }

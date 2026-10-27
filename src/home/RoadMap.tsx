@@ -33,7 +33,7 @@ export function RoadMap() {
       <div className="wrap">
         <div className="head">
           <h2><Lines l={[['퍼스에서 출발해'], ['북쪽·남쪽·동쪽으로']]} /></h2>
-          <p className="lead"><Sents s={['모든 투어는 퍼스 시티에서 출발합니다.', '지명을 누르면 그곳에 가는 투어를 볼 수 있습니다.']} /></p>
+          <p className="lead"><Sents s={['투어 대부분은 퍼스 시티에서 출발합니다.', '로트네스트는 프리맨틀 항구, 울루루는 현지에서 출발합니다.', '지명을 누르면 그곳에 가는 투어를 볼 수 있습니다.']} /></p>
         </div>
         <div className="rm-grid">
           <svg className="rm-map" viewBox="0 0 400 520" role="img" aria-label="서호주 투어 지역 지도">

@@ -16,3 +16,6 @@
 .hd__menu-c a { font-weight: 700; color: var(--point); text-underline-offset: 4px; }
 @media (max-width: 1020px) { .hd__nav { display: none; } .hd__burger { display: block; } .hd__talk { margin-left: auto; } .hd__burger { margin-left: 0; } }
 @media (max-width: 380px) { .hd__mark img { width: 120px; } .hd__in { gap: 4px; } }
+.hd:focus-within { transform: none; }
+.skip { position: fixed; left: 12px; top: -60px; z-index: 300; padding: 8px 0; font-weight: 700; color: var(--point); }
+.skip:focus { top: 12px; }

@@ -28,14 +28,16 @@ export function Header({ home }: { home: boolean }) {
   useEffect(() => { document.documentElement.style.overflow = menu ? 'hidden' : ''; }, [menu]);
   const show = menu || ((home ? past : true) && up);
   return (
+    <>
+    <a className="skip" href="#main" onClick={(e) => { e.preventDefault(); document.getElementById('main')?.focus(); }}>본문 바로가기</a>
     <header className={`hd${show ? ' is-on' : ''}${menu ? ' is-menu' : ''}`}>
       <div className="hd__in wrap">
-        <a className="hd__mark" href="#/" aria-label="와우호주 홈" tabIndex={show ? 0 : -1}><img src="/logo/logo-ko-white.png" alt="와우호주" width="173" height="23" /></a>
+        <a className="hd__mark" href="#/" aria-label="와우호주 홈"><img src="/logo/logo-ko-white.png" alt="와우호주" width="173" height="23" /></a>
         <nav className="hd__nav" aria-label="메인 메뉴">
-          {NAV.map(([l, h]) => <a key={h} href={h} tabIndex={show ? 0 : -1}>{l}</a>)}
+          {NAV.map(([l, h]) => <a key={h} href={h}>{l}</a>)}
         </nav>
-        <a className="hd__talk" href={facts.kakaoChat.value} target="_blank" rel="noreferrer" tabIndex={show ? 0 : -1}>카톡상담</a>
-        <button type="button" className="hd__burger" aria-expanded={menu} aria-controls="mmenu" onClick={() => setMenu(!menu)} tabIndex={show ? 0 : -1}>{menu ? '닫기' : '메뉴'}</button>
+        <a className="hd__talk" href={facts.kakaoChat.value} target="_blank" rel="noreferrer">카톡상담</a>
+        <button type="button" className="hd__burger" aria-expanded={menu} aria-controls="mmenu" onClick={() => setMenu(!menu)}>{menu ? '닫기' : '메뉴'}</button>
       </div>
       <div id="mmenu" className="hd__menu" hidden={!menu}>
         <nav className="wrap" aria-label="모바일 메뉴">
@@ -46,5 +48,6 @@ export function Header({ home }: { home: boolean }) {
         </nav>
       </div>
     </header>
+    </>
   );
 }

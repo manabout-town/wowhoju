@@ -2471,9 +2471,10 @@
   ],
   "duration": "10시간",
   "nDays": 1,
-  "avail": "매주 금요일 출발",
+  "avail": "매주 수요일과 토요일 출발",
   "weekdays": [
-   5
+   3,
+   6
   ],
   "firstDate": null,
   "lastDate": null,
@@ -2573,10 +2574,8 @@
   ],
   "duration": "10시간",
   "nDays": 1,
-  "avail": "매주 금요일 출발",
-  "weekdays": [
-   5
-  ],
+  "avail": "출발일 문의",
+  "weekdays": [],
   "firstDate": null,
   "lastDate": null,
   "from": "Perth City YHA",
@@ -2676,10 +2675,8 @@
   "priceText": [],
   "duration": "10시간",
   "nDays": 1,
-  "avail": "매주 금요일 출발",
-  "weekdays": [
-   5
-  ],
+  "avail": "문의",
+  "weekdays": [],
   "firstDate": null,
   "lastDate": null,
   "from": "Perth City YHA",
@@ -2883,10 +2880,8 @@
   "priceText": [],
   "duration": "10시간",
   "nDays": 1,
-  "avail": "매주 금요일 출발",
-  "weekdays": [
-   5
-  ],
+  "avail": "문의",
+  "weekdays": [],
   "firstDate": null,
   "lastDate": null,
   "from": "Perth City YHA",
@@ -3189,7 +3184,7 @@
   "url": "https://wowhoju.com.au/tour/bustour/",
   "title": "이층버스타고 퍼스경험하기",
   "price": 35,
-  "child": 15,
+  "child": null,
   "childNote": null,
   "priceText": [
    "패밀리/그룹 티켓은 2명의 성인과 2명의 아동인 경우에 해당합니다.",
@@ -3215,15 +3210,7 @@
   "duration": "2시간 (24시간 이용가능)",
   "nDays": 1,
   "avail": "매일 출발",
-  "weekdays": [
-   0,
-   1,
-   2,
-   3,
-   4,
-   5,
-   6
-  ],
+  "weekdays": [],
   "firstDate": null,
   "lastDate": null,
   "from": null,
@@ -4005,9 +3992,15 @@
   "priceText": [],
   "duration": "Various",
   "nDays": 1,
-  "avail": "매주 금요일 출발",
+  "avail": "매일 출발",
   "weekdays": [
-   5
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
   ],
   "firstDate": null,
   "lastDate": null,
@@ -4405,7 +4398,7 @@
   "url": "https://wowhoju.com.au/tour/rottnest_ferry/",
   "title": "로트네스트 섬 페리",
   "price": 125,
-  "child": 42,
+  "child": null,
   "childNote": "4-12세",
   "priceText": [
    "프리멘틀 B-Shed Terminal 에서 출발시",

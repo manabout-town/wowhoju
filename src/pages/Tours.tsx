@@ -3,6 +3,8 @@ import { tours, filterTours, CATS, DESTS, DURS, type Filter } from '../data/tour
 import type { Route } from '../lib/route';
 import { Ph } from '../components/Ph';
 import { TourMeta } from './TourMeta';
+import { uluruIntro, uluruFaq, uluruUrl } from '../data/uluru';
+import { Sents } from '../components/Lines';
 import './pages.css';
 
 // 투어 목록·검색: 원래 메뉴(일일투어·단기여행·버스/선박·울룰루) + 원래 검색 페이지 필드(키워드·카테고리·목적지·기간·날짜·가격·정렬)
@@ -28,7 +30,7 @@ export function Tours({ route }: { route: Route }) {
   const f = readFilter(route);
   const list = useMemo(() => filterTours(tours, f), [route]); // eslint-disable-line react-hooks/exhaustive-deps
   const set = (patch: Partial<Filter>) => writeFilter({ ...f, ...patch });
-  const title = f.cat ? CATS[f.cat] : '전체 투어';
+  const title = (f.cat && CATS[f.cat]) || '전체 투어';
   return (
     <section className="sec pg tl" data-bg={BG[f.cat ?? ''] ?? 'pinnacles'}>
       <div className="wrap">
@@ -39,6 +41,13 @@ export function Tours({ route }: { route: Route }) {
             {Object.entries(CATS).map(([k, v]) => <a key={k} href={`#/tours/${k}`} aria-current={f.cat === k ? 'page' : undefined}>{v}</a>)}
           </nav>
         </div>
+        {f.cat === 'uluru' && (
+          <div className="tl-uluru">
+            <p className="lead"><Sents s={uluruIntro} /></p>
+            {uluruFaq.map((x) => <details key={x.q} className="fq"><summary>{x.q}</summary><p><Sents s={x.a} /></p></details>)}
+            <p className="src">출처: <a href={uluruUrl} target="_blank" rel="noreferrer">와우호주 울룰루 페이지</a> · 울루루 상품은 현지 가이드 연결 상품이며 상세 환불 규정을 따릅니다.</p>
+          </div>
+        )}
         <form className="tl-form" role="search" onSubmit={(e) => e.preventDefault()}>
           <label className="fl fl--wide"><span>키워드</span><input type="search" defaultValue={f.q} placeholder="피너클스, 와이너리, 별빛…" onChange={(e) => set({ q: e.target.value || undefined })} /></label>
           <label className="fl"><span>목적지</span>

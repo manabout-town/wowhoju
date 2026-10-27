@@ -17,8 +17,8 @@ export const copy = {
   mustGo: { text: "Must Go! 서호주에서 꼭 가봐야할 여행지", source: "사이트 홈 본문", url: "https://wowhoju.com.au/" },
   uluruHelp: { text: "울룰루 여행, 어디서부터 시작할지 막막하신가요? 저희가 친절하게 상담해드리고, 고객님께 딱 맞는 울룰루 투어를 편리하게 연결해드립니다.", source: "사이트 홈 본문", url: "https://wowhoju.com.au/" },
   busseltonLabel: { text: "제티의 기차와 달콤한 마가렛리버 경험하기", source: "사이트 홈 상품 카드 라벨", url: "https://wowhoju.com.au/" },
-  outback: { text: "호주의 아웃백으로 떠나는 여행 (웨이브락 라벨)", source: "사이트 홈 상품 카드 라벨", url: "https://wowhoju.com.au/" },
-  perth100: { text: "퍼스 100배 즐기기 (캐버샴+스완밸리 라벨)", source: "사이트 홈 상품 카드 라벨", url: "https://wowhoju.com.au/" },
+  outback: { text: "호주의 아웃백으로 떠나는 여행", source: "사이트 홈 상품 카드 라벨", url: "https://wowhoju.com.au/" },
+  perth100: { text: "퍼스 100배 즐기기", source: "사이트 홈 상품 카드 라벨", url: "https://wowhoju.com.au/" },
   custom1: { text: "고객의 성향과 취향에 맞게 일정과 계획이 조정 가능합니다.", source: "사이트 About Us", url: "https://wowhoju.com.au/about-us/" },
   custom2: { text: "나만을 위한 특별한 여행을 디자인하세요!", source: "사이트 About Us", url: "https://wowhoju.com.au/about-us/" },
   custom3: { text: "친절한 상담과 여행전문지식으로 소그룹투어에서부터 맞춤투어까지 고객이 원하는 여행을 디자인해드립니다", source: "사이트 About Us", url: "https://wowhoju.com.au/about-us/" },
@@ -46,7 +46,7 @@ export const copy = {
   mustCourse: { text: "퍼스에 여행왔다면, 무조건 가야하는 필수 코스, 피너클별빛투어", source: "유튜브 영상 제목 (RSS)", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC66tLCGUrGn2o4KvMUHeOQg" },
   snowSand: { text: "설원같은 란셀린 모래사막에서 라이딩으로 시작한 서호주 북부 2박 3일의 짦은 여행", source: "유튜브 영상 제목 (RSS)", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC66tLCGUrGn2o4KvMUHeOQg" },
   aboutLocal: { text: "'와우 호주 투어'는 서호주 퍼스 지역을 중심으로 호주의 다양하고 특별한 여행상품을 기획하고 운영하고 있는 현지 여행사입니다.", source: "사이트 About Us", url: "https://wowhoju.com.au/about-us/" },
-  aboutLived: { text: "호주에 20년 가까이 거주하며 쌓아온 경험과 노하우를 통해 호주의 라이프 스타일과 여행지를 소개해 드리고 있습니다.", source: "사이트 About Us(문장 끝 「있으며…」를 맺음)", url: "https://wowhoju.com.au/about-us/" },
+  aboutLived: { text: "호주에 20년 가까이 거주하며 쌓아온 경험과 노하우를 통해 호주의 라이프 스타일과 여행지를 소개해 드리고 있으며…", source: "사이트 About Us", url: "https://wowhoju.com.au/about-us/" },
   aboutGuide: { text: "퍼스를 잘 아는 현지에 살고 있는 한국인 가이드가 서호주의 숨은 여행지로 안내합니다.", source: "사이트 About Us", url: "https://wowhoju.com.au/about-us/" },
 } satisfies Record<string, Copy>;
 

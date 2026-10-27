@@ -80,6 +80,9 @@ for d in det:
     photo = hero_slug(p)
     if not photo or not os.path.exists(f'public/img/{photo}-800.webp'): photo = gal_s[0] if gal_s else None
     avail = (d.get('availability') or '').replace('Availability :', '').strip()
+    old_p = bool(p and p.get('note') and '확인 못 함' in p['note'])
+    if old_p and avail == '매주 금요일 출발':  # 옛 상품 헤더에 남은 테마 템플릿 값 — 본문 기준으로
+        avail = next((l for l in lines(sec.get('투어 출발일') or sec.get('출발/도착 시간') or '') if '출발' in l or '매일' in l or '문의' in l), '출발일 문의')
     dep_text = sec.get('투어 출발일') or sec.get('출발/도착 시간') or ''
     price = money(d.get('priceAdult')) or money(d.get('priceFromHeader'))
     child_raw = d.get('priceChild') or ''
@@ -90,10 +93,11 @@ for d in det:
     old = bool(p and p.get('note') and '확인 못 함' in p['note'])
     out.append({
         'id': IDS.get(title) or next((v for k, v in IDS.items() if k.replace(' ', '') == title.replace(' ', '')), f"t{d['id']}"), 'wp': int(d['id']), 'url': d['url'], 'title': title,
-        'price': price, 'child': money(child_raw), 'childNote': (re.search(r'\((.*?)\)', child_raw) or [None, None])[1],
+        'price': price, 'child': None if d['id'] in (10530, '10530', 7564, '7564') else money(child_raw),  # 원문 성인·아동가가 서로 다른 터미널·이용권 값이라 상담 확인으로
+        'childNote': (re.search(r'\((.*?)\)', child_raw) or [None, None])[1],
         'priceText': lines(sec.get('가격') or sec.get('가격 안내')),
         'duration': (d.get('duration') or (p or {}).get('duration') or '').strip() or None, 'nDays': days_of(d.get('duration') or (p or {}).get('duration')),
-        'avail': avail, 'weekdays': weekdays(avail) or weekdays(dep_text), 'firstDate': (ad.get('first') or [None])[0], 'lastDate': (ad.get('last') or [None])[0],
+        'avail': avail, 'weekdays': weekdays(dep_text) if old_p else (weekdays(avail) or weekdays(dep_text)), 'firstDate': (ad.get('first') or [None])[0], 'lastDate': (ad.get('last') or [None])[0],
         'from': d.get('departureLocation'), 'to': d.get('returnLocation'),
         'intro': lines(sec.get('여행 소개')), 'depart': lines(sec.get('출발/도착 장소') or sec.get('출발 장소')), 'times': lines(sec.get('출발/도착 시간') or sec.get('투어 출발일')),
         'included': lines(sec.get('포함 내역')), 'excluded': lines(sec.get('불포함 내역')), 'notes': lines(sec.get('참고 사항')) + lines(sec.get('유의 사항')),
