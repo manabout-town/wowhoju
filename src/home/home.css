@@ -67,8 +67,11 @@
 
 /* 4 지도 */
 .rm-grid { display: grid; grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr); gap: clamp(28px, 5vw, 72px); align-items: center; }
-.rm-map { width: 100%; max-width: 460px; height: auto; overflow: visible; }
-.rm-route { fill: none; stroke-width: 3.5; stroke-linecap: round; stroke-linejoin: round; stroke-dasharray: 1; stroke-dashoffset: 1; }
+.rm-map { width: 100%; max-width: 440px; height: auto; overflow: hidden; }
+.rm-land path { fill: none; stroke: rgba(250, 244, 234, 0.7); stroke-width: 1.4; stroke-linejoin: round; }
+.rm-sea { font-family: var(--quote); font-size: 15px; fill: rgba(250, 244, 234, 0.5); letter-spacing: 0.2em; writing-mode: vertical-rl; }
+.rm-route--ferry { stroke: #fff7ea; stroke-width: 2; stroke-dasharray: 0.08 0.06; }
+.rm-route { fill: none; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; stroke-dasharray: 1; stroke-dashoffset: 1; }
 .rm-route--coral { stroke: var(--brand); }
 .rm-route--blue { stroke: var(--sub-soft); }
 .rm-route--gold { stroke: var(--point); }

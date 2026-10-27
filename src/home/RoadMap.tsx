@@ -2,7 +2,8 @@ import { useRef } from 'react';
 import { useScrub } from '../lib/scrub';
 import { Lines, Sents } from '../components/Lines';
 import { Ph } from '../components/Ph';
-import { PLACES, ROUTES, proj, routeLen } from './places';
+import { PLACES, ROUTES, routeLen } from './places';
+import { LAND, ROAD, MAP_W, MAP_H, proj } from './mapData';
 
 // 서호주 로드트립 지도: 퍼스에서 북·남·동으로 사륜구동 경로선이 그려지고 지명이 차례로 켜짐.
 // 위치는 실제 위도·경도(위키백과), 거리는 research/local.json 위키백과 값.
@@ -10,7 +11,7 @@ export function RoadMap() {
   const ref = useRef<HTMLElement>(null);
   useScrub(ref, (p, el) => {
     el.querySelectorAll<SVGPathElement>('.rm-route').forEach((r, i) => {
-      const k = Math.min(1, Math.max(0, p * 1.5 - i * 0.18));
+      const k = Math.min(1, Math.max(0, p * 1.4 - i * 0.12));
       r.style.strokeDashoffset = String(1 - k);
     });
     el.querySelectorAll<HTMLElement>('.rm-pin').forEach((pin) => {
@@ -36,8 +37,11 @@ export function RoadMap() {
           <p className="lead"><Sents s={['투어 대부분은 퍼스 시티에서 출발합니다.', '로트네스트는 프리맨틀 항구, 울루루는 현지에서 출발합니다.', '지명을 누르면 그곳에 가는 투어를 볼 수 있습니다.']} /></p>
         </div>
         <div className="rm-grid">
-          <svg className="rm-map" viewBox="0 0 400 520" role="img" aria-label="서호주 투어 지역 지도">
-            {ROUTES.map((r) => <path key={r.id} className={`rm-route rm-route--${r.tone}`} d={r.d} pathLength={1} />)}
+          <svg className="rm-map" viewBox={`0 0 ${MAP_W} ${MAP_H}`} role="img" aria-label="서호주 실제 지도 위 투어 경로">
+            <g className="rm-land">{LAND.map((d, i) => <path key={i} d={d} />)}</g>
+            <text className="rm-sea" x="22" y={MAP_H * 0.42}>인도양</text>
+            {ROUTES.map((r) => <path key={r.id} className={`rm-route rm-route--${r.tone}`} d={ROAD[r.id].d} pathLength={1} />)}
+            <path className="rm-route rm-route--ferry" d={ROAD.ferry.d} pathLength={1} />
             {PLACES.map((pl) => {
               const [x, y] = proj(pl.lat, pl.lng);
               return (
@@ -53,7 +57,7 @@ export function RoadMap() {
               {ROUTES.map((r) => (
                 <li key={r.id} className={`rm-li rm-li--${r.tone}`}>
                   <b>{r.label}</b>
-                  <span>{r.kmTo}까지 약 <i className="rm-km num" data-v={routeLen(r)}>{routeLen(r).toLocaleString('ko-KR')}</i>km · {r.note}</span>
+                  <span>{r.kmTo}까지 차로 약 <i className="rm-km num" data-v={routeLen(r)}>{routeLen(r).toLocaleString('ko-KR')}</i>km · {r.note}</span>
                 </li>
               ))}
             </ul>
@@ -62,7 +66,7 @@ export function RoadMap() {
               <Ph s="wave-rock-4" alt="웨이브락 파도 모양 화강암" className="rm-ph" sizes="30vw" />
               <Ph s="margaret-river-5" alt="캐널록스 바위 사이 파도" className="rm-ph" sizes="30vw" />
             </div>
-            <p className="src">퍼스에서의 거리: 위키백과 Monkey Mia·Margaret River·Wave Rock 문서 · 지도는 실제 좌표를 단순화한 그림</p>
+            <p className="src">지도: Natural Earth 해안선 · 경로·거리: 실제 도로 주행 경로(OSRM, © OpenStreetMap contributors) · 로트네스트는 프리맨틀에서 배</p>
           </div>
         </div>
       </div>
