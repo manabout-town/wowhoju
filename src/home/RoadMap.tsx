@@ -1,5 +1,6 @@
 import { useRef } from 'react';
 import { useScrub } from '../lib/scrub';
+import { keep } from '../data/copy';
 import { Lines, Sents } from '../components/Lines';
 import { Ph } from '../components/Ph';
 import { PLACES, ROUTES, routeLen } from './places';
@@ -56,7 +57,7 @@ export function RoadMap() {
             <ul className="rm-list">
               {ROUTES.map((r) => (
                 <li key={r.id} className={`rm-li rm-li--${r.tone}`}>
-                  <b>{r.label}</b>
+                  <b>{r.label} <small>{keep(r.stops)}</small></b>
                   <span>{r.kmTo}까지 차로 약 <i className="rm-km num" data-v={routeLen(r)}>{routeLen(r).toLocaleString('ko-KR')}</i>km · {r.note}</span>
                 </li>
               ))}

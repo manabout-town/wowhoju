@@ -18,8 +18,8 @@ export const PLACES: Place[] = [
 
 // 거리 = 실제 주행 경로 길이(OSRM, © OpenStreetMap contributors) — 퍼스에서 마지막 지점까지 차로
 export const ROUTES = [
-  { id: 'north', tone: 'coral', label: '북쪽 — 피너클스·핑크호수·칼바리·멍키마이어', kmTo: '멍키마이어', km: ROAD.north.km, note: '사막·핑크호수·협곡' },
-  { id: 'south', tone: 'blue', label: '남쪽 — 마가렛리버·알바니', kmTo: '알바니', km: ROAD.south.km, note: '와이너리·해안 절벽' },
-  { id: 'east', tone: 'gold', label: '동쪽 — 웨이브락', kmTo: '웨이브락', km: ROAD.east.km, note: '파도 모양 화강암' },
+  { id: 'north', tone: 'coral', label: '북쪽', stops: '피너클스·핑크호수·칼바리·멍키마이어', kmTo: '멍키마이어', km: ROAD.north.km, note: '사막·핑크호수·협곡' },
+  { id: 'south', tone: 'blue', label: '남쪽', stops: '마가렛리버·알바니', kmTo: '알바니', km: ROAD.south.km, note: '와이너리·해안 절벽' },
+  { id: 'east', tone: 'gold', label: '동쪽', stops: '웨이브락', kmTo: '웨이브락', km: ROAD.east.km, note: '파도 모양 화강암' },
 ] as const;
 export const routeLen = (r: (typeof ROUTES)[number]) => r.km;

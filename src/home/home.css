@@ -291,3 +291,4 @@
 .ga .po-list b { font-size: 15px; font-weight: 600; }
 .ga .po-list a:hover b { color: var(--point); }
 .ga .po-list span { flex: none; font-size: 13px; color: var(--t3); }
+.rm-li b small { font-size: 0.86em; font-weight: 700; color: var(--t1); }
