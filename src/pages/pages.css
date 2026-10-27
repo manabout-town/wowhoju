@@ -158,7 +158,10 @@
 .fq-g + .fq-g { margin-top: 32px; }
 .fq-g h3 { margin-bottom: 8px; color: var(--point); }
 .fq { box-shadow: inset 0 -1px 0 var(--line); }
-.fq summary { padding: 14px 0; font-size: 16px; font-weight: 700; cursor: pointer; }
+.fq summary { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 12px; align-items: baseline; padding: 14px 0; font-size: 16px; font-weight: 700; cursor: pointer; list-style: none; }
+.fq summary::-webkit-details-marker { display: none; }
+.fq summary::after { content: '+'; color: var(--point); }
+.fq[open] summary::after { content: '−'; }
 .fq p { padding: 0 0 16px; font-size: 15px; line-height: 1.75; color: var(--t2); }
 .fq--doc { margin-top: 12px; }
 .fq-doc { max-height: 60svh; overflow: auto; margin: 0 0 18px; }

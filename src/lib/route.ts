@@ -16,7 +16,11 @@ export function useRoute() {
     const on = () => {
       const next = parseHash(location.hash);
       setR((prev) => {
-        if (next.page !== prev.page || next.parts.join('/') !== prev.parts.join('/')) scrollTo(0, 0);
+        if (next.page !== prev.page || next.parts.join('/') !== prev.parts.join('/')) {
+          // 관성 스크롤(lenis)이 이전 위치를 붙잡지 않게 같이 맨 위로
+          (window as unknown as { __lenis?: { scrollTo: (y: number, o: object) => void } }).__lenis?.scrollTo(0, { immediate: true, force: true });
+          scrollTo(0, 0);
+        }
         return next;
       });
     };

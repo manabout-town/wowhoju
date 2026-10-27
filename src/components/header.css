@@ -1,6 +1,6 @@
-.hd { position: fixed; inset: 0 0 auto; z-index: 50; height: var(--header-h); transform: translateY(-110%); transition: transform 480ms var(--ease-expo); pointer-events: none; }
+.hd { position: absolute; inset: 0 0 auto; z-index: 50; height: var(--header-h); pointer-events: none; }
+.hd.is-menu { position: fixed; }
 .hd::before { content: ''; position: absolute; inset: 0 0 -36px; background: linear-gradient(180deg, rgba(28, 22, 20, 0.6), rgba(28, 22, 20, 0)); pointer-events: none; }
-.hd.is-on { transform: none; }
 .hd__in { position: relative; height: 100%; display: flex; align-items: center; gap: 14px; pointer-events: auto; }
 .hd__mark { display: block; flex: none; }
 .hd__mark img { width: 150px; height: auto; filter: drop-shadow(0 1px 10px rgba(0, 0, 0, 0.45)); }
@@ -16,6 +16,5 @@
 .hd__menu-c a { font-weight: 700; color: var(--point); text-underline-offset: 4px; }
 @media (max-width: 1020px) { .hd__nav { display: none; } .hd__burger { display: block; } .hd__talk { margin-left: auto; } .hd__burger { margin-left: 0; } }
 @media (max-width: 380px) { .hd__mark img { width: 120px; } .hd__in { gap: 4px; } }
-.hd:focus-within { transform: none; }
 .skip { position: fixed; left: 12px; top: -60px; z-index: 300; padding: 8px 0; font-weight: 700; color: var(--point); }
 .skip:focus { top: 12px; }

@@ -43,7 +43,7 @@ export default function App() {
     <>
       <SceneBg page={key} />
       {home && <Intro video="/video/lancelin.mp4" poster="/video/lancelin.jpg" lines={[[say('painting').split(',')[0] + ','], ['잊지 못할 서호주 여행']]} word="와우호주" logo="/logo/logo-ko.png" storageKey="wowhoju-intro" />}
-      <Header home={home} />
+      <Header />
       <main id="main" tabIndex={-1} key={key}>
         {home && (
           <>

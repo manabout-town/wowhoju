@@ -125,10 +125,7 @@ export function HelpPage() {
               <li><a href={`mailto:${facts.email.value}`}><b>{facts.email.value}</b><span>이메일</span></a></li>
             </ul>
           </div>
-          <form className="tl-form" role="search" onSubmit={(e) => { e.preventDefault(); const q = new FormData(e.currentTarget).get('q'); location.hash = `#/tours?q=${encodeURIComponent(String(q ?? ''))}`; }}>
-            <label className="fl fl--wide"><span>투어 찾기</span><input name="q" type="search" placeholder="피너클스, 로트네스트…" /></label>
-            <p className="mf-acts"><button type="submit">검색</button></p>
-          </form>
+          <div className="pg-photos"><Ph s="img-1478-1" alt="피너클스 은하수 아래 손님들" /></div>
         </div>
       </section>
       <section id="faq" className="sec pg" data-bg="sunbush">
@@ -137,7 +134,7 @@ export function HelpPage() {
           {groups.map((g) => (
             <div key={g} className="fq-g">
               <h3>{g}</h3>
-              {faq.filter((f) => f.section === g).map((f) => <details key={f.q} className="fq"><summary><Sents s={f.q.replace(/\s+\?/g, '?')} /></summary><p><Sents s={f.a.split('\n').filter(Boolean)} /></p></details>)}
+              {faq.filter((f) => f.section === g).map((f) => <details key={f.q} className="fq"><summary><span><Sents s={f.q.replace(/\s+\?/g, '?')} /></span></summary><p><Sents s={f.a.split('\n').filter(Boolean)} /></p></details>)}
             </div>
           ))}
           <p className="src">출처: <a href={help.faqUrl} target="_blank" rel="noreferrer">와우호주 FAQ</a></p>

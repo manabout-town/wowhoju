@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react';
-import { usePastHero } from '../lib/usePastHero';
 import { facts } from '../data/facts';
 import './header.css';
 
@@ -9,28 +8,19 @@ export const NAV: [string, string][] = [
   ['맞춤투어', '#/custom'], ['여행정보', '#/info'], ['고객센터', '#/help'],
 ];
 
-// 투명 헤더: 바탕 없이 글자만. 홈에선 히어로를 지난 뒤 올릴 때만, 다른 페이지에선 내릴 때 숨고 올릴 때 나타남.
-export function Header({ home }: { home: boolean }) {
-  const past = usePastHero();
-  const [up, setUp] = useState(true);
+// 투명 헤더: 바탕 없이 글자만. 화면에 고정하지 않고 페이지 맨 위에만 둠(유저 2026-10-28) — 스크롤하면 같이 올라감.
+export function Header() {
   const [menu, setMenu] = useState(false);
-  useEffect(() => {
-    let last = scrollY;
-    const on = () => { const y = scrollY; if (Math.abs(y - last) > 6) { setUp(y < last || y < 80); last = y; } };
-    addEventListener('scroll', on, { passive: true });
-    return () => removeEventListener('scroll', on);
-  }, []);
   useEffect(() => {
     const close = () => setMenu(false);
     addEventListener('hashchange', close);
     return () => removeEventListener('hashchange', close);
   }, []);
   useEffect(() => { document.documentElement.style.overflow = menu ? 'hidden' : ''; }, [menu]);
-  const show = menu || ((home ? past : true) && up);
   return (
     <>
     <a className="skip" href="#main" onClick={(e) => { e.preventDefault(); document.getElementById('main')?.focus(); }}>본문 바로가기</a>
-    <header className={`hd${show ? ' is-on' : ''}${menu ? ' is-menu' : ''}`}>
+    <header className={`hd${menu ? ' is-menu' : ''}`}>
       <div className="hd__in wrap">
         <a className="hd__mark" href="#/" aria-label="와우호주 홈"><img src="/logo/logo-ko-white.png" alt="와우호주" width="173" height="23" /></a>
         <nav className="hd__nav" aria-label="메인 메뉴">
