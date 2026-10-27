@@ -1,0 +1,151 @@
+{
+ "fetched": "2026-10-27",
+ "tradingName": {
+  "value": "와우호주 / 와우호주투어 / WoW Hoju (Tour)",
+  "sources": [
+   "https://wowhoju.com.au/",
+   "https://wowhoju.com.au/about-us/"
+  ]
+ },
+ "legalEntity": {
+  "value": "MADANG GROUP PTY LTD (Australian Private Company)",
+  "abn": "14 606 553 333",
+  "acn": "606 553 333",
+  "abnActiveFrom": "2015-06-19",
+  "gstRegisteredFrom": "2024-07-01",
+  "mainBusinessLocation": "WA 6147",
+  "registeredBusinessNames": [
+   {
+    "name": "HOJUMADANG",
+    "from": "2016-05-26"
+   },
+   {
+    "name": "WoW Hoju",
+    "from": "2022-06-07"
+   },
+   {
+    "name": "Beyond Perth",
+    "from": "2025-07-11"
+   },
+   {
+    "name": "EduQuest Australia",
+    "from": "2026-09-15"
+   }
+  ],
+  "siteFooter": "WOW HOJU / ACN 606 553 333 / ABN: 14606553333",
+  "sources": [
+   "https://abr.business.gov.au/ABN/View?abn=14606553333",
+   "https://wowhoju.com.au/"
+  ]
+ },
+ "parentCommunity": {
+  "value": "About Us 원문: \"호주의 한인들을 위한 온라인 한인커뮤니티, <호주마당(www.hojumadang.com)>에서 운영합니다.\"",
+  "source": "https://wowhoju.com.au/about-us/"
+ },
+ "location": {
+  "city": "Perth, Western Australia (서호주 퍼스)",
+  "officeAddress": "확인 못 함 (사이트에 사무실 주소 없음. ABN 주 사업장 우편번호 WA 6147만 공개)",
+  "meetingPoints": [
+   "290 Wellington St, Perth WA 6000 (Australian Red Cross Lifeblood 앞 버스 정류장) — 칼바리·마가렛리버 상품",
+   "490 Wellington St. Perth (퍼스 시티 기차역 앞 버스 정류장) — 피너클스 선셋&별빛투어 본문",
+   "프리맨틀 B-Shed 터미널 — 로트네스트 상품"
+  ],
+  "sources": [
+   "https://wowhoju.com.au/tour/2%eb%b0%95-3%ec%9d%bc-%ec%b9%bc%eb%b0%94%eb%a6%ac-%ed%88%ac%ec%96%b4-%ed%95%91%ed%81%ac%ed%98%b8%ec%88%98-%ed%94%bc%eb%84%88%ed%81%b4%ec%8a%a4/",
+   "https://wowhoju.com.au/tour/pinnaclestargazing-%ed%94%bc%eb%84%88%ed%81%b4%ec%8a%a4-%ec%84%a0%ec%85%8b-%eb%b3%84%eb%b9%9b%ed%88%ac%ec%96%b4/",
+   "https://abr.business.gov.au/ABN/View?abn=14606553333"
+  ]
+ },
+ "contact": {
+  "phone": "+61 (0)416 471 983",
+  "email": "info@wowhoju.com.au",
+  "kakaoChannel": {
+   "name": "와우호주투어",
+   "url": "https://pf.kakao.com/_rxfkLC",
+   "chat": "https://pf.kakao.com/_rxfkLC/chat"
+  },
+  "hours": "월요일-토요일 09:00~18:00 (퍼스 시간), 일요일 및 공휴일 휴무",
+  "openChat": "확인 못 함 (사이트에 오픈채팅 링크 없음)",
+  "bank": "Westpac / Account Name: WoW Hoju (사이트 푸터 공개 — 새 사이트에 그대로 옮길지는 업체 확인 필요)",
+  "source": "https://wowhoju.com.au/"
+ },
+ "operatorIntro": {
+  "quotes": [
+   "\"'와우 호주 투어'는 서호주 퍼스 지역을 중심으로 호주의 다양하고 특별한 여행상품을 기획하고 운영하고 있는 현지 여행사입니다.\"",
+   "\"호주에 20년 가까이 거주하며 쌓아온 경험과 노하우를 통해 호주의 라이프 스타일과 여행지를 소개해 드리고 있으며…\"",
+   "\"퍼스를 잘 아는 현지에 살고 있는 한국인 가이드가 서호주의 숨은 여행지로 안내합니다.\""
+  ],
+  "ownerName": "확인 못 함 (사이트 원문에 대표자 이름 없음)",
+  "guideNamesInReviews": [
+   "Nicki (마이리얼트립 후기 2026-08-12)",
+   "Uni가이드 (마이리얼트립 대표 후기 2026-01-24)"
+  ],
+  "source": "https://wowhoju.com.au/about-us/"
+ },
+ "operatingHistory": {
+  "evidence": [
+   "ABN 활성 2015-06-19 (법인 MADANG GROUP PTY LTD)",
+   "상호 WoW Hoju 등록 2022-06-07 (ABR)",
+   "WordPress 최초 페이지 2016년, 투어 상품 글 2015-10~ (wp-json)",
+   "유튜브 가입일 2018-08-04",
+   "마이리얼트립 \"MRT 파트너 기간 7년\" 표기",
+   "사이트 자체 주장: \"호주에 20년 가까이 거주\"(운영 기간이 아니라 거주 기간)",
+   "2025-08-30 블로그: 2020년 블로그 중단, \"2022년 … 와우호주는 다시 투어를 시작했습니다\""
+  ],
+  "sources": [
+   "https://abr.business.gov.au/ABN/View?abn=14606553333",
+   "https://wowhoju.com.au/wp-json/wp/v2/pages?per_page=100",
+   "https://www.youtube.com/channel/UC66tLCGUrGn2o4KvMUHeOQg",
+   "https://www.myrealtrip.com/guides/10541",
+   "https://wowhoju.com.au/about-us/",
+   "https://wowhoju.com.au/perth-roadtrip-seo-optimized-%ec%84%9c%ed%98%b8%ec%a3%bc-%ec%97%ac%ed%96%89/"
+  ]
+ },
+ "sns": {
+  "instagram": {
+   "url": "https://www.instagram.com/wowhoju/",
+   "title": "와우호주 | NO 1 퍼스한인여행사 (@wowhoju)",
+   "followers": 5524,
+   "following": 2348,
+   "posts": 903,
+   "asOf": "2026-10-27 (og:description)"
+  },
+  "youtube": {
+   "url": "https://www.youtube.com/channel/UC66tLCGUrGn2o4KvMUHeOQg",
+   "handle": "@wowhoju (블로그 글 표기)",
+   "subscribers": 111,
+   "totalViews": 18852,
+   "videos": "15 (채널 정보 표기)",
+   "joined": "2018-08-04",
+   "latestUpload": "2025-08-28"
+  },
+  "kakaoChannel": "https://pf.kakao.com/_rxfkLC",
+  "naverBlog": "확인 못 함 (사이트·유튜브·블로그 글 어디에도 네이버 블로그 링크 없음. 사전 분석의 \"2025-08 이후 멈춤\" 블로그 ID는 이번에 재확인 못 함)",
+  "naverCafe": "확인 못 함",
+  "threads": "확인 못 함",
+  "facebook": "사이트 푸터에 fa-facebook 아이콘 있으나 URL 확인 못 함",
+  "siteBlog": {
+   "url": "https://wowhoju.com.au/blog/",
+   "posts": 173,
+   "latest": "2025-08-30"
+  },
+  "marketplaces": [
+   {
+    "name": "마이리얼트립",
+    "url": "https://www.myrealtrip.com/guides/10541",
+    "rating": "5.0",
+    "reviews": "97 (5점 96.9%·4점 3.1%, 2026-10-27 조회. 같은 날 검색 스니펫은 94)",
+    "partnerYears": 7
+   }
+  ]
+ },
+ "googleBusiness": {
+  "rating": "확인 못 함",
+  "reviews": "확인 못 함",
+  "note": "구글 지도는 로그인·JS 필요로 curl 조회 불가"
+ },
+ "accreditation": {
+  "value": "사이트 푸터에 QTAB Shield 이미지(wp-content/uploads/2019/11/QTAB-Shield.png) 게시 — Quality Tourism 인증 여부는 인증기관에서 확인 못 함",
+  "source": "https://wowhoju.com.au/"
+ }
+}

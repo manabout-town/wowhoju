@@ -1,0 +1,118 @@
+{
+ "facts": [
+  {
+   "claim": "법인 MADANG GROUP PTY LTD, ABN 14 606 553 333, 2015-06-19부터 활성",
+   "type": "공식 기록",
+   "url": "https://abr.business.gov.au/ABN/View?abn=14606553333"
+  },
+  {
+   "claim": "상호 \"WoW Hoju\" 2022-06-07 등록, \"HOJUMADANG\" 2016-05-26 등록",
+   "type": "공식 기록",
+   "url": "https://abr.business.gov.au/ABN/View?abn=14606553333"
+  },
+  {
+   "claim": "GST 등록 2024-07-01",
+   "type": "공식 기록",
+   "url": "https://abr.business.gov.au/ABN/View?abn=14606553333"
+  },
+  {
+   "claim": "마이리얼트립 평점 5.0 · 후기 97건 · MRT 파트너 7년",
+   "type": "제3자 플랫폼",
+   "url": "https://www.myrealtrip.com/guides/10541"
+  },
+  {
+   "claim": "인스타그램 팔로워 5,524 · 게시물 903 (2026-10-27)",
+   "type": "플랫폼 수치",
+   "url": "https://www.instagram.com/wowhoju/"
+  },
+  {
+   "claim": "유튜브 구독자 111 · 총조회 18,852 · 가입 2018-08-04",
+   "type": "플랫폼 수치",
+   "url": "https://www.youtube.com/channel/UC66tLCGUrGn2o4KvMUHeOQg"
+  },
+  {
+   "claim": "사이트 투어 상품 38건 등록(wp-json), 홈 노출 12건",
+   "type": "사이트 데이터",
+   "url": "https://wowhoju.com.au/wp-json/wp/v2/tour?per_page=100"
+  },
+  {
+   "claim": "사이트 블로그 글 173편, 최신 2025-08-30",
+   "type": "사이트 데이터",
+   "url": "https://wowhoju.com.au/wp-json/wp/v2/posts"
+  },
+  {
+   "claim": "\"호주에 20년 가까이 거주하며 쌓아온 경험과 노하우\" — 업체 주장(거주 기간)",
+   "type": "업체 주장(인용만)",
+   "url": "https://wowhoju.com.au/about-us/"
+  },
+  {
+   "claim": "\"2022년 … 와우호주는 다시 투어를 시작했습니다\" (코로나 중단 후 재개) — 업체 주장",
+   "type": "업체 주장(인용만)",
+   "url": "https://wowhoju.com.au/perth-roadtrip-seo-optimized-%ec%84%9c%ed%98%b8%ec%a3%bc-%ec%97%ac%ed%96%89/"
+  },
+  {
+   "claim": "피너클스 선셋&별빛: 최소 출발 5명, 12인승 미니밴 또는 22인승, 1~3인 단독 출발 불가",
+   "type": "상품 조건",
+   "url": "https://wowhoju.com.au/tour/pinnaclestargazing-%ed%94%bc%eb%84%88%ed%81%b4%ec%8a%a4-%ec%84%a0%ec%85%8b-%eb%b3%84%eb%b9%9b%ed%88%ac%ec%96%b4/"
+  },
+  {
+   "claim": "칼바리 2박 3일: 최소 출발 6명, 1,300km 왕복, 숙소 3.5성급 이상 빌라·리조트",
+   "type": "상품 조건(업체 기재)",
+   "url": "https://wowhoju.com.au/tour/2%eb%b0%95-3%ec%9d%bc-%ec%b9%bc%eb%b0%94%eb%a6%ac-%ed%88%ac%ec%96%b4-%ed%95%91%ed%81%ac%ed%98%b8%ec%88%98-%ed%94%bc%eb%84%88%ed%81%b4%ec%8a%a4/"
+  },
+  {
+   "claim": "피너클스 출발 요일: 사이트 = 화요일·토요일 / 인스타 표지 = 월·토 (10-26 사전 분석, 인스타 URL 이번에 재확인 못 함)",
+   "type": "불일치",
+   "url": "https://wowhoju.com.au/tour/pinnaclestargazing-%ed%94%bc%eb%84%88%ed%81%b4%ec%8a%a4-%ec%84%a0%ec%85%8b-%eb%b3%84%eb%b9%9b%ed%88%ac%ec%96%b4/"
+  },
+  {
+   "claim": "사이트 푸터 QTAB Shield 로고 게시(인증 유효 여부 확인 못 함)",
+   "type": "미확인",
+   "url": "https://wowhoju.com.au/"
+  }
+ ],
+ "doNotUse": [
+  {
+   "claim": "\"NO 1 퍼스한인여행사\"",
+   "where": "인스타 프로필 이름",
+   "url": "https://www.instagram.com/wowhoju/",
+   "why": "근거 없음"
+  },
+  {
+   "claim": "\"서호주 No.1 한인 여행사\"",
+   "where": "유튜브 채널 설명",
+   "url": "https://www.youtube.com/channel/UC66tLCGUrGn2o4KvMUHeOQg",
+   "why": "근거 없음"
+  },
+  {
+   "claim": "\"퍼스를 가장 잘 아는 퍼스 현지여행사\"",
+   "where": "About Us",
+   "url": "https://wowhoju.com.au/about-us/",
+   "why": "최상급 주장, 검증 불가"
+  },
+  {
+   "claim": "\"가장 핫한 인기투어\"",
+   "where": "홈 상품 라벨",
+   "url": "https://wowhoju.com.au/",
+   "why": "판매 순위 근거 없음"
+  },
+  {
+   "claim": "\"전세계에서 7군데 밖에 없다는 … 핑크호수\"",
+   "where": "칼바리 상품",
+   "url": "https://wowhoju.com.au/tour/2%eb%b0%95-3%ec%9d%bc-%ec%b9%bc%eb%b0%94%eb%a6%ac-%ed%88%ac%ec%96%b4-%ed%95%91%ed%81%ac%ed%98%b8%ec%88%98-%ed%94%bc%eb%84%88%ed%81%b4%ec%8a%a4/",
+   "why": "출처 없는 통계"
+  },
+  {
+   "claim": "\"호주 와인중에서 25%이상의 프리미엄 와인이 이 마가렛리버에서 생산\"",
+   "where": "2022-11-16 블로그",
+   "url": "https://wowhoju.com.au/blog/",
+   "why": "출처 없는 통계"
+  },
+  {
+   "claim": "투어 횟수·누적 손님 수·수상 이력",
+   "where": "—",
+   "url": null,
+   "why": "사이트·SNS 어디에도 숫자 없음 — 확인 못 함"
+  }
+ ]
+}

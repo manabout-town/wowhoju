@@ -1,0 +1,9 @@
+node_modules
+dist
+assets-raw
+.vercel
+research/video
+research/photos
+research/gallery
+research/tour-img
+.DS_Store

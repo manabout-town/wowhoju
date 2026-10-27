@@ -1,0 +1,206 @@
+{
+ "source": "https://wowhoju.com.au/wp-json/wp/v2/posts?per_page=20",
+ "fetched": "2026-10-27",
+ "totalPosts": 173,
+ "posts": [
+  {
+   "date": "2025-08-30",
+   "title": "다시 걷는 서호주, 멈췄던 이야기의 새로운 시작",
+   "url": "https://wowhoju.com.au/perth-roadtrip-seo-optimized-%ec%84%9c%ed%98%b8%ec%a3%bc-%ec%97%ac%ed%96%89/",
+   "categories": [
+    "와우호주 소식"
+   ],
+   "featuredImage": "https://wowhoju.com.au/wp-content/uploads/2025/08/wowhoju-1.png"
+  },
+  {
+   "date": "2022-11-16",
+   "title": "퍼스여행 왔다면 꼭 가봐야할 여행지, 마가렛리버",
+   "url": "https://wowhoju.com.au/%ed%8d%bc%ec%8a%a4%ec%97%ac%ed%96%89-%ec%99%94%eb%8b%a4%eb%a9%b4-%ea%bc%ad-%ea%b0%80%eb%b4%90%ec%95%bc%ed%95%a0-%ec%97%ac%ed%96%89%ec%a7%80-%eb%a7%88%ea%b0%80%eb%a0%9b%eb%a6%ac%eb%b2%84/",
+   "categories": [
+    "마가렛리버"
+   ],
+   "featuredImage": "https://wowhoju.com.au/wp-content/uploads/2018/09/Swings-roundabouts.jpg"
+  },
+  {
+   "date": "2022-08-02",
+   "title": "바람불고 비오는 날에도 즐거웠던 피너클스 사막투어",
+   "url": "https://wowhoju.com.au/%eb%b0%94%eb%9e%8c%eb%b6%88%ea%b3%a0-%eb%b9%84%ec%98%a4%eb%8a%94-%eb%82%a0%ec%97%90%eb%8f%84-%ec%a6%90%ea%b1%b0%ec%9b%a0%eb%8d%98-%ed%94%bc%eb%84%88%ed%81%b4%ec%8a%a4-%ec%82%ac%eb%a7%89%ed%88%ac/",
+   "categories": [
+    "피나클스"
+   ],
+   "featuredImage": "https://wowhoju.com.au/wp-content/uploads/2022/11/Pinnacles.jpg"
+  },
+  {
+   "date": "2020-03-11",
+   "title": "[퍼스정보] 코테슬로 비치 조각 전시회 2020년 3월 6~23일(Sculpture by the Sea, Cottesloe Beach)",
+   "url": "https://wowhoju.com.au/%ed%8d%bc%ec%8a%a4%ec%a0%95%eb%b3%b4-%ec%bd%94%ed%85%8c%ec%8a%ac%eb%a1%9c-%eb%b9%84%ec%b9%98-%ec%a1%b0%ea%b0%81-%ec%a0%84%ec%8b%9c%ed%9a%8c-2020%eb%85%84-3%ec%9b%94-623%ec%9d%bcsculpture-by-the-se/",
+   "categories": [
+    "뉴스",
+    "여행 정보"
+   ],
+   "featuredImage": "https://wowhoju.com.au/wp-content/uploads/2020/03/cotteslow1.png"
+  },
+  {
+   "date": "2020-03-09",
+   "title": "[호주정보] 호주 달러 지폐, 동전 살펴보기",
+   "url": "https://wowhoju.com.au/%ed%98%b8%ec%a3%bc%ec%a0%95%eb%b3%b4-%ed%98%b8%ec%a3%bc-%eb%8b%ac%eb%9f%ac-%ec%a7%80%ed%8f%90-%eb%8f%99%ec%a0%84-%ec%82%b4%ed%8e%b4%eb%b3%b4%ea%b8%b0/",
+   "categories": [
+    "뉴스",
+    "여행 정보"
+   ],
+   "featuredImage": "https://wowhoju.com.au/wp-content/uploads/2020/03/aus_note_1.png"
+  },
+  {
+   "date": "2020-03-04",
+   "title": "[호주정보] 호주 직장인st 점심식사 – 울워스 간편식",
+   "url": "https://wowhoju.com.au/%ed%98%b8%ec%a3%bc%ec%a0%95%eb%b3%b4-%ed%98%b8%ec%a3%bc-%ec%a7%81%ec%9e%a5%ec%9d%b8st-%ec%a0%90%ec%8b%ac%ec%8b%9d%ec%82%ac-%ec%9a%b8%ec%9b%8c%ec%8a%a4-%ea%b0%84%ed%8e%b8%ec%8b%9d/",
+   "categories": [
+    "뉴스",
+    "여행 정보"
+   ],
+   "featuredImage": "https://wowhoju.com.au/wp-content/uploads/2020/03/Lunch_workers.png"
+  },
+  {
+   "date": "2020-02-19",
+   "title": "[퍼스정보] 트레인 이용하기 #2-알아두면 도움되는 팁 대방출",
+   "url": "https://wowhoju.com.au/%ed%8d%bc%ec%8a%a4%ec%a0%95%eb%b3%b4-%ed%8a%b8%eb%a0%88%ec%9d%b8-%ec%9d%b4%ec%9a%a9%ed%95%98%ea%b8%b0-%ec%95%8c%ec%95%84%eb%91%90%eb%a9%b4-%eb%8f%84%ec%9b%80%eb%90%98%eb%8a%94-%ed%8c%81-%eb%8c%80/",
+   "categories": [
+    "뉴스",
+    "여행 정보"
+   ],
+   "featuredImage": "https://wowhoju.com.au/wp-content/uploads/2020/02/train_tip_2.png"
+  },
+  {
+   "date": "2020-02-14",
+   "title": "[퍼스정보] 트레인 이용하기 #1-일회용 티켓 구매 방법",
+   "url": "https://wowhoju.com.au/%ed%8d%bc%ec%8a%a4%ec%a0%95%eb%b3%b4-%ed%8a%b8%eb%a0%88%ec%9d%b8-%ec%9d%b4%ec%9a%a9%ed%95%98%ea%b8%b0-%ec%9d%bc%ed%9a%8c%ec%9a%a9-%ed%8b%b0%ec%bc%93-%ea%b5%ac%eb%a7%a4-%eb%b0%a9%eb%b2%95/",
+   "categories": [
+    "뉴스",
+    "여행 정보"
+   ],
+   "featuredImage": "https://wowhoju.com.au/wp-content/uploads/2020/02/train_tip_1.png"
+  },
+  {
+   "date": "2020-02-10",
+   "title": "[퍼스정보] 호주에 여행오기 전 미리 깔아두면 좋은 어플 추천",
+   "url": "https://wowhoju.com.au/%ed%8d%bc%ec%8a%a4%ec%a0%95%eb%b3%b4-%ed%98%b8%ec%a3%bc%ec%97%90-%ec%97%ac%ed%96%89%ec%98%a4%ea%b8%b0-%ec%a0%84-%eb%af%b8%eb%a6%ac-%ea%b9%94%ec%95%84%eb%91%90%eb%a9%b4-%ec%a2%8b%ec%9d%80-%ec%96%b4/",
+   "categories": [
+    "뉴스",
+    "여행 정보"
+   ],
+   "featuredImage": "https://wowhoju.com.au/wp-content/uploads/2020/02/best_app_perth.png"
+  },
+  {
+   "date": "2020-02-10",
+   "title": "[퍼스정보] 차가 없어도 대중교통타고 즐길 수 있는 퍼스 이벤트!",
+   "url": "https://wowhoju.com.au/%ed%8d%bc%ec%8a%a4%ec%a0%95%eb%b3%b4-%ec%b0%a8%ea%b0%80-%ec%97%86%ec%96%b4%eb%8f%84-%eb%8c%80%ec%a4%91%ea%b5%90%ed%86%b5%ed%83%80%ea%b3%a0-%ec%a6%90%ea%b8%b8-%ec%88%98-%ec%9e%88%eb%8a%94-%ed%8d%bc/",
+   "categories": [
+    "뉴스",
+    "서호주 행사"
+   ],
+   "featuredImage": "https://wowhoju.com.au/wp-content/uploads/2020/02/carless_perth_event.png"
+  },
+  {
+   "date": "2020-01-30",
+   "title": "[퍼스정보] 서호주 은하수 별빛 명소 Best 6",
+   "url": "https://wowhoju.com.au/starlight_place6/",
+   "categories": [
+    "뉴스",
+    "피나클스"
+   ],
+   "featuredImage": "https://wowhoju.com.au/wp-content/uploads/2020/01/starlight_place_1.png"
+  },
+  {
+   "date": "2020-01-30",
+   "title": "[퍼스정보] 로트네스트에 음식점이 없다구요 ?! 답을 알려드립니다.",
+   "url": "https://wowhoju.com.au/rottnest_restaurant/",
+   "categories": [
+    "뉴스",
+    "로트네스트",
+    "서호주 맛집"
+   ],
+   "featuredImage": "https://wowhoju.com.au/wp-content/uploads/2020/01/rottnest_restaurant.png"
+  },
+  {
+   "date": "2020-01-23",
+   "title": "[여행후기] 와우호주투어와 함께한 아이언맨 자전거 동호회분들의 서호주 퍼스 여행 후기",
+   "url": "https://wowhoju.com.au/ironman_review/",
+   "categories": [
+    "뉴스",
+    "마가렛리버",
+    "서호주 행사"
+   ],
+   "featuredImage": "https://wowhoju.com.au/wp-content/uploads/2020/01/iron_man_tour.png"
+  },
+  {
+   "date": "2020-01-21",
+   "title": "[퍼스여행] 서호주 여행지 BEST 7 – 로드트립으로 떠나는 서호주 베스트 여행지 7곳 !",
+   "url": "https://wowhoju.com.au/wa_best_7/",
+   "categories": [
+    "뉴스",
+    "여행 정보"
+   ],
+   "featuredImage": "https://wowhoju.com.au/wp-content/uploads/2020/01/best_roadtrip_1.png"
+  },
+  {
+   "date": "2020-01-20",
+   "title": "[퍼스맛집] 퍼스 호텔 뷔페 중 가장 가성비 있는 곳, 크라운퍼스의 에피큐리언",
+   "url": "https://wowhoju.com.au/epicurrean/",
+   "categories": [
+    "뉴스",
+    "서호주 맛집"
+   ],
+   "featuredImage": "https://wowhoju.com.au/wp-content/uploads/2020/01/epiqurien.png"
+  },
+  {
+   "date": "2020-01-20",
+   "title": "[퍼스정보] 무어리버(Moore river), 인도양과 강 하구의 접점지대",
+   "url": "https://wowhoju.com.au/mooreriver-2/",
+   "categories": [
+    "뉴스",
+    "피나클스"
+   ],
+   "featuredImage": "https://wowhoju.com.au/wp-content/uploads/2020/01/moore_river.png"
+  },
+  {
+   "date": "2020-01-14",
+   "title": "[퍼스정보] 러셀스퀘어에서 이뤄지는 프린지 월드(Fringe World) !",
+   "url": "https://wowhoju.com.au/fringe-world/",
+   "categories": [
+    "뉴스",
+    "서호주 행사"
+   ],
+   "featuredImage": "https://wowhoju.com.au/wp-content/uploads/2020/01/fringe_world_1.png"
+  },
+  {
+   "date": "2020-01-14",
+   "title": "[퍼스정보] 퍼스 시티 한국마트 위치",
+   "url": "https://wowhoju.com.au/perth_korean_mart/",
+   "categories": [
+    "뉴스",
+    "여행 정보"
+   ],
+   "featuredImage": "https://wowhoju.com.au/wp-content/uploads/2020/01/perth_city_korean_mart_1.png"
+  },
+  {
+   "date": "2020-01-13",
+   "title": "[호주정보] 서호주 퍼스에서 전복따기 – 생생후기",
+   "url": "https://wowhoju.com.au/abalone_review/",
+   "categories": [
+    "뉴스",
+    "여행 정보"
+   ],
+   "featuredImage": "https://wowhoju.com.au/wp-content/uploads/2020/01/abalone_1.png"
+  },
+  {
+   "date": "2020-01-13",
+   "title": "[퍼스여행] 서호주 남부에 위치한 도시, 알바니(Albany)",
+   "url": "https://wowhoju.com.au/albany/",
+   "categories": [
+    "뉴스",
+    "앨버니"
+   ],
+   "featuredImage": "https://wowhoju.com.au/wp-content/uploads/2020/01/albany_title.png"
+  }
+ ]
+}

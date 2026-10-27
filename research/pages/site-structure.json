@@ -1,0 +1,222 @@
+{
+ "fetched": "2026-10-27",
+ "source": "https://wowhoju.com.au/ (PC·모바일 UA 동일 HTML)",
+ "topBar": {
+  "phone": "+61 416 471 983",
+  "email": "info@wowhoju.com.au",
+  "kakao": {
+   "label": "카톡상담: 와우호주투어",
+   "url": "https://pf.kakao.com/_rxfkLC/chat"
+  },
+  "social": [
+   {
+    "youtube": "https://www.youtube.com/channel/UC66tLCGUrGn2o4KvMUHeOQg/videos"
+   },
+   {
+    "instagram": "https://www.instagram.com/wowhoju/"
+   }
+  ]
+ },
+ "mainMenu": [
+  {
+   "label": "Home",
+   "url": "https://wowhoju.com.au/"
+  },
+  {
+   "label": "일일투어",
+   "url": "https://wowhoju.com.au/tour-category/full-day-tour/"
+  },
+  {
+   "label": "단기여행",
+   "url": "https://wowhoju.com.au/home/shortbreaks/"
+  },
+  {
+   "label": "버스 / 선박 투어",
+   "url": "https://wowhoju.com.au/home/bus-cruize/"
+  },
+  {
+   "label": "울룰루",
+   "url": "https://wowhoju.com.au/home/uluru/"
+  },
+  {
+   "label": "맞춤투어",
+   "url": "https://wowhoju.com.au/home/customtour/"
+  },
+  {
+   "label": "여행정보",
+   "url": "https://wowhoju.com.au/info/",
+   "note": "/community/info/ 로 리다이렉트"
+  },
+  {
+   "label": "고객센터",
+   "url": "https://wowhoju.com.au/about-us/customercentre/",
+   "children": [
+    {
+     "label": "개인정보취급방침",
+     "url": "https://wowhoju.com.au/privacy-policy/"
+    },
+    {
+     "label": "이용약관",
+     "url": "https://wowhoju.com.au/user-agreement/"
+    },
+    {
+     "label": "자주하는 질문 FAQ",
+     "url": "https://wowhoju.com.au/about-us/faq/"
+    }
+   ]
+  }
+ ],
+ "mobileMenu": "메인 메뉴와 동일(menu-main-menu-1, 햄버거 슬라이드 메뉴)",
+ "footer": {
+  "aboutUsMenu": [
+   {
+    "label": "About Us",
+    "url": "https://wowhoju.com.au/about-us/"
+   },
+   {
+    "label": "광고/제휴 문의",
+    "url": "https://wowhoju.com.au/%ea%b4%91%ea%b3%a0-%ec%a0%9c%ed%9c%b4-%eb%ac%b8%ec%9d%98/"
+   }
+  ],
+  "company": "WOW HOJU ACN 606 553 333 / ABN 14606553333",
+  "hours": "월-토 09:00~18:00 (퍼스 시간), 일요일·공휴일 휴무",
+  "contact": {
+   "phone": "+61 (0)416 471 983",
+   "email": "info@wowhoju.com.au",
+   "kakao": "와우호주투어 (http://pf.kakao.com/_rxfkLC)"
+  },
+  "bank": {
+   "bank": "Westpac",
+   "accountName": "WoW Hoju",
+   "BSB": "036069",
+   "account": "113366",
+   "swift": "WPACAU2S"
+  },
+  "securityNote": "SSL 암호화 결제 안내 문구",
+  "copyright": "Copyright 2018 WoW Hoju Tour"
+ },
+ "infoTiles": {
+  "url": "https://wowhoju.com.au/info/",
+  "note": "이미지 타일 12개(글자는 이미지 안). 링크 대상으로 의미 판정",
+  "tiles": [
+   {
+    "label": "호주환율보기",
+    "url": "https://www.xe.com/currencyconverter/",
+    "type": "외부 링크(위젯 아님)"
+   },
+   {
+    "label": "호주날씨보기",
+    "url": "https://weather.naver.com/world/worldWetrCity.nhn?worldRgnCd=WDAUS00134",
+    "type": "외부 링크 — 현재 weather.naver.com/today 로 리다이렉트(퍼스 날씨 아님, 깨짐)"
+   },
+   {
+    "label": "이벤트 행사 정보",
+    "url": "https://wowhoju.com.au/category/wa-events/"
+   },
+   {
+    "label": "호주여행 일반정보",
+    "url": "https://wowhoju.com.au/category/travel-introduction/"
+   },
+   {
+    "label": "퍼스",
+    "url": "https://wowhoju.com.au/category/perth/"
+   },
+   {
+    "label": "프리맨틀",
+    "url": "https://wowhoju.com.au/category/fremantle/"
+   },
+   {
+    "label": "로트네스트",
+    "url": "https://wowhoju.com.au/category/rottnest/"
+   },
+   {
+    "label": "웨이브락",
+    "url": "https://wowhoju.com.au/category/wave-rock/"
+   },
+   {
+    "label": "샤크베이",
+    "url": "https://wowhoju.com.au/category/sharkbay",
+    "note": "글 0개 — 빈 페이지"
+   },
+   {
+    "label": "칼바리",
+    "url": "https://wowhoju.com.au/category/kalbarri/"
+   },
+   {
+    "label": "마가렛리버",
+    "url": "https://wowhoju.com.au/category/margaret-river"
+   },
+   {
+    "label": "서호주 뉴스",
+    "url": "https://wowhoju.com.au/category/news/"
+   }
+  ]
+ },
+ "homeSections": [
+  {
+   "order": 1,
+   "type": "Revolution Slider(rev_slider_4_1, 풀폭 1280x680, 화살표+불릿)",
+   "content": "슬라이드 6장, 각 장 한 줄 카피(예: 서호주의 황홀한 순간들, 와우호주가 안내합니다 / 퍼스 현지한인 여행사 와우호주투어)"
+  },
+  {
+   "order": 2,
+   "type": "Tourmaster 투어 카드 목록",
+   "title": "Must Go! 서호주에서 꼭 가봐야할 여행지",
+   "tours": [
+    "마가렛리버 1박 2일",
+    "피너클스사막 선셋&별빛투어",
+    "핑크호수+칼바리+피너클 2박 3일",
+    "서호주 남부 3박 4일",
+    "마가렛리버와 버셀튼 제티 일일투어",
+    "웨이브락 어드벤처 투어"
+   ],
+   "cardFields": [
+    "리본 문구(NEW·가장 핫한 인기투어 등)",
+    "제목",
+    "From 가격",
+    "기간",
+    "Availability",
+    "후기 수"
+   ]
+  },
+  {
+   "order": 3,
+   "type": "Tourmaster 투어 카드 목록",
+   "title": "퍼스 100배 즐기기",
+   "tours": [
+    "캐버샴 야생공원 + 스완밸리 와이너리",
+    "퍼스 시티와 프리맨틀 투어",
+    "로트네스트 섬 그랜드투어"
+   ]
+  },
+  {
+   "order": 4,
+   "type": "Tourmaster 투어 카드 목록 + 안내문",
+   "title": "호주의 중심, 울룰루 여행",
+   "tours": [
+    "울루루 1박 2일 캠핑투어",
+    "울루루 2박 3일 캠핑투어 [Alice Springs 출발]",
+    "울루루 3박 4일 캠핑투어"
+   ]
+  },
+  {
+   "order": 5,
+   "type": "블로그 목록(gdlr-core-blog-item, 페이지네이션 1~44)",
+   "title": "호주 여행에 관한 정보와 스토리가 가득한 Blog",
+   "content": "최신 글 카드(날짜·제목·발췌·Read More)"
+  },
+  {
+   "order": 6,
+   "type": "소개 텍스트 + 아이콘 목록",
+   "title": "Why Book With Us? / 퍼스를 가장 잘 아는 퍼스 현지여행사",
+   "content": "현지 한인 가이드·일정 조정 가능·소그룹~체험투어 3항목"
+  }
+ ],
+ "homeNotPresent": [
+  "투어 검색창 없음(검색 폼은 고객센터·Search Tours 페이지에만)",
+  "탭 없음",
+  "뉴스레터 없음",
+  "플로팅 버튼 없음(카톡은 상단바·푸터 텍스트 링크)",
+  "언어 전환 없음"
+ ]
+}

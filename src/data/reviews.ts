@@ -1,0 +1,15 @@
+// 실제 후기(마이리얼트립 와우호주 파트너 페이지, 전부 5점). 생성: research/reviews.json
+export type Review = { date: string; author: string; product: string; text: string; rating: number; url: string };
+export const reviews: Review[] = [
+  {"date": "2026-10-22", "author": "이**", "product": "인기피나클스 사막 노을과 별빛투어", "text": "가족여행으로 선택한 피나클 별빛투어 기대 이상으로 대만족이었어요. 무어리버,란센린 샌드보드, 행오버베이에서 바베큐, 피나클 별 관찰까지 하루 일정 너무 알찼고, 이동중 서호주에 대해 사장님께서 설명해주신 내용들도 매…", "rating": 5.0, "url": "https://www.myrealtrip.com/guides/10541"},
+  {"date": "2026-08-12", "author": "권**", "product": "인기피나클스 사막 노을과 별빛투어", "text": "호주 여행 중 가장 기대했던 일정 중 하나가 피나클스 사막 투어였는데, 정말 기대 이상으로 만족스러운 하루였습니다. 이번 여행에서 했던 투어 중에서도 특히 기억에 남는 경험이었어요. 무엇보다 가이드였던 Nicki가 …", "rating": 5.0, "url": "https://www.myrealtrip.com/guides/10541"},
+  {"date": "2026-07-29", "author": "김**", "product": "인기피나클스 사막 노을과 별빛투어", "text": "가이드님이 친절하게 안내해주셔서 가족과 즐겁게 여행 다녀왔습니다. 먼 거리를 이동하면서 가이드님이 관광지를 잘 설명해주시고 바베큐 고기도 맛있게 구워주셨습니다. 만족합니다.", "rating": 5.0, "url": "https://www.myrealtrip.com/guides/10541"},
+  {"date": "2026-06-23", "author": "정**", "product": "인기피나클스 사막 노을과 별빛투어", "text": "인간적이고 따뜻한 투어였어요, 식사도 맛있고 다른세상에 온거같은 풍경이었어요 가이드님이 너무 애써주시고 함께한 분들도  가족같이 따뜻했어요", "rating": 5.0, "url": "https://www.myrealtrip.com/guides/10541"},
+  {"date": "2026-05-27", "author": "C**", "product": "인기피나클스 사막 노을과 별빛투어", "text": "꿈같은 호주 퍼스 여행의 시작이 된 투어!! 가이드님 넘 친절하시고, 모든 스팟이 감동이었던 투어였어요! ㅎㅎㅎ 도착한 바로 다음날 투어를 진행했는데 호주에대한 여러가지 정보도 얻고, 궁금한것도 물어보고 아주 탁월한…", "rating": 5.0, "url": "https://www.myrealtrip.com/guides/10541"},
+  {"date": "2026-05-21", "author": "D**", "product": "인기피나클스 사막 노을과 별빛투어", "text": "먼저 투어 꼭 하세요!! 정말 즐거운 경험이었어요~ 가는 곳마다 멋지고 너무 일정에 쫒기면서 움직이지 않아도 되어서 좋았어요. 화장실 걱정도 하나도 안하셔도 됩니다. 깨끗한 화장실이 계속 있어요 ㅋ 식사도 역시 너무…", "rating": 5.0, "url": "https://www.myrealtrip.com/guides/10541"},
+  {"date": "2026-05-12", "author": "장**", "product": "인기피나클스 사막 노을과 별빛투어", "text": "너무 친절하시면서도 좋은 안내 해주셔서 감사합니다! 운전도 너무 편히 해주셨고 덕분에 안전하고 좋은 경험하였습니다~~!", "rating": 5.0, "url": "https://www.myrealtrip.com/guides/10541"},
+  {"date": "2026-05-06", "author": "이**", "product": "인기피나클스 사막 노을과 별빛투어", "text": "가이드님 진짜 너무 세심하시고 친절하게 해주셨어요 알차게 다양한 경치 즐길 수 있던 코스였어요!! 고기와 소시지도 진짜 너무 맛있었고 밤하늘의 별은 잊을 수 없을 것 같습니다. 엄마 모시고 간 여행이었는데 어머니도 …", "rating": 5.0, "url": "https://www.myrealtrip.com/guides/10541"},
+  {"date": "2026-04-24", "author": "이**", "product": "인기피나클스 사막 노을과 별빛투어", "text": "가이드님이 넘 친절하게 안내해주시고 배려해주시고 운전해주셔서 재밌게 잘다녀왔습니다! 금액적으로 넘 합리적이라고 생각들고 날씨운이 좋아서 은하수가 선명히 보이는것도 정말 좋았어요~~", "rating": 5.0, "url": "https://www.myrealtrip.com/guides/10541"},
+  {"date": "2026-04-15", "author": "이**", "product": "인기피나클스 사막 노을과 별빛투어", "text": "친절한 가이드님 덕분에 즐거운 여행 보냈습니다.", "rating": 5.0, "url": "https://www.myrealtrip.com/guides/10541"},
+  {"date": "2026-01-24", "author": "정*은", "product": "인기 칼바리 국립공원•핑크호수•피나클스 2박 3일투어", "text": "2박 3일, 완벽하게 서호주 경험하기(with Uni가이드)   칼바리 국립공원 등을 비롯한 2박 3일 투어는 서호주를 경험하기에 충분했어요. 특히 Uni가이드님이 정말 이모처럼 친절하게 가이드를 해주셔서 …", "rating": 5, "url": "https://experiences.myrealtrip.com/products/3754129"},
+];

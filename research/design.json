@@ -1,0 +1,592 @@
+{
+ "business": {
+  "name": "와우 호주 (WoW HoJu / WoW Hoju Tour)",
+  "url": "https://wowhoju.com.au/",
+  "platform": "WordPress + Traveltour 테마 + Tourmaster 플러그인 + Revolution Slider",
+  "about": "서호주 퍼스 중심 한인 현지 여행사, 호주 20년 가까이 거주한 경험, 소그룹~맞춤투어 (출처 https://wowhoju.com.au/about-us/)",
+  "instagram": {
+   "url": "https://www.instagram.com/wowhoju/",
+   "title": "와우호주 | NO 1 퍼스한인여행사 (@wowhoju)",
+   "stats": "팔로워 5,524 · 팔로잉 2,348 · 게시물 903 (og:description, 2026-10-27 조회)"
+  },
+  "youtube": "https://www.youtube.com/channel/UC66tLCGUrGn2o4KvMUHeOQg/videos",
+  "kakao": "https://pf.kakao.com/_rxfkLC"
+ },
+ "colors": {
+  "brand": [
+   {
+    "hex": "#F15E53",
+    "where": "로고 \"WoW\"·\"와우\" 글자 (코랄 레드)",
+    "url": "https://wowhoju.com.au/wp-content/uploads/2022/08/wow-hoju-logo-horizontal-Korean.png",
+    "method": "PNG 불투명 픽셀 최빈값"
+   },
+   {
+    "hex": "#048CCE",
+    "where": "로고 \"HoJu\"·\"호주\" 글자 (블루)",
+    "url": "https://wowhoju.com.au/wp-content/uploads/2022/08/wow-hoju-logo-horizontal-Korean.png",
+    "method": "PNG 불투명 픽셀 최빈값"
+   },
+   {
+    "hex": "#FDB839",
+    "where": "로고 \"o\" 동그라미 (선샤인 옐로)",
+    "url": "https://wowhoju.com.au/wp-content/uploads/2022/08/wow-hoju-logo-horizontal-Korean.png",
+    "method": "PNG 불투명 픽셀 최빈값"
+   },
+   {
+    "hex": "#E86858 / #F8B838 (근사)",
+    "where": "인스타 프로필 사진 = 흰 바탕 + 같은 로고(16단계 양자화 근사값, 100px 썸네일)",
+    "url": "https://www.instagram.com/wowhoju/",
+    "file": "logo/instagram-profile-100.jpg"
+   },
+   {
+    "hex": "#468AE7",
+    "where": "사이트 테마 강조색 — 상단 장바구니 숫자 배지·체크아웃 버튼 hover·필터 활성 링크",
+    "url": "https://wowhoju.com.au/wp-content/uploads/traveltour-style-custom.css"
+   },
+   {
+    "hex": "#F43009",
+    "where": "투어 상세 \"Book Now\" 바 버튼·가격 리본 (Tourmaster)",
+    "url": "https://wowhoju.com.au/wp-content/uploads/tourmaster-style-custom.css"
+   },
+   {
+    "hex": "#0C0C0C",
+    "where": "다크 스킨 버튼·페이지네이션",
+    "url": "https://wowhoju.com.au/wp-content/uploads/traveltour-style-custom.css"
+   },
+   {
+    "hex": "#F3F3F3",
+    "where": "토글/아코디언 박스 배경",
+    "url": "https://wowhoju.com.au/wp-content/uploads/traveltour-style-custom.css"
+   },
+   {
+    "hex": "#BA4A4A",
+    "where": "예약 오류·실패 메시지",
+    "url": "https://wowhoju.com.au/wp-content/uploads/tourmaster-style-custom.css"
+   }
+  ],
+  "cssNote": "사이트 CSS 색은 테마 기본값 계열(파랑 #468AE7·빨강 #F43009)이라 로고 3색과 맞지 않음. 브랜드 근거는 로고 3색이 1순위. 인스타 \"표지 템플릿\"은 로그인 없이 게시물 열람 불가 → 확인 못 함.",
+  "nature": [
+   {
+    "hex": "#8d531e",
+    "what": "피너클스 사막 모래(물결무늬 노란 모래)",
+    "photoFile": "photos/Pinnacles-14.jpg"
+   },
+   {
+    "hex": "#3a5d89",
+    "what": "피너클스 위 한낮 하늘",
+    "photoFile": "photos/Pinnacles-14.jpg"
+   },
+   {
+    "hex": "#a36f2b",
+    "what": "피너클스 석회암 기둥",
+    "photoFile": "photos/Pinnacles-14.jpg"
+   },
+   {
+    "hex": "#ce858b",
+    "what": "핑크 호수(Hutt Lagoon) 수면",
+    "photoFile": "photos/Kalbarri-5.jpg"
+   },
+   {
+    "hex": "#3a8289",
+    "what": "로트네스트 얕은 인도양 청록 바다",
+    "photoFile": "photos/Rottnest-33.jpg"
+   },
+   {
+    "hex": "#61849a",
+    "what": "로트네스트 먼바다 진청색 인도양",
+    "photoFile": "photos/Rottnest-33.jpg"
+   },
+   {
+    "hex": "#77a9af",
+    "what": "로트네스트 해변 흰모래",
+    "photoFile": "photos/Rottnest-31.jpg"
+   },
+   {
+    "hex": "#8d7962",
+    "what": "칼바리 해안 절벽 붉은 사암",
+    "photoFile": "photos/IMG_1489.jpg"
+   },
+   {
+    "hex": "#934121",
+    "what": "울루루 붉은 흙",
+    "photoFile": "photos/uluru5.jpg"
+   },
+   {
+    "hex": "#cdc8c9",
+    "what": "울루루 노을 하늘(분홍·보라)",
+    "photoFile": "photos/uluru5.jpg"
+   },
+   {
+    "hex": "#9c7c5c",
+    "what": "인도양 노을 수평선(주황)",
+    "photoFile": "photos/wow-hoju-thumnail4.jpg"
+   },
+   {
+    "hex": "#a9aba6",
+    "what": "노을 위쪽 하늘",
+    "photoFile": "photos/wow-hoju-thumnail4.jpg"
+   },
+   {
+    "hex": "#ded6c8",
+    "what": "란셀린 흰 모래언덕",
+    "photoFile": "photos/IMG_4640.jpg"
+   },
+   {
+    "hex": "#6a5a49",
+    "what": "칼바리 머치슨강 계곡 덤불·붉은흙",
+    "photoFile": "photos/Kalbarri-4.jpg"
+   },
+   {
+    "hex": "#544e46",
+    "what": "피너클스 별빛 밤하늘",
+    "photoFile": "photos/Star-gazing-1.png"
+   },
+   {
+    "hex": "#977356",
+    "what": "웨이브락 화강암 줄무늬",
+    "photoFile": "photos/wave-rock-4.jpg"
+   },
+   {
+    "hex": "#4c4623",
+    "what": "스완밸리/마가렛리버 포도밭 길 흙",
+    "photoFile": "photos/Margaret-River-3.jpg"
+   }
+  ],
+  "natureNote": "사진 영역 평균값(PIL ImageStat). 그림자·사람이 섞여 실제 인상보다 어둡게 나온 값 있음(피너클스 모래 #8d531e, 울루루 노을 하늘 #cdc8c9 은 흐린 상단 띠라 회색). 쓸 때 밝기 보정 필요."
+ },
+ "lettering": {
+  "logo": {
+   "files": [
+    "logo/wow-hoju-logo-horizontal-Korean.png (865x113)",
+    "logo/wow-hoju-logo.png (248x269, 세로형)",
+    "logo/instagram-profile-100.jpg"
+   ],
+   "urls": [
+    "https://wowhoju.com.au/wp-content/uploads/2022/08/wow-hoju-logo-horizontal-Korean.png",
+    "https://wowhoju.com.au/wp-content/uploads/2022/08/wow-hoju-logo.png"
+   ],
+   "impression": "굵고 둥근 고딕(라운드 산세리프), 획 끝이 둥글고 장난스러운 동글동글 인상. \"o\"를 노란 동그라미, \"J\"를 컵 모양 곡선으로 변형. 영문 WoW HoJu + 한글 와우호주 가로 배열, 3색(코랄·블루·옐로). 손글씨 아님."
+  },
+  "oldMark": "피너클 별빛투어 영상(2022) 우상단 워터마크에 다른 구 로고 \"WOW 와우호주투어 WoW Hojutour\"(빨강·검정) 사용 — https://www.youtube.com/watch?v=E58NPT7L_s4",
+  "siteFonts": [
+   {
+    "css": "\"Poppins\", sans-serif",
+    "where": "제목·내비 등 테마 본문 7곳",
+    "url": "https://wowhoju.com.au/wp-content/uploads/traveltour-style-custom.css"
+   },
+   {
+    "css": "\"Open Sans\", sans-serif",
+    "where": "테마 1곳",
+    "url": "https://wowhoju.com.au/wp-content/uploads/traveltour-style-custom.css"
+   },
+   {
+    "css": "Roboto 400",
+    "where": "Google Fonts 로드(Revolution Slider)",
+    "url": "https://wowhoju.com.au/"
+   }
+  ],
+  "siteFontNote": "한글 웹폰트 지정 없음 → 한글은 OS 기본 글꼴로 표시. 본문 14px·line-height 1.7 (traveltour-style-custom.css).",
+  "photoCaptionStyle": "사이트 투어 버튼 이미지(2019/10/*.jpg)는 원색 단색 배경 + 굵은 둥근 한글 고딕(예: 칼바리=마젠타 배경 흰 글자). photos/62.jpg 등.",
+  "instagramCoverFont": "확인 못 함 (로그인 없이 게시물·하이라이트 표지 열람 불가)"
+ },
+ "videos": {
+  "youtube": [
+   {
+    "id": "XVkfWm5d61U",
+    "url": "https://www.youtube.com/shorts/XVkfWm5d61U",
+    "title": "야생화 시즌 칼바리 여행을 떠난 세명의 시니어들",
+    "published": "2025-08-28",
+    "durationSec": null,
+    "content": "쇼츠. 칼바리 야생화 시즌 시니어 손님",
+    "burnedSubtitles": "확인 못 함",
+    "oembedAuthor": "WoW HoJu 와우 호주"
+   },
+   {
+    "id": "ij9v1CwwLLg",
+    "url": "https://www.youtube.com/shorts/ij9v1CwwLLg",
+    "title": "9월에는 퍼스로 여행을 와야하는 이유 3",
+    "published": "2025-08-24",
+    "durationSec": null,
+    "content": "쇼츠",
+    "burnedSubtitles": "확인 못 함",
+    "oembedAuthor": "WoW HoJu 와우 호주"
+   },
+   {
+    "id": "SEF5vHcwRQM",
+    "url": "https://www.youtube.com/shorts/SEF5vHcwRQM",
+    "title": "2025년 5월 15일",
+    "published": "2025-05-15",
+    "durationSec": null,
+    "content": "쇼츠(제목만 날짜)",
+    "burnedSubtitles": "확인 못 함",
+    "oembedAuthor": "WoW HoJu 와우 호주"
+   },
+   {
+    "id": "KEP0tdGwEsQ",
+    "url": "https://www.youtube.com/watch?v=KEP0tdGwEsQ",
+    "title": "어른들도 집에가는걸 잊은 아이들처럼 노는 랜슬린 (Lancelin)",
+    "published": "2022-11-26",
+    "durationSec": 204,
+    "content": "란셀린 모래언덕 샌드보딩",
+    "burnedSubtitles": "확인 못 함",
+    "oembedAuthor": "WoW HoJu 와우 호주"
+   },
+   {
+    "id": "1qu_T4BGDfY",
+    "url": "https://www.youtube.com/watch?v=1qu_T4BGDfY",
+    "title": "달콤했던 마가렛리버 여행",
+    "published": "2022-11-17",
+    "durationSec": 244,
+    "content": "마가렛리버 투어",
+    "burnedSubtitles": "확인 못 함",
+    "oembedAuthor": "WoW HoJu 와우 호주"
+   },
+   {
+    "id": "bfkfx84B2sw",
+    "url": "https://www.youtube.com/watch?v=bfkfx84B2sw",
+    "title": "설원같은 란셀린 모래사막에서 라이딩으로 시작한 서호주 북부 2박 3일의 짦은 여행",
+    "published": "2022-10-26",
+    "durationSec": 384,
+    "content": "란셀린 모래언덕 사륜구동 라이딩→칼바리 협곡 2박3일 브이로그",
+    "burnedSubtitles": "예 — \"DAY 1 Lancelin\", \"Z Be\" 등 손글씨풍 자막 박힘(프레임 40s·200s 확인)",
+    "oembedAuthor": "WoW HoJu 와우 호주"
+   },
+   {
+    "id": "IKKUmQOZuVE",
+    "url": "https://www.youtube.com/watch?v=IKKUmQOZuVE",
+    "title": "임패밀리의 칼바리투어",
+    "published": "2022-09-24",
+    "durationSec": 266,
+    "content": "가족 손님 칼바리 투어",
+    "burnedSubtitles": "확인 못 함",
+    "oembedAuthor": "WoW HoJu 와우 호주"
+   },
+   {
+    "id": "E58NPT7L_s4",
+    "url": "https://www.youtube.com/watch?v=E58NPT7L_s4",
+    "title": "퍼스에 여행왔다면, 무조건 가야하는 필수 코스, 피너클별빛투어",
+    "published": "2022-09-24",
+    "durationSec": 154,
+    "content": "피너클스 별빛투어(무어리버·바비큐·노을)",
+    "burnedSubtitles": "예 — 한글 자막(\"컴퓨터 바탕 화면 같은 멋진 풍경\", \"#5 저녁 바베큐 JMT BBQ Dinner\") + 오른쪽 위 구 로고 워터마크(WOW 와우호주투어 WoW Hojutour)",
+    "oembedAuthor": "WoW HoJu 와우 호주"
+   },
+   {
+    "id": "plegZXDA4Bc",
+    "url": "https://www.youtube.com/watch?v=plegZXDA4Bc",
+    "title": "프리맨틀 런치 뷔페 크루즈",
+    "published": "2022-09-24",
+    "durationSec": 59,
+    "content": "스완강 크루즈",
+    "burnedSubtitles": "확인 못 함",
+    "oembedAuthor": "WoW HoJu 와우 호주"
+   },
+   {
+    "id": "mRzzHNEFw2k",
+    "url": "https://www.youtube.com/watch?v=mRzzHNEFw2k",
+    "title": "피너클스 란셀린 사막 투어",
+    "published": "2022-08-28",
+    "durationSec": 55,
+    "content": "피너클스·란셀린",
+    "burnedSubtitles": "확인 못 함",
+    "oembedAuthor": "WoW HoJu 와우 호주"
+   },
+   {
+    "id": "rVz8aFRroDE",
+    "url": "https://www.youtube.com/watch?v=rVz8aFRroDE",
+    "title": "아랄루엔 튜울립 페스티벌",
+    "published": "2022-08-27",
+    "durationSec": 63,
+    "content": "아랄루엔 튤립 축제",
+    "burnedSubtitles": "확인 못 함",
+    "oembedAuthor": "WoW HoJu 와우 호주"
+   },
+   {
+    "id": "vniYr4oMW5w",
+    "url": "https://www.youtube.com/watch?v=vniYr4oMW5w",
+    "title": "호주퍼스 로트네스트 스카이다이빙 후기",
+    "published": "2019-04-29",
+    "durationSec": 57,
+    "content": "로트네스트 스카이다이빙",
+    "burnedSubtitles": "확인 못 함",
+    "oembedAuthor": "WoW HoJu 와우 호주"
+   },
+   {
+    "id": "PngaZo0iwWQ",
+    "url": "https://www.youtube.com/watch?v=PngaZo0iwWQ",
+    "title": "퍼스 한인여행사 와우호주 피나클스별빛투어 후기",
+    "published": "2019-04-24",
+    "durationSec": 120,
+    "content": "피너클스 별빛투어 후기",
+    "burnedSubtitles": "확인 못 함",
+    "oembedAuthor": "WoW HoJu 와우 호주"
+   },
+   {
+    "id": "bk9h8Zfx9xQ",
+    "url": "https://www.youtube.com/watch?v=bk9h8Zfx9xQ",
+    "title": "서호주퍼스여행) 핑크호수의 늪... 조심하세요!! #퍼스여행 #와우호주",
+    "published": "2019-04-03",
+    "durationSec": 386,
+    "content": "핑크호수",
+    "burnedSubtitles": "확인 못 함",
+    "oembedAuthor": "WoW HoJu 와우 호주"
+   },
+   {
+    "id": "yPNjJOlG4yI",
+    "url": "https://www.youtube.com/watch?v=yPNjJOlG4yI",
+    "title": "호주 현지 여행마케터와 여행하면 생기는 일 #퍼스여행사 #와우호주",
+    "published": "2019-03-27",
+    "durationSec": 667,
+    "content": "현지 여행마케터 동행 브이로그",
+    "burnedSubtitles": "확인 못 함",
+    "oembedAuthor": "WoW HoJu 와우 호주"
+   }
+  ],
+  "youtubeNote": "채널 영상 12편 + 쇼츠 3편(yt-dlp flat-playlist, oEmbed로 작성자 확인). 2022-11 이후 긴 영상 없음.",
+  "siteEmbedded": [
+   {
+    "url": "https://www.youtube.com/watch?v=jCKcXcHEihE",
+    "title": "Caversham Wildlife Park",
+    "page": "https://wowhoju.com.au/tour/swanvalley/",
+    "oembedAuthor": "WoW Hoju (다른 계정명)"
+   },
+   {
+    "url": "https://wowhoju.com.au/wp-content/uploads/2019/10/joined_video_7b7875b1d592421e9d0eb5cd30425b9c.mp4",
+    "note": "미디어 라이브러리에 있는 유일한 mp4, 내용 확인 못 함(받지 않음)"
+   }
+  ],
+  "instagramReels": "확인 못 함 — 프로필 og 메타만 공개(게시물 903). 릴스 목록은 로그인 필요.",
+  "downloaded": [
+   {
+    "file": "video/bfkfx84B2sw.mp4",
+    "source": "https://www.youtube.com/watch?v=bfkfx84B2sw",
+    "res": "1280x720",
+    "sec": 383.8,
+    "mb": 104.6,
+    "scene": "란셀린 흰 모래언덕 사륜구동·칼바리 협곡",
+    "burnedText": true
+   },
+   {
+    "file": "video/E58NPT7L_s4.mp4",
+    "source": "https://www.youtube.com/watch?v=E58NPT7L_s4",
+    "res": "1280x720",
+    "sec": 153.3,
+    "mb": 36.4,
+    "scene": "무어리버·피너클스 노을·바비큐",
+    "burnedText": true
+   }
+  ],
+  "downloadNote": "둘 다 자막·워터마크가 박혀 있어 배경 영상으로 쓰려면 자막 없는 구간만 잘라야 함. 합계 141MB."
+ },
+ "vibe": {
+  "words": [
+   {
+    "word": "현지인 가이드",
+    "src": "https://wowhoju.com.au/about-us/",
+    "quote": "퍼스를 잘 아는 현지에 살고 있는 한국인 가이드가 서호주의 숨은 여행지로 안내합니다."
+   },
+   {
+    "word": "숨은 여행지",
+    "src": "https://wowhoju.com.au/about-us/",
+    "quote": "관광객들에게는 잘 알려지지 않은 숨은 관광명소, 로컬 맛집"
+   },
+   {
+    "word": "20년 호주살이",
+    "src": "https://wowhoju.com.au/about-us/",
+    "quote": "호주에 20년 가까이 거주하며 쌓아온 경험과 노하우"
+   },
+   {
+    "word": "맞춤투어",
+    "src": "https://wowhoju.com.au/about-us/",
+    "quote": "소그룹투어에서부터 맞춤투어까지 고객이 원하는 여행을 디자인해드립니다"
+   },
+   {
+    "word": "별빛·은하수",
+    "src": "https://wowhoju.com.au/tour/pinnaclestargazing-%ed%94%bc%eb%84%88%ed%81%b4%ec%8a%a4-%ec%84%a0%ec%85%8b-%eb%b3%84%eb%b9%9b%ed%88%ac%ec%96%b4/",
+    "quote": "별이 쏟아지는 밤하늘과 은하수까지 감상하실 수 있어요."
+   },
+   {
+    "word": "황금빛 노을",
+    "src": "https://wowhoju.com.au/tour/pinnaclestargazing-%ed%94%bc%eb%84%88%ed%81%b4%ec%8a%a4-%ec%84%a0%ec%85%8b-%eb%b3%84%eb%b9%9b%ed%88%ac%ec%96%b4/",
+    "quote": "해질 무렵, 피나클스가 황금빛으로 물드는 순간"
+   },
+   {
+    "word": "하얀 설원 모래언덕(샌드보딩)",
+    "src": "https://wowhoju.com.au/tour/pinnaclestargazing-%ed%94%bc%eb%84%88%ed%81%b4%ec%8a%a4-%ec%84%a0%ec%85%8b-%eb%b3%84%eb%b9%9b%ed%88%ac%ec%96%b4/",
+    "quote": "하얀 설원처럼 펼쳐진 모래 언덕 위, 모래를 가르며 질주하는 짜릿한 한 순간!"
+   },
+   {
+    "word": "바다 앞 바베큐",
+    "src": "https://wowhoju.com.au/tour/pinnaclestargazing-%ed%94%bc%eb%84%88%ed%81%b4%ec%8a%a4-%ec%84%a0%ec%85%8b-%eb%b3%84%eb%b9%9b%ed%88%ac%ec%96%b4/",
+    "quote": "노을 맛집 가기 전, 바다 앞 바베큐 한 끼"
+   },
+   {
+    "word": "동심(아이처럼 놀기)",
+    "src": "https://www.youtube.com/watch?v=KEP0tdGwEsQ",
+    "quote": "어른들도 집에가는걸 잊은 아이들처럼 노는 랜슬린"
+   },
+   {
+    "word": "다시 시작되는 이야기",
+    "src": "https://wowhoju.com.au/wp-content/uploads/2025/08/wowhoju-1.png",
+    "quote": "여행은 이미 다시 시작되었고 이제 이야기도 다시 시작됩니다. (홈 카드 이미지 문구)"
+   }
+  ],
+  "tone": "친근한 구어체 + 이모지(🌅✨📸🌊😋✌️), \"~해볼까요?\", \"노을 맛집\", \"찰떡같은 스냅\" — 젊고 들뜬 말투. 소개 페이지는 정중한 합니다체.",
+  "toneSrc": "https://wowhoju.com.au/tour/pinnaclestargazing-%ed%94%bc%eb%84%88%ed%81%b4%ec%8a%a4-%ec%84%a0%ec%85%8b-%eb%b3%84%eb%b9%9b%ed%88%ac%ec%96%b4/",
+  "props": [
+   {
+    "prop": "샌드보드(빨강·노랑)",
+    "files": [
+     "photos/IMG_4640.jpg",
+     "photos/IMG_5959.jpeg",
+     "photos/IMG_2492.jpg"
+    ]
+   },
+   {
+    "prop": "사륜구동 차(모래언덕)",
+    "files": [
+     "photos/IMG_2492.jpg"
+    ],
+    "video": "video/bfkfx84B2sw.mp4 (40s 프레임, 모래 위 4WD 바퀴)"
+   },
+   {
+    "prop": "와인잔·스파클링 와인병(와이너리 시음)",
+    "files": [
+     "photos/winery.jpeg"
+    ]
+   },
+   {
+    "prop": "바비큐 스테이크·샐러드",
+    "files": [
+     "photos/bbq_dinner.jpg",
+     "photos/unnamed-1800x2112.jpg"
+    ]
+   },
+   {
+    "prop": "캥거루·웜뱃 등 야생동물(캐버샴)",
+    "files": [
+     "photos/caversham-wild-park18.jpg"
+    ],
+    "note": "공원 제공 사진 의심"
+   },
+   {
+    "prop": "돌고래 만나는 얕은 바다(멍키마이어)",
+    "files": [
+     "photos/Monkey-Mia.jpeg"
+    ],
+    "note": "돌고래 자체는 사진상 확인 어려움"
+   },
+   {
+    "prop": "빨간 꼬마기차(버셀튼 제티)",
+    "files": [
+     "photos/Busselton-2.jpg",
+     "photos/wow-hoju-thumnail7.jpg"
+    ]
+   },
+   {
+    "prop": "로트네스트 섬 기차·자전거",
+    "files": [
+     "photos/Rottnest-11.jpg",
+     "photos/Rottnest-9.jpg",
+     "photos/Rottnest-23.jpg"
+    ]
+   },
+   {
+    "prop": "빨간 페리",
+    "files": [
+     "photos/Rottnest-Ferry.png"
+    ]
+   },
+   {
+    "prop": "헤드랜턴(별빛 스냅)",
+    "files": [
+     "photos/sanp-tour.jpg"
+    ]
+   },
+   {
+    "prop": "흰 등대(케이프 르윈·와제멉)",
+    "files": [
+     "photos/Margaret-River-17.jpg",
+     "photos/Rottnest-37.jpg"
+    ]
+   },
+   {
+    "prop": "나무 데크 산책로",
+    "files": [
+     "photos/Moore-River-11.jpg",
+     "photos/IMG_1371-1800x1350.jpeg"
+    ]
+   },
+   {
+    "prop": "카약(무어리버)",
+    "files": [
+     "photos/Moore-River-5.jpg"
+    ]
+   },
+   {
+    "prop": "빈티지 녹슨 트럭",
+    "files": [
+     "photos/wowhojutour.jpg"
+    ]
+   },
+   {
+    "prop": "관광 2층버스·크루즈선",
+    "files": [
+     "photos/Bus-tour2.jpg",
+     "photos/cruize-10.jpg"
+    ]
+   }
+  ]
+ },
+ "mixkit": [
+  {
+   "id": "34363",
+   "title": "Turquoise ocean background with foaming waves",
+   "page": "https://mixkit.co/free-stock-video/ocean-waves/",
+   "preview": "https://assets.mixkit.co/videos/34363/34363-360.mp4",
+   "hd": "https://assets.mixkit.co/videos/34363/34363-720.mp4",
+   "matches": "로트네스트 청록 인도양 photos/Rottnest-33.jpg"
+  },
+  {
+   "id": "6891",
+   "title": "Ocean waves crashing at the cliff",
+   "page": "https://mixkit.co/free-stock-video/ocean-waves/",
+   "preview": "https://assets.mixkit.co/videos/6891/6891-360.mp4",
+   "hd": "https://assets.mixkit.co/videos/6891/6891-720.mp4",
+   "matches": "캐널록스·더 갭 photos/Margaret-river-5.jpg"
+  },
+  {
+   "id": "8075",
+   "title": "Ocean waves in the sunset",
+   "page": "https://mixkit.co/free-stock-video/ocean-waves/",
+   "preview": "https://assets.mixkit.co/videos/8075/8075-360.mp4",
+   "hd": "https://assets.mixkit.co/videos/8075/8075-720.mp4",
+   "matches": "인도양 노을 photos/wow-hoju-thumnail4.jpg"
+  },
+  {
+   "id": "46119",
+   "title": "Starry night in the desert",
+   "page": "https://mixkit.co/free-stock-video/desert/",
+   "preview": "https://assets.mixkit.co/videos/46119/46119-360.mp4",
+   "hd": "https://assets.mixkit.co/videos/46119/46119-720.mp4",
+   "matches": "피너클스 별빛 photos/Star-gazing-1.png"
+  },
+  {
+   "id": "11168",
+   "title": "Dunes in the Sahara desert",
+   "page": "https://mixkit.co/free-stock-video/sand-dunes/",
+   "preview": "https://assets.mixkit.co/videos/11168/11168-360.mp4",
+   "hd": "https://assets.mixkit.co/videos/11168/11168-720.mp4",
+   "matches": "란셀린 흰 모래언덕 photos/IMG_4640.jpg (사하라라 모래색이 더 붉을 수 있음 — 미리보기로 확인)"
+  }
+ ],
+ "mixkitNote": "제목·ID는 mixkit.py 목록 기준, 미리보기 미시청(내려받지 않음). 업체 자체 영상(video/)이 1순위, Mixkit은 보조.",
+ "unverified": [
+  "인스타 게시물·릴스·하이라이트 표지 템플릿 색/글꼴(로그인 필요)",
+  "YouTube 쇼츠 3편 길이·자막 여부",
+  "다운로드 2편 외 영상의 자막 박힘 여부",
+  "2019/10 joined_video mp4 내용",
+  "사장님 개인 이야기(이름·이민 계기) — 소개 페이지에 \"20년 가까이 거주\"만 있음",
+  "사진 중 업체 촬영/외부 제공 구분은 파일명 기반 추정"
+ ]
+}

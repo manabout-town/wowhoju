@@ -1,0 +1,6 @@
+.scn { position: fixed; inset: 0; z-index: 0; background: var(--night); }
+.scn video { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0; transform: scale(1.04); transition: opacity 900ms var(--ease-expo), transform 8s linear; }
+.scn video.on { opacity: 1; transform: scale(1); }
+/* 톤 2종(브랜드색 그레이딩 금지): night = 어둡게 막, day = 위에서 아래로 흰 모래빛 안개 */
+.scn__veil { position: absolute; inset: 0; transition: background 900ms var(--ease-expo), opacity 900ms; background: linear-gradient(180deg, rgba(28, 22, 20, 0.62), rgba(28, 22, 20, 0.5) 50%, rgba(28, 22, 20, 0.7)); }
+.scn[data-tone='day'] .scn__veil { background: linear-gradient(180deg, rgba(238, 232, 222, 0.5), rgba(238, 232, 222, 0.72) 55%, rgba(238, 232, 222, 0.86)); }

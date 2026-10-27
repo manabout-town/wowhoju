@@ -1,0 +1,2155 @@
+{
+ "source": "https://wowhoju.com.au/wp-json/wp/v2/tour?per_page=100 (38건) + 각 상품 페이지 HTML",
+ "fetched": "2026-10-27",
+ "pinnaclesDepartureConflict": {
+  "site": "화요일과 토요일 출발 (https://wowhoju.com.au/tour/pinnaclestargazing-%ed%94%bc%eb%84%88%ed%81%b4%ec%8a%a4-%ec%84%a0%ec%85%8b-%eb%b3%84%eb%b9%9b%ed%88%ac%ec%96%b4/ , 홈 목록도 동일)",
+  "instagramCover": "월·토 출발 — 10-26 사전 분석 기록. 이번 조사에서 인스타 게시물 URL 직접 확인 못 함"
+ },
+ "count": 38,
+ "products": [
+  {
+   "title": "마가렛리버 2박 3일",
+   "url": "https://wowhoju.com.au/tour/%eb%a7%88%ea%b0%80%eb%a0%9b%eb%a6%ac%eb%b2%84-2%eb%b0%95-3%ec%9d%bc/",
+   "priceFrom": "$930 AUD",
+   "priceDetail": [
+    "성인 $930",
+    "아동 $790 (만3세-10세)",
+    "*투어 출발 최소 인원은 5명 입니다."
+   ],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": null,
+   "availability": null,
+   "departureLines": [
+    "목요일 출발"
+   ],
+   "included": [
+    "한인 가이드",
+    "투어 차량",
+    "버셀튼 제티 기차 탑승료",
+    "등대 입장료",
+    "동굴투어 입장료",
+    "로컬 카페에서의 2회의 조식",
+    "로컬 맛집에서의 2회의 디너"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험",
+    "점심식사",
+    "와인시음"
+   ],
+   "placesMentioned": [
+    "마가렛리버",
+    "버셀튼",
+    "퍼스 시티",
+    "번버리",
+    "보라넙",
+    "카날락스",
+    "등대",
+    "동굴"
+   ],
+   "itineraryStops": [],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2019/11/swanvalley2.png",
+   "reviewCountShown": 0,
+   "onHomepage": false,
+   "wpPublished": "2026-08-01",
+   "wpModified": "2026-08-01",
+   "categories": [
+    "tour_category-2-3"
+   ],
+   "note": null
+  },
+  {
+   "title": "마가렛리버 1박 2일",
+   "url": "https://wowhoju.com.au/tour/margaretriver-2days/",
+   "priceFrom": "$630 AUD",
+   "priceDetail": [
+    "성인 $630",
+    "아동 $535 (만3세-10세)",
+    "*투어 출발 최소 인원은 5명 입니다."
+   ],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "2일",
+   "availability": "목요일 출발",
+   "departureLines": [
+    "목요일 출발"
+   ],
+   "included": [
+    "한인 가이드",
+    "투어 차량",
+    "버셀튼 제티 기차 탑승료",
+    "등대 입장료",
+    "로컬 카페에서의 1회의 조식",
+    "로컬 맛집에서의 1회의 디너"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험",
+    "점심식사",
+    "와인시음"
+   ],
+   "placesMentioned": [
+    "마가렛리버",
+    "버셀튼",
+    "퍼스 시티",
+    "번버리",
+    "카날락스",
+    "등대"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "[DAY1] : 퍼스 - 마가렛리버",
+    "출발 시간 : 오전 8:00 am",
+    "출발장소  : 290 Wellington St. Perth",
+    "번버리 파머스 마켓 (Bunbury Farmers Market)",
+    "서호주 남서부 로드트립 중 꼭 들러야 할 힐링 스팟, 번버리 파머스 마켓! 🌿",
+    "버셀튼 제티(Busselton Jetty) 해변 산책",
+    "푸른 바다를 가로지르는 빨간 기차를 타고 아름다운 인도양 바다를 감상해보세요.",
+    "맥주농장에서 점심식사",
+    "마가렛리버 초콜릿 공장 (Chocolate Factory)",
+    "밀크, 다크, 화이트 초콜릿까지 3가지 맛을 마음껏 즐길 수 있어요! 😋",
+    "유리문 너머로 초콜릿이 만들어지는 과정도 구경하며, 달콤한 시간 보내보세요!",
+    "와이너리 방문 및 시음과 와이너리 감상",
+    "와이너리 한 바퀴 돌며 느껴지는 행복, 놓치지 마세요! 😍",
+    "로컬 맛집에서 디너",
+    "숙소 체크인",
+    "2인 1실 숙소",
+    "[DAY2] 아침 식사",
+    "밀럽 비치 (Meelup Beach)와 캐슬락 (Castle Rock) 산책",
+    "Meelup Beach",
+    "Castle Rock (Yallingup)",
+    "케이프 내츄럴리스트 등대 (Cape Naturaliste Lighthouse)",
+    "점심 식사",
+    "와이너리에서의 런치",
+    "카날락스 (Canal Rocks)"
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2022/11/Canal-rocks.jpg",
+   "reviewCountShown": 0,
+   "onHomepage": true,
+   "wpPublished": "2026-07-19",
+   "wpModified": "2026-08-01",
+   "categories": [
+    "tour_category-2-3",
+    "tour_category-must-go"
+   ],
+   "note": null
+  },
+  {
+   "title": "피너클스사막 선셋&별빛투어",
+   "url": "https://wowhoju.com.au/tour/pinnaclestargazing-%ed%94%bc%eb%84%88%ed%81%b4%ec%8a%a4-%ec%84%a0%ec%85%8b-%eb%b3%84%eb%b9%9b%ed%88%ac%ec%96%b4/",
+   "priceFrom": "$200 AUD",
+   "priceDetail": [
+    "성인 : $200 / 아동 : $170 (만3-10세)",
+    "1-5인 예약시 5% 할인",
+    "6인 예약시 10% 할인",
+    "*카톡으로 할인코드 문의주시면 할인코드 보내드립니다."
+   ],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "10시간",
+   "availability": "화요일과 토요일 출발",
+   "departureLines": [
+    "화요일과 토요일 출발",
+    "매주 화요일과 토요일 출발합니다."
+   ],
+   "included": [
+    "한인 가이드",
+    "투어 차량",
+    "입장료",
+    "음료와 BBQ 디너",
+    "샌드보드 하이어"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험"
+   ],
+   "placesMentioned": [
+    "피너클스",
+    "피나클스",
+    "란셀린",
+    "무어리버",
+    "행오버",
+    "퍼스 시티"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "퍼스 시티 출발",
+    "길더튼 무어리버 (Moore River)",
+    "퍼스에서 단 1시간, 무어리버 도착! 강과 바다가 마주보는 이색 뷰✨",
+    "자연이 만든 컬래버 풍경 속에서 감성 충전 완료. 파도 소리 들으며 걷고,",
+    "찰떡같은 스냅 남기고, 피나클 투어 기분 좋~게 출발해볼까요?📸🌊",
+    "란셀린 샌드보딩 (Lancelin)",
+    "예상보다 스릴 만렙! 란셀린 샌드보딩🌪️",
+    "하얀 설원처럼 펼쳐진 모래 언덕 위, 모래를 가르며 질주하는 짜릿한 한 순간!",
+    "푸른 하늘, 반짝이는 바다와 어우러진 서호주의 이색 풍경 속에서 모래 위 힐링,",
+    "지금 바로 경험해보세요. (보드 대여는 물론 포함! 따로 준비할 건 없어요✌️)",
+    "행오버베이 & 야외바베큐",
+    "노을 맛집 가기 전, 바다 앞 바베큐 한 끼🍽️",
+    "피나클스 일몰을 보러 가기 전, 행오버 비치에서 잠깐의 여유!",
+    "피너클스 사막의 노을과 별빛 감상 (Pinnacles)",
+    "해질 무렵, 피나클스가 황금빛으로 물드는 순간🌅",
+    "가장 아름다운 노을 포인트와 시크릿 별빛 스팟으로 초대합니다!",
+    "어둠이 깔리면 눈앞엔 별이 쏟아지는 밤하늘과 은하수까지 감상하실 수 있어요.",
+    "자연이 선물하는 하루의 피날레, 꼭 함께하세요.✨",
+    "퍼스 시티 도착",
+    "도착 시간은 밤 10:00-10:30PM 입니다."
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2024/10/Star-gazing-1.png",
+   "reviewCountShown": 0,
+   "onHomepage": true,
+   "wpPublished": "2025-11-30",
+   "wpModified": "2026-07-19",
+   "categories": [
+    "tour_category-must-go",
+    "tour_category-full-day-tour",
+    "tour-destination-perth"
+   ],
+   "note": null
+  },
+  {
+   "title": "핑크호수+칼바리+피너클 투어 2박 3일",
+   "url": "https://wowhoju.com.au/tour/2%eb%b0%95-3%ec%9d%bc-%ec%b9%bc%eb%b0%94%eb%a6%ac-%ed%88%ac%ec%96%b4-%ed%95%91%ed%81%ac%ed%98%b8%ec%88%98-%ed%94%bc%eb%84%88%ed%81%b4%ec%8a%a4/",
+   "priceFrom": "$820 AUD",
+   "priceDetail": [
+    "성인 $820 / 아동 $697 (만3-10세)",
+    "1-3인 예약시 5% 할인",
+    "6인 예약시 10% 할인",
+    "*예약시 카톡으로 할인코드 문의하여 주시면, 할인코드 보내드립니다.",
+    "*학교 방학기간에는 숙소비용의 상승으로 할인이 적용되지않습니다."
+   ],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "2박 3일",
+   "availability": "수요일 출발",
+   "departureLines": [
+    "수요일 출발"
+   ],
+   "included": [
+    "한인가이드",
+    "투어 차량",
+    "란셀린 모래사막에서 샌드보드",
+    "국립공원 입장료 (칼바리 국립공원과 남붕 국립공원)",
+    "2회의 아침식사와 바베큐 저녁 식사 (*점심 불포함)과 생수",
+    "2박의 숙박료 (3.5성급 이상의 빌라나 리조트)"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험",
+    "점심 식사"
+   ],
+   "placesMentioned": [
+    "피너클스",
+    "피나클스",
+    "란셀린",
+    "무어리버",
+    "주리엔",
+    "칼바리",
+    "핑크호수",
+    "퍼스 시티",
+    "남붕",
+    "핑크 호수",
+    "Z Bend",
+    "자연의 창"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "[DAY1] : 퍼스 - 칼바리",
+    "출발 시간",
+    "1월 -4월 :오전 8:00am",
+    "5월 -7월 : 오전 7:30 am",
+    "8월 – 12월 : 오전 8:00am",
+    "출발장소",
+    "Australian Red Cross Lifeblood 빌딩 앞 버스 정류장",
+    "290 Wellington St. Perth",
+    "길더튼 무어리버 (Moore River)",
+    "란셀린 샌드보딩 (Lancelin)",
+    "예상보다 스릴 만렙! 란셀린 샌드보딩🛹",
+    "하얀 설원처럼 펼쳐진 모래 언덕 위, 모래를 가르며 질주하는 짜릿한 한 순간!",
+    "(보드 대여는 물론 포함! 따로 준비할 건 없어요✌️)",
+    "점심식사",
+    "청록빛 바다와 함께하는 주리엔 베이 산책 & 점심🌊🍽️",
+    "제랄튼 시티 브레이크 타임 (Geraldton)",
+    "칼바리 숙소 도착",
+    "숙소는 3.5성급 이상의 빌라나 리조트에서 편안하게 지내실 수 있습니다!",
+    "수건은 제공되지만, 치약과 칫솔 등 세면도구는 개인적으로 준비해 주셔야 합니다.",
+    "바베큐 저녁 식사",
+    "첫날의 바베큐 디너는 신선한 샐러드와 호주산 스테이크 바베큐로 준비됩니다 🥩",
+    "맛있는 음식과 함께 호주 전통의 바베큐 문화를 잠시나마 경험해 보세요!",
+    "[DAY2] 아침 식사",
+    "칼바리 국립공원 (Kalbarri National Park)"
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2024/12/Kalbarri.png",
+   "reviewCountShown": 14,
+   "onHomepage": true,
+   "wpPublished": "2025-11-02",
+   "wpModified": "2026-02-02",
+   "categories": [
+    "tour_category-2-3",
+    "tour_category-must-go"
+   ],
+   "note": null
+  },
+  {
+   "title": "서호주 남부 3박 4일 투어-마가렛리버, 월폴, 알바니",
+   "url": "https://wowhoju.com.au/tour/south-roadtrip-4-days/",
+   "priceFrom": "$1,280 AUD",
+   "priceDetail": [
+    "성인 $1280",
+    "아동 $1088 (만3-10세)"
+   ],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "3박 4일",
+   "availability": "\b출발일 문의",
+   "departureLines": [],
+   "included": [
+    "한인가이드",
+    "투어 차량 (12인승 밴이나 19인승 버스)",
+    "3회의 아침, 3회의 저녁식사  (*점심은 개별식사)",
+    "3박의 숙박 (2인 1실 또는 3인 1실)",
+    "버셀튼 제티 기차 탑승료",
+    "동굴투어 입장료",
+    "밸리 오브 트리탑 워크 입장료",
+    "톤디럽 국립공원 입장료",
+    "포롱구럽 국립공원 입장료"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험",
+    "점심 식사"
+   ],
+   "placesMentioned": [
+    "피너클스",
+    "칼바리",
+    "핑크호수",
+    "멍키마이어",
+    "마가렛리버",
+    "버셀튼",
+    "퍼스 시티",
+    "울루루",
+    "월폴",
+    "알바니",
+    "트리탑",
+    "카날락스",
+    "동굴"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "Day 1 : 퍼스 → 마가렛 리버",
+    "출발 시간 : 7:30 am",
+    "버셀턴 제티 (Busselton Jetty)",
+    "현지 브루어리에서 점심 식사",
+    "마가렛리버 초콜릿 팩토리",
+    "이곳에서는 다음과 같은 특별한 경험을 할 수 있어요:",
+    "무료 초콜릿 시식",
+    "초콜릿 제조 과정 엿보기",
+    "수제 초콜릿 쇼핑",
+    "매장에는 무려 200가지 이상의 초콜릿 제품이 가득!",
+    "계절 한정 상품이나 독특한 조합의 초콜릿",
+    "도 만나볼 수 있어 선물용으로도 제격입니다.",
+    "카날락스 해변 (Canal Rocks)",
+    "자연이 만든 수로",
+    "와이너리에서 와인시음",
+    "5:30 숙소 도착",
+    "6:30 저녁 식사",
+    "현지 숙소에 도착하여 휴식을 취하고 저녁 식사를 즐깁니다.",
+    "Day 2 : 마가렛 리버 → 월폴",
+    "8:00 아침 식사후 출발",
+    "동굴투어",
+    "지역의 유명한 석회암 동굴을 탐험하며 지하 세계의 신비를 경험합니다.",
+    "점심 식사",
+    "현지 식당에서 점심을 즐깁니다."
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2025/02/wow-hoju-thumnail3.jpg",
+   "reviewCountShown": 1,
+   "onHomepage": true,
+   "wpPublished": "2025-10-10",
+   "wpModified": "2026-07-20",
+   "categories": [
+    "tour_category-2-3",
+    "tour_category-must-go",
+    "tour-destination-perth"
+   ],
+   "note": null
+  },
+  {
+   "title": "피너클스사막 데이투어",
+   "url": "https://wowhoju.com.au/tour/pinnacle_daytour/",
+   "priceFrom": "$185 AUD",
+   "priceDetail": [
+    "성인 $185",
+    "아동 $157 (만 3세 – 10세)"
+   ],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "10시간",
+   "availability": "\b출발일 문의",
+   "departureLines": [],
+   "included": [
+    "한인 가이드",
+    "투어 차량",
+    "입장료",
+    "서호주 자연산 그릴드 랍스터 런치",
+    "샌드보드 하이어"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험"
+   ],
+   "placesMentioned": [
+    "피나클스",
+    "란셀린",
+    "무어리버"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "Perth City YHA 호텔 출발 & 각 주요 호텔 픽업",
+    "Perth City YHA",
+    "300 Wellington St, Perth WA 6000",
+    "길더턴 무어리버 전망대",
+    "란셀린 (Lancelin Sand Dunes) 모래 사막에서 샌드보딩 타기",
+    "랍스터 공장 방문, 점심식사",
+    "랍스터가 많이 잡히는 서호주 인도양!",
+    "현지에서 저렴하게 싱싱한 랍스터를 드셔보세요.",
+    "랍스터를 드실 경우 $25가 추가됩니다.",
+    "피나클스의 장관 감상",
+    "잠시 다른 행성에 와 있는 듯한 느낌을 주는 피나클스 사막",
+    "수억 년의 세월에 거쳐 만들어진 수 만개의 석회암 돌기둥의 장관을",
+    "가장 잘 내려다보일 수 있는 스팟으로 안내해드립니다",
+    "퍼스 도착"
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2018/09/Pinnacles-14.jpg",
+   "reviewCountShown": 3,
+   "onHomepage": false,
+   "wpPublished": "2025-03-01",
+   "wpModified": "2026-05-12",
+   "categories": [
+    "tour_category-full-day-tour",
+    "tour-destination-perth"
+   ],
+   "note": null
+  },
+  {
+   "title": "마가렛리버\u001d와 버셀튼 제티 일일투어",
+   "url": "https://wowhoju.com.au/tour/margaretriver/",
+   "priceFrom": "$220 AUD",
+   "priceDetail": [
+    "성인 $220",
+    "아동 $187 (만3세-10세)",
+    "*투어 출발 최소 인원은 5명 입니다. (최소 출발인원 부족시에는 출발이 어려울수 있습니다.)",
+    "최소 출발 인원이 모이지 않은 상태이지만, 고객분께서 투어 진행을 원하시는 경우에는 출발이 가능하나",
+    "(*1~3인 단독 출발은 불가합니다.) 4인 단독 출발 시 인당 $30은 현장에서 카드로 결제해주시면 됩니다."
+   ],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "11시간",
+   "availability": "출발일 문의",
+   "departureLines": [
+    "매주 월요일 출발"
+   ],
+   "included": [
+    "한인 가이드",
+    "투어 차량",
+    "버셀튼 제티 기차 탑승료"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험",
+    "점심식사",
+    "와인시음"
+   ],
+   "placesMentioned": [
+    "마가렛리버",
+    "버셀튼",
+    "퍼스 시티",
+    "번버리",
+    "카날락스"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "퍼스 시티 출발",
+    "출발 시간은 아침 8:00 am 입니다.",
+    "집결 장소 : 290 Wellington St. Perth",
+    "번버리 파머스 마켓 (Bunbury Farmers Market)",
+    "서호주 남서부 로드트립 중 꼭 들러야 할 힐링 스팟, 번버리 파머스 마켓! 🌿",
+    "맥주농장에서 점심식사",
+    "마가렛리버 초콜릿 공장 (Chocolate Factory)",
+    "밀크, 다크, 화이트 초콜릿까지 3가지 맛을 마음껏 즐길 수 있어요! 😋",
+    "유리문 너머로 초콜릿이 만들어지는 과정도 구경하며, 달콤한 시간 보내보세요!",
+    "와이너리 방문 및 시음과 와이너리 감상",
+    "와이너리 한 바퀴 돌며 느껴지는 행복, 놓치지 마세요! 😍",
+    "카날락스 (Canal Rocks)",
+    "호주 현지인들도 웨딩 촬영지로 찾을 만큼 진풍경을 자랑하는 카날락스! 📸",
+    "버셀튼 제티(Busselton Jetty) 해변 산책",
+    "푸른 바다를 가로지르는 빨간 기차를 타고 아름다운 인도양 바다를 감상해보세요.",
+    "퍼스 시티 도착"
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2018/09/Swings-roundabouts.jpg",
+   "reviewCountShown": 0,
+   "onHomepage": true,
+   "wpPublished": "2025-02-01",
+   "wpModified": "2026-08-01",
+   "categories": [
+    "tour_category-must-go",
+    "tour_category-full-day-tour",
+    "tour-destination-perth"
+   ],
+   "note": null
+  },
+  {
+   "title": "캐버샴 야생공원 + 스완밸리 와이너리",
+   "url": "https://wowhoju.com.au/tour/swanvalley/",
+   "priceFrom": "$180 AUD",
+   "priceDetail": [
+    "성인 $180",
+    "아동 $153 (만3-10세)"
+   ],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "8시간",
+   "availability": "\b출발일 문의",
+   "departureLines": [],
+   "included": [
+    "한인 가이드",
+    "와인 테이스팅",
+    "캐버샴 야생공원 입장료 (성인$35 / 아동$16 상당)"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험",
+    "런치 (자유구매 런치)"
+   ],
+   "placesMentioned": [
+    "마가렛리버",
+    "스완밸리",
+    "캐버샴"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "투어 출발전 미팅 장소",
+    "290 Wellington St. Perth",
+    "캐버샴 야생공원",
+    "캥거루 먹이주기는 Daily 9.00am to 5.30pm",
+    "와이너리에서 런치",
+    "샌달포드 와이너리",
+    "초콜릿 팩토리",
+    "야하바 커피공장",
+    "스완밸리(Swan Valley)에 위치한",
+    "Yahava KoffeeWorks",
+    "퍼스도착",
+    "투어를 마치고 시티로 돌아옵니다."
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2018/09/caversham-wild-park18.jpg",
+   "reviewCountShown": 1,
+   "onHomepage": true,
+   "wpPublished": "2025-01-14",
+   "wpModified": "2025-08-27",
+   "categories": [
+    "tour_category-full-day-tour",
+    "tour_category-how-to-enjoy-perth",
+    "tour-destination-perth"
+   ],
+   "note": null
+  },
+  {
+   "title": "퍼스 시티와 프리맨틀 투어",
+   "url": "https://wowhoju.com.au/tour/perthcity_fremantle/",
+   "priceFrom": "$140 AUD",
+   "priceDetail": [
+    "성인 $140",
+    "아동 $119 (만3-10세)"
+   ],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "8시간",
+   "availability": "\b출발일 문의",
+   "departureLines": [],
+   "included": [
+    "한인가이드",
+    "투어 차량",
+    "\b생수"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험",
+    "런치  (자유구매 런치)"
+   ],
+   "placesMentioned": [
+    "프리맨틀",
+    "퍼스 시티",
+    "킹스파크"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "투어 출발전 미팅 장소",
+    "290 Wellington St. Perth (Google Map)",
+    "아름다운 스완리버를 볼 수 있는 엘리자베스 선착장",
+    "퍼스 최대 공원 킹스파크 보타닉가든",
+    "유럽 느낌 물씬 나는 프리맨틀 돌아보기",
+    "점심 식사",
+    "먹거리와 즐길거리가 많은 프리맨틀에서 개별 현지식으로 점심식사를 하시게 됩니다.",
+    "프리맨틀 마켓 (주말에만 가능합니다.)",
+    "카페 거리",
+    "사우스테라스 좌우로 레스토랑과 커피숖이 줄지어 있는 카푸치노 거리로 가보세요.",
+    "라운드 하우스",
+    "헐리우드 배우 히스레저가 사랑한 코테슬로 비치",
+    "퍼스 시티 도착"
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2018/12/perth-city.jpg",
+   "reviewCountShown": 2,
+   "onHomepage": true,
+   "wpPublished": "2025-01-13",
+   "wpModified": "2025-08-22",
+   "categories": [
+    "tour_category-full-day-tour",
+    "tour_category-how-to-enjoy-perth",
+    "tour-destination-perth"
+   ],
+   "note": null
+  },
+  {
+   "title": "로트네스트 섬 페리 + 자전거 콤보",
+   "url": "https://wowhoju.com.au/tour/rottnest-bike/",
+   "priceFrom": "$120 AUD",
+   "priceDetail": [
+    "프리멘틀 B-Shed 출발",
+    "성인 $ 120",
+    "결제시",
+    "*로트네스트 관련은 예약금이 아닌",
+    "전체 결제",
+    "를 해주셔야 예약이 이루어집니다*"
+   ],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "대략 7시간",
+   "availability": "매일 출발 (성탄절 제외)",
+   "departureLines": [],
+   "included": [
+    "자전거 대여비 (성인 자전거 26인치)",
+    "입장료  (Government Admission Fee)",
+    "선박 티켓"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험"
+   ],
+   "placesMentioned": [
+    "로트네스트",
+    "프리맨틀",
+    "프리멘틀",
+    "등대"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "프리맨틀 항구 출발",
+    "로트네스트 아일랜드 도착",
+    "자전거로 섬 한바퀴 투어",
+    "로트네스트 아일랜드 출발",
+    "프리맨틀 도착"
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2018/09/Rottnest-23.jpg",
+   "reviewCountShown": 0,
+   "onHomepage": false,
+   "wpPublished": "2025-01-01",
+   "wpModified": "2025-07-27",
+   "categories": [
+    "tour_category-bus-ferry-tour"
+   ],
+   "note": null
+  },
+  {
+   "title": "웨이브락 어드벤처 투어",
+   "url": "https://wowhoju.com.au/tour/waverock/",
+   "priceFrom": "$240 AUD",
+   "priceDetail": [
+    "성인 $240",
+    "아동 $204 (만3-10세)",
+    "*투어 출발 최소 인원은 5명 입니다. (최소 출발인원 부족시에는 출발이 어려울수 있습니다.)",
+    "최소 출발 인원이 모이지 않은 상태이지만, 고객분께서 투어 진행을 원하시는 경우에는 출발이 가능하나",
+    "(*1~3인 단독 출발은 불가합니다.) 4인 단독 출발 시 인당 $30은 현장에서 카드로 결제해주시면 됩니다."
+   ],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "12시간",
+   "availability": "출발일 문의",
+   "departureLines": [
+    "매주 월요일 출발"
+   ],
+   "included": [
+    "한인 가이드",
+    "투어 차량",
+    "입장료"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험",
+    "런치 (각자 자유 구매)"
+   ],
+   "placesMentioned": [
+    "웨이브락",
+    "퍼스 시티",
+    "요크"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "퍼스 시티 출발",
+    "요크 마을 (York Town)",
+    "또한 골드러시 시대에는 금광 지대에서 오는 종착역으로 유명했죠🏞️",
+    "애완견 묘지 (Dog Cemetry)",
+    "코리진 도그 묘지는 서호주 사람들의 따뜻한 마음이 담긴 특별한 장소입니다. 🐾",
+    "점심식사",
+    "웨이브락 가는 길에 잠깐 들르는 작은 시골 마을, 코리진(Corrigin)!",
+    "웨이브락 (Wave Rock)",
+    "하마 하품 바위 (Hippo's Yawn)",
+    "웨이브락과 함께 또 다른 인기 포토존으로 떠오르고 있는 하마 하품 바위! 🦛",
+    "퍼스 시티 도착"
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2018/12/wave-rock.jpg",
+   "reviewCountShown": 0,
+   "onHomepage": true,
+   "wpPublished": "2024-12-01",
+   "wpModified": "2026-05-22",
+   "categories": [
+    "tour_category-must-go",
+    "tour_category-full-day-tour",
+    "tour-destination-perth"
+   ],
+   "note": null
+  },
+  {
+   "title": "울루루 1박 2일 캠핑투어 [현지인가이드]",
+   "url": "https://wowhoju.com.au/tour/uluru2dayscamping/",
+   "priceFrom": "$595 AUD",
+   "priceDetail": [
+    "성인: $595 (만 13세 이상)",
+    "아동: $535 (만 8세~12세)",
+    "유아 : (만 8세 미만 불가) *담당자 문의 필수",
+    "*상기요금은 사전 공지없이 변경될 수 있습니다.",
+    "환불 규정",
+    "이 상품은 투어 업체 규정상 취소나 환불이 불가능하므로, 예약 전 반드시 담당자와 충분히 상담하시고 신중하게 결정하시길 권장드립니다."
+   ],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "1박 2일",
+   "availability": "출발일 문의",
+   "departureLines": [],
+   "included": [
+    "외국인 가이드",
+    "차량, 픽업과 드롭오프",
+    "아침1회 / 저녁1회",
+    "1박 숙박료 (파워드 캠핑장)",
+    "울루루 국립공원 입장료"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험",
+    "점심식사",
+    "항공"
+   ],
+   "placesMentioned": [
+    "울루루",
+    "울룰루"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "Day 1",
+    "에어즈락 공항, Desert Garden Hotel 픽업",
+    "카타추타 국립공원 (Kata Tjuta)",
+    "울루루에서",
+    "서쪽으로 약 42km",
+    ", ‘많은 머리’라는 뜻의 *카타추타(올가산)*가 펼쳐져 있어요.",
+    "울루루가 한 덩어리의 거대한 바위라면, 이곳은",
+    "546m 높이의 바위 36개가 옹기종기",
+    "모여 있는 느낌!",
+    "그래서인지 울루루는 ‘남성’, 카타추타는 ‘여성’으로 종종 비유되곤 해요 😌",
+    "이번 코스에서는 카타추타 안에 숨겨진",
+    "왈파고지 협곡 트래킹",
+    "을 진행합니다.",
+    "붉은 협곡 사이를 걷는 그 순간, 말로 다 못할 감동이 밀려올 거예요.",
+    "진짜, 인생샷은 덤입니다📸",
+    "울루루 (Uluru)",
+    "세상의 중심, 지구의 배꼽이라 불리는 울루루",
+    "(Uluru)",
+    "호주 원주민들에게",
+    "신성한 존재",
+    "로 여겨지는 이 거대한 바위를 천천히 걸으며 그 웅장함을 온몸으로 느껴보세요.",
+    "그리고 하루의 끝,",
+    "붉게 타오르는 석양 속 울루루",
+    "를 마주하는 순간, 말이 필요 없는, 그야말로 레전드 감동입니다."
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2023/05/ATA_NT_Red-Centre_uluru_9075.jpg",
+   "reviewCountShown": 1,
+   "onHomepage": true,
+   "wpPublished": "2024-10-05",
+   "wpModified": "2026-10-02",
+   "categories": [
+    "tour_category-1182",
+    "tour-destination-uluru"
+   ],
+   "note": null
+  },
+  {
+   "title": "울루루 2박 3일 캠핑투어  [Alice Springs 출발]",
+   "url": "https://wowhoju.com.au/tour/uluru4days-alicesprings/",
+   "priceFrom": "$775 AUD",
+   "priceDetail": [
+    "성인: $775",
+    "*상기요금은 사전 공지없이 변경될 수 있습니다.",
+    "환불 규정",
+    "이 상품은 투어 업체 규정상 취소나 환불이 불가능하므로, 예약 전 반드시 담당자와 충분히 상담하시고 신중하게 결정하시길 권장드립니다."
+   ],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "2박 3일",
+   "availability": "출발일 문의",
+   "departureLines": [],
+   "included": [
+    "외국인 가이드",
+    "차량 : 모든 투어 픽업, 드롭오프",
+    "울루루 국립공원 입장료",
+    "셔틀버스",
+    "2박 캠핑 숙박료"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험",
+    "항공"
+   ],
+   "placesMentioned": [
+    "울루루",
+    "앨리스",
+    "킹스캐년"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "Day 1",
+    "Alice Springs에서 픽업",
+    "카타추타 국립공원 (Kata Tjuta)",
+    "앨리스 스프링스에서",
+    "울루루까지는 약 450km, 차로 5~6시간",
+    "정도 소요됩니다.",
+    "울루루에 도착하면, 땅 위로 거대한 바위 덩어리",
+    "가 모습을 드러냅니다.",
+    "점심 후에는 울루루에서",
+    "서쪽으로 약 42km",
+    ", ‘많은 머리’라는 뜻의 *카타추타(올가산)*가 펼쳐져 있어요.",
+    "울루루가 한 덩어리의 거대한 바위라면, 이곳은",
+    "546m 높이의 바위 36개가 옹기종기",
+    "모여 있는 느낌!",
+    "그래서인지 울루루는 ‘남성’, 카타추타는 ‘여성’으로 종종 비유되곤 해요",
+    "이번 코스에서는 카타추타 안에 숨겨진",
+    "왈파고지 협곡 트래킹",
+    "을 진행합니다.",
+    "붉은 협곡 사이를 걷는 그 순간, 말로 다 못할 감동이 밀려올 거예요.",
+    "진짜, 인생샷은 덤입니다",
+    "울루루 (Uluru)",
+    "세상의 중심, 지구의 배꼽이라 불리는 울루루",
+    "(Uluru)",
+    "호주 원주민들에게"
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2023/05/ATA_NT_Uluru_8880-2-2.jpg",
+   "reviewCountShown": 1,
+   "onHomepage": true,
+   "wpPublished": "2024-08-22",
+   "wpModified": "2026-10-02",
+   "categories": [
+    "tour_category-1187",
+    "tour_category-1189",
+    "tour_category-1180",
+    "tour_category-1182"
+   ],
+   "note": null
+  },
+  {
+   "title": "로트네스트 섬 그랜드투어 (페리+기차+버스투어)",
+   "url": "https://wowhoju.com.au/tour/rottnest-grand-tour/",
+   "priceFrom": "$180 AUD",
+   "priceDetail": [
+    "프리멘틀 B-Shed 출발",
+    "성인 $ 180",
+    "아동 (만11-16) $ 144",
+    "아동 (만3-10세) $ 102",
+    "출발 / 도착 시간 & 장소",
+    "그랜드투어 출발 /도착 시간",
+    "11:30am 투어 시작",
+    "3:15pm 투어 종료"
+   ],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "7시간",
+   "availability": "매일 출발 (성탄절 제외)",
+   "departureLines": [],
+   "included": [
+    "현지인 가이드",
+    "페리 + 기차 + 버스 투어",
+    "입장료  (Government Admission Fee)",
+    "음료와 점심",
+    "선박 티켓"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험"
+   ],
+   "placesMentioned": [
+    "로트네스트",
+    "프리맨틀",
+    "프리멘틀",
+    "등대"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "프리맨틀 항구 출발",
+    "로트네스트 아일랜드 도착",
+    "버스 or 기차 투어",
+    "점심식사",
+    "버스 or 기차 투어",
+    "로트네스트 아일랜드 출발",
+    "프리맨틀 도착"
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2018/09/Rottnest-36.jpg",
+   "reviewCountShown": 0,
+   "onHomepage": true,
+   "wpPublished": "2024-07-26",
+   "wpModified": "2025-08-22",
+   "categories": [
+    "tour_category-bus-ferry-tour",
+    "tour_category-how-to-enjoy-perth"
+   ],
+   "note": null
+  },
+  {
+   "title": "울루루 3박 4일 캠핑투어  [현지인가이드]",
+   "url": "https://wowhoju.com.au/tour/uluru4dayscamping/",
+   "priceFrom": "$825 AUD",
+   "priceDetail": [
+    "성인: $825",
+    "*상기요금은 사전 공지없이 변경될 수 있습니다.",
+    "환불 규정",
+    "이 상품은 투어 업체 규정상 취소나 환불이 불가능하므로, 예약 전 반드시 담당자와 충분히 상담하시고 신중하게 결정하시길 권장드립니다."
+   ],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "3박 4일",
+   "availability": "출발일 문의",
+   "departureLines": [],
+   "included": [
+    "외국인 가이드",
+    "차량 : 모든 투어 픽업, 드롭로프",
+    "울룰루 국립공원 입장료",
+    "공항 셔틀버스",
+    "3박 캠핑 숙박료"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험",
+    "항공"
+   ],
+   "placesMentioned": [
+    "울루루",
+    "울룰루",
+    "킹스캐년"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "Day 1",
+    "에어즈락 공항, Desert Garden Hotel 픽업",
+    "카타추타 국립공원 (Kata Tjuta)",
+    "울룰루에서",
+    "서쪽으로 약 42km",
+    ", ‘많은 머리’라는 뜻의 *카타추타(올가산)*가 펼쳐져 있어요.",
+    "울룰루가 한 덩어리의 거대한 바위라면, 이곳은",
+    "546m 높이의 바위 36개가 옹기종기",
+    "모여 있는 느낌!",
+    "그래서인지 울룰루는 ‘남성’, 카타추타는 ‘여성’으로 종종 비유되곤 해요",
+    "이번 코스에서는 카타추타 안에 숨겨진",
+    "왈파고지 협곡 트래킹",
+    "을 진행합니다.",
+    "붉은 협곡 사이를 걷는 그 순간, 말로 다 못할 감동이 밀려올 거예요.",
+    "진짜, 인생샷은 덤입니다",
+    "울룰루 (Uluru)",
+    "세상의 중심, 지구의 배꼽이라 불리는 울룰루",
+    "(Uluru)",
+    "호주 원주민들에게",
+    "신성한 존재",
+    "로 여겨지는 이 거대한 바위를 천천히 걸으며 그 웅장함을 온몸으로 느껴보세요.",
+    "그리고 하루의 끝,",
+    "붉게 타오르는 석양 속 울룰루",
+    "를 마주하는 순간, 말이 필요 없는, 그야말로 레전드 감동입니다."
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2023/05/ATA_NT_Uluru_8880-2-2.jpg",
+   "reviewCountShown": 0,
+   "onHomepage": true,
+   "wpPublished": "2024-07-19",
+   "wpModified": "2025-08-27",
+   "categories": [
+    "tour_category-1180",
+    "tour_category-1182"
+   ],
+   "note": null
+  },
+  {
+   "title": "로트네스트 섬 페리",
+   "url": "https://wowhoju.com.au/tour/rottnest_ferry/",
+   "priceFrom": "$84 AUD",
+   "priceDetail": [
+    "프리멘틀 B-Shed Terminal 에서 출발시",
+    "성인 $ 84",
+    "아동 $42 (4-12세)",
+    "패밀리 (성인 2명과 아동2명) $225",
+    "퍼스시티 Barrack Jetty Terminal",
+    "에서 출발시",
+    "성인 $125",
+    "아동 $68 (4-12세)"
+   ],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "Various",
+   "availability": "매일 출발",
+   "departureLines": [],
+   "included": [
+    "로트네스트 섬 왕복 페리"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험",
+    "가이드"
+   ],
+   "placesMentioned": [
+    "로트네스트",
+    "프리맨틀",
+    "프리멘틀"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "B Shed Fremantle 페리 출발",
+    "로트네스트 섬 도착, 자유시간",
+    "자유 여행",
+    "로트네스트 섬에서 페리 승선",
+    "B Shed Fremantle 도착"
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2019/10/Rottnest-Ferry.png",
+   "reviewCountShown": 0,
+   "onHomepage": false,
+   "wpPublished": "2023-10-07",
+   "wpModified": "2025-05-28",
+   "categories": [
+    "tour_category-bus-ferry-tour"
+   ],
+   "note": null
+  },
+  {
+   "title": "로트네스트 섬 페리 + 셔틀버스 (Hop on Hop off Bus)",
+   "url": "https://wowhoju.com.au/tour/%eb%a1%9c%ed%8a%b8%eb%84%a4%ec%8a%a4%ed%8a%b8-%ec%84%ac-%ed%8e%98%eb%a6%ac-%ec%85%94%ed%8b%80%eb%b2%84%ec%8a%a4-hop-on-hop-off-bus/",
+   "priceFrom": "$114 AUD",
+   "priceDetail": [
+    "성인 $114 : Ferry $84 + Hop on hop off bus $30",
+    "아동 $64 (4-12세) : Ferry $42 + Hop on hop off bus $22"
+   ],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "Various",
+   "availability": "출발일 문의",
+   "departureLines": [],
+   "included": [
+    "왕복 선박 티켓",
+    "로트네스트 섬 입장료 (Government Admission Fee)",
+    "로트네스트 섬 내 셔틀버스"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험",
+    "점심 (*개별 점심 식사)"
+   ],
+   "placesMentioned": [
+    "로트네스트",
+    "프리맨틀"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "B Shed Fremantle 도착 & 페리 승선",
+    "로트네스트 섬 도착 & 셔틀버스로 섬 여행",
+    "B Shed Fremantle 도착"
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2018/09/cruize-16.jpg",
+   "reviewCountShown": 0,
+   "onHomepage": false,
+   "wpPublished": "2023-09-01",
+   "wpModified": "2025-07-27",
+   "categories": [
+    "tour_category-bus-ferry-tour"
+   ],
+   "note": null
+  },
+  {
+   "title": "로트네스트 섬 투어 (페리 + 셔틀버스) + 프리맨틀 투어",
+   "url": "https://wowhoju.com.au/tour/rottnest_flight-2-2-2-2/",
+   "priceFrom": "$103 AUD",
+   "priceDetail": [
+    "성인 $103",
+    "아동 $96 (4-12세)"
+   ],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "Various",
+   "availability": "출발일 문의",
+   "departureLines": [],
+   "included": [
+    "왕복 선박 티켓",
+    "로트네스트 섬 입장료 (Government Admission Fee)",
+    "로트네스트 섬 내 셔틀버스",
+    "프리맨틀 투어",
+    "한인 가이드"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험",
+    "점심 (*개별 점심 식사)"
+   ],
+   "placesMentioned": [
+    "로트네스트",
+    "프리맨틀",
+    "퍼스 시티"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "Perth City YHA 호텔 출발 & 각 주요 호텔 픽업",
+    "B Shed Fremantle 도착 & 페리 승선",
+    "로트네스트 섬 도착 & 셔틀버스로 섬 여행",
+    "B Shed Fremantle 도착",
+    "프리맨틀 마켓 : 주말에만 방문합니다.",
+    "프리맨틀 아트센터",
+    "라운드 하우스",
+    "리틀 크리쳐스 맥주공장",
+    "Fishing Boat Harbour",
+    "퍼스 시티 내 호텔 드롭오프"
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2018/09/cruize-16.jpg",
+   "reviewCountShown": 0,
+   "onHomepage": false,
+   "wpPublished": "2019-03-27",
+   "wpModified": "2023-12-01",
+   "categories": [],
+   "note": "홈페이지 미노출·2024년 이전 수정 — 판매 중인지 확인 못 함(옛 상품 가능성)"
+  },
+  {
+   "title": "멍키마이어+핑크호수+칼바리+피너클스 3박 4일",
+   "url": "https://wowhoju.com.au/tour/sharkbay5days/",
+   "priceFrom": "$1,050 AUD",
+   "priceDetail": [
+    "성인 $1050 / 아동 $945"
+   ],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "3박 4일",
+   "availability": "\b출발일 문의",
+   "departureLines": [],
+   "included": [
+    "한인가이드",
+    "투어 차량",
+    "입장료",
+    "숙박"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험",
+    "식사"
+   ],
+   "placesMentioned": [
+    "피너클스",
+    "피나클스",
+    "주리엔",
+    "칼바리",
+    "핑크호수",
+    "멍키마이어",
+    "샤크베이"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "Day 1",
+    "Perth City YHA 호텔 출발 & 각 주요 호텔 픽업",
+    "Perth City YHA",
+    "300 Wellington St, Perth WA 6000",
+    "주리엔 베이 (Jurien Bay)",
+    "제랄튼 도착 (개별식사)",
+    "핑크레이크",
+    "Island Rock & Natural Bridge",
+    "칼바리 숙소 도착",
+    "DAY2",
+    "숙소 아침식사",
+    "호주식으로 준비된 아침식사, 에그&토스트 +우유&시리얼이 제공됩니다.",
+    "칼바리 숙소 출발",
+    "식사를 마친 후, 캠핑장을 떠나 본격적인 칼바리 투어를 시작합니다.",
+    "칼바리 국립공원",
+    "서호주의 그랜드캐년, 18만 6천 헥타르에 이르는 칼바리 국립공원에 도착합니다.",
+    "빌라봉 로드하우스 점심식사 (햄버거나 피자, 개별식사)",
+    "멍키마이어 해변",
+    "바베큐 저녁 식사",
+    "숙소에 도착하여 호주식 바베큐로 저녁식사를 드신 후 자유시간을 갖게 됩니다.",
+    "DAY 3",
+    "샤크베이 숙소 출발",
+    "쉘비치 산책과 사진 촬영",
+    "해믈린 풀의 스트로마톨라이트 해변"
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2018/12/Monkey-Mia.jpeg",
+   "reviewCountShown": 14,
+   "onHomepage": false,
+   "wpPublished": "2018-12-27",
+   "wpModified": "2025-09-03",
+   "categories": [
+    "tour_category-2-3",
+    "tour_category-best-hotplace",
+    "tour-destination-perth"
+   ],
+   "note": null
+  },
+  {
+   "title": "로트네스트 섬 버스 1일 이용 티켓",
+   "url": "https://wowhoju.com.au/tour/rottnest_flight-2/",
+   "priceFrom": "$20 AUD",
+   "priceDetail": [],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": null,
+   "availability": null,
+   "departureLines": [],
+   "included": [
+    "버스 1일 이용 티켓"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험"
+   ],
+   "placesMentioned": [
+    "로트네스트"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "버스로 로트네스트 섬을 돌아보는 자유여행"
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2018/10/Rottnest-bus.jpg",
+   "reviewCountShown": 14,
+   "onHomepage": false,
+   "wpPublished": "2018-09-22",
+   "wpModified": "2019-10-23",
+   "categories": [],
+   "note": "홈페이지 미노출·2024년 이전 수정 — 판매 중인지 확인 못 함(옛 상품 가능성)"
+  },
+  {
+   "title": "퍼스시티와 프리맨틀 – 반나절 투어",
+   "url": "https://wowhoju.com.au/tour/test-3-3-2-2-2-2/",
+   "priceFrom": "$330 AUD",
+   "priceDetail": [],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "10시간",
+   "availability": "매주 금요일 출발",
+   "departureLines": [
+    "매주 금요일 출발"
+   ],
+   "included": [
+    "한인가이드",
+    "숙소픽업서비스",
+    "차량"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험"
+   ],
+   "placesMentioned": [
+    "프리맨틀",
+    "퍼스 시티",
+    "킹스파크"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "Perth City YHA 호텔 출발 & 각 주요 호텔 픽업",
+    "Perth City YHA",
+    "300 Wellington St, Perth WA 6000",
+    "엘리자베스 선착장",
+    "킹스파크 보타닉 가든",
+    "코테슬로 비치",
+    "프리맨틀",
+    "퍼스 숙소 도착"
+   ],
+   "heroImage": null,
+   "reviewCountShown": 0,
+   "onHomepage": false,
+   "wpPublished": "2018-09-20",
+   "wpModified": "2018-10-24",
+   "categories": [],
+   "note": "홈페이지 미노출·2024년 이전 수정 — 판매 중인지 확인 못 함(옛 상품 가능성)"
+  },
+  {
+   "title": "자이언트밸리 트리탑워크 투어",
+   "url": "https://wowhoju.com.au/tour/treetop-walk/",
+   "priceFrom": "$215 AUD",
+   "priceDetail": [
+    "성인 $215"
+   ],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "10시간",
+   "availability": "매주 금요일 출발",
+   "departureLines": [
+    "매주 금요일 출발"
+   ],
+   "included": [
+    "현지인영어가이드",
+    "숙소픽업서비스",
+    "입장료",
+    "점심식사"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험"
+   ],
+   "placesMentioned": [
+    "트리탑"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "퍼스 출발",
+    "Perth City YHA",
+    "300 Wellington St, Perth WA 6000",
+    "도니브룩 Black wood River Valley 과일 농장",
+    "51m높이 다이아몬드 트리 전망대",
+    "점심식사",
+    "자이언트 밸리 트리탑워킹",
+    "윌리엄베이 해변 감상",
+    "코자플레이스 비지터 센터",
+    "이곳에서 저녁식사를 하실 수 있으며 식사비는 별도입니다.",
+    "퍼스 도착"
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2018/09/tree-top-1.jpg",
+   "reviewCountShown": 0,
+   "onHomepage": false,
+   "wpPublished": "2018-09-20",
+   "wpModified": "2018-10-17",
+   "categories": [],
+   "note": "홈페이지 미노출·2024년 이전 수정 — 판매 중인지 확인 못 함(옛 상품 가능성)"
+  },
+  {
+   "title": "야생 돌고래와 수영하기 – 럭셔리크루즈",
+   "url": "https://wowhoju.com.au/tour/dolphins-swim/",
+   "priceFrom": "$330 AUD",
+   "priceDetail": [
+    "성인 $205"
+   ],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "10시간",
+   "availability": "매주 금요일 출발",
+   "departureLines": [
+    "매주 금요일 출발",
+    "매주 수요일과 토요일 출발"
+   ],
+   "included": [
+    "현지인영어가이드",
+    "퍼스 숙소 픽업서비스",
+    "잠수복, 마스크, 스노클링장비와 레슨",
+    "점심",
+    "크루즈티켓",
+    "안전교육",
+    "돌고래와 수영",
+    "3-6시간의 돌고래와 수영하기"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험"
+   ],
+   "placesMentioned": [],
+   "itineraryStops": [
+    "투어 일정",
+    "Perth City YHA 호텔 출발 & 각 주요 호텔 픽업",
+    "Perth City YHA",
+    "300 Wellington St, Perth WA 6000",
+    "록킹햄 요트클럽 도착",
+    "Introduction 유의사항",
+    "크루즈 점심식사",
+    "잠수복, 산소마스크, 스노클링장비 착용 후 안전교육",
+    "돌고래와 수영하기",
+    "퍼스 숙소 도착"
+   ],
+   "heroImage": null,
+   "reviewCountShown": 0,
+   "onHomepage": false,
+   "wpPublished": "2018-09-20",
+   "wpModified": "2018-10-17",
+   "categories": [],
+   "note": "홈페이지 미노출·2024년 이전 수정 — 판매 중인지 확인 못 함(옛 상품 가능성)"
+  },
+  {
+   "title": "퍼스 & 프리멘틀 그랜드투어 (Tram & Cruise)",
+   "url": "https://wowhoju.com.au/tour/perth-fremantle_grand/",
+   "priceFrom": "$130 AUD",
+   "priceDetail": [],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "9시간",
+   "availability": " 매일 출발",
+   "departureLines": [],
+   "included": [
+    "셀프가이드",
+    "트램 티켓",
+    "크루즈 티켓"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험"
+   ],
+   "placesMentioned": [
+    "프리맨틀",
+    "퍼스 시티"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "WACA",
+    "Home of Western Australia Cricket",
+    "Kings Park Botanic Gardens",
+    "퍼스 시티",
+    "Cottesloe Beach",
+    "크루즈로 프리맨틀 이동",
+    "프리맨틀 트램 관광",
+    "Millionaire’s Row",
+    "Swan River Cruise"
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2018/09/Perh-city-13.jpg",
+   "reviewCountShown": 0,
+   "onHomepage": false,
+   "wpPublished": "2018-09-20",
+   "wpModified": "2022-10-26",
+   "categories": [],
+   "note": "홈페이지 미노출·2024년 이전 수정 — 판매 중인지 확인 못 함(옛 상품 가능성)"
+  },
+  {
+   "title": "길포드 + 스완밸리 와이너리",
+   "url": "https://wowhoju.com.au/tour/test-3-5-2/",
+   "priceFrom": "$330 AUD",
+   "priceDetail": [],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "10시간",
+   "availability": "매주 금요일 출발",
+   "departureLines": [
+    "매주 금요일 출발"
+   ],
+   "included": [
+    "현지 영어가이드",
+    "45종의 와인 시음",
+    "무료 맥주 시음",
+    "초콜렛, 수제트러플 시식",
+    "와이너리 점심식사 제공",
+    "픽업서비스"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험"
+   ],
+   "placesMentioned": [
+    "마가렛리버",
+    "스완밸리",
+    "퍼스 시티",
+    "길포드"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "Perth City YHA 호텔 출발 & 각 주요 호텔 픽업",
+    "Perth City YHA",
+    "300 Wellington St, Perth WA 6000",
+    "예술품, 골동품 쇼핑할 수 있는 유서깊은 마을 길포드",
+    "스완밸리 서호주 가장 전통있는 와인산지에서 와인시음",
+    "와이너리 투어 및 점심식사",
+    "Brewery 방문, 수제맥주 시음",
+    "마가렛리버 초콜렛 공장, 수제 트러플 시식",
+    "퍼스 숙소 도착"
+   ],
+   "heroImage": null,
+   "reviewCountShown": 1,
+   "onHomepage": false,
+   "wpPublished": "2018-09-15",
+   "wpModified": "2018-10-24",
+   "categories": [],
+   "note": "홈페이지 미노출·2024년 이전 수정 — 판매 중인지 확인 못 함(옛 상품 가능성)"
+  },
+  {
+   "title": "Hop On Hop off 셔틀버스",
+   "url": "https://wowhoju.com.au/tour/rottnest_skydiving-2-2-2/",
+   "priceFrom": "$46 AUD",
+   "priceDetail": [],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": null,
+   "availability": null,
+   "departureLines": [],
+   "included": [
+    "스카이 다이빙",
+    "로트네스트 섬내 관광셔틀버스 티켓",
+    "해변 Bar에서 음료 제공",
+    "로트네스트 섬 왕복 페리 티켓",
+    "로트네스트 섬 입장료"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험"
+   ],
+   "placesMentioned": [
+    "로트네스트",
+    "버셀튼",
+    "프리맨틀",
+    "프리멘틀",
+    "퍼스 시티",
+    "킹스파크"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "7:00 am",
+    "프리멘틀 B Shed에서 페리 출발",
+    "7:35 am",
+    "로트네스트 섬 도착",
+    "8:00 am",
+    "7월 -8월, 4:00pm",
+    "로트네스트 섬 출발",
+    "7월 -8월, 4:35 pm",
+    "프리멘틀 B Shed 도착",
+    "10월 - 3월,5:55pm",
+    "로트네스트 섬 출발",
+    "8월 6일-8월 31일 사이에는 선박 서비스가 없습니다."
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2018/09/Bus-tour2.jpg",
+   "reviewCountShown": 0,
+   "onHomepage": false,
+   "wpPublished": "2018-08-19",
+   "wpModified": "2022-10-26",
+   "categories": [],
+   "note": "홈페이지 미노출·2024년 이전 수정 — 판매 중인지 확인 못 함(옛 상품 가능성)"
+  },
+  {
+   "title": "이층버스타고 퍼스경험하기",
+   "url": "https://wowhoju.com.au/tour/bustour/",
+   "priceFrom": "$35 AUD",
+   "priceDetail": [],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "2시간 (24시간 이용가능)",
+   "availability": "매일 출발",
+   "departureLines": [],
+   "included": [],
+   "excluded": [],
+   "placesMentioned": [
+    "퍼스 시티",
+    "킹스파크"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "1. Barrack St Jetty Elizabeth Quay",
+    "2. 471 Hay St",
+    "City Shops & Malls",
+    "3. Cultural Centre - Beaufort St.",
+    "Northbridge, Art Gallery, Cultural Centre",
+    "4. Optus Stadium",
+    "Optus Stadium tour",
+    "5. Crown Perth Riverside Entrance",
+    "Casino, Restaurants, Hotels, Burswood Park",
+    "6. Perth Mint- Hay Street",
+    "Gold exhibition",
+    "Bus & Bullion",
+    "7. Kings Park - Wadjuk Car Park",
+    "8. Roe Gardens",
+    "9. May Drive - Wadjuk Car Park",
+    "10. Water Town - Welling St.",
+    "Discount Shooping Centre",
+    "11. 300 Murray St - Yagan Square",
+    "12. 50 William St",
+    "Shopping Mals"
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2018/09/Bus-tour2.jpg",
+   "reviewCountShown": 0,
+   "onHomepage": false,
+   "wpPublished": "2018-07-21",
+   "wpModified": "2022-10-26",
+   "categories": [],
+   "note": "홈페이지 미노출·2024년 이전 수정 — 판매 중인지 확인 못 함(옛 상품 가능성)"
+  },
+  {
+   "title": "에스페란스 1박2일 여행",
+   "url": "https://wowhoju.com.au/tour/esperance-2/",
+   "priceFrom": null,
+   "priceDetail": [],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "1박2일",
+   "availability": "개별 문의",
+   "departureLines": [],
+   "included": [
+    "한인가이드",
+    "투어 차량",
+    "입장료",
+    "음료와 점심",
+    "숙소"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험"
+   ],
+   "placesMentioned": [
+    "웨이브락",
+    "에스페란스",
+    "요크"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "DAY1  Perth City YHA 호텔 출발 & 각 주요 호텔 픽업",
+    "Perth City YHA",
+    "300 Wellington St, Perth WA 6000",
+    "요크 (York) 시내 및 전망대",
+    "웨이브락 (험프스 바위, 하마하품 바위)",
+    "레이크킹 (트랙터 박물관 및 휴식)",
+    "먼글린업 (휴식 및 간식)",
+    "에스페란스 숙소 도착 BBQ 식사 및 1박",
+    "DAY 2  에스페란스 숙소 전망대 및 비치 투어",
+    "럭키 베이",
+    "퍼스 도착"
+   ],
+   "heroImage": null,
+   "reviewCountShown": 14,
+   "onHomepage": false,
+   "wpPublished": "2018-06-21",
+   "wpModified": "2019-09-04",
+   "categories": [],
+   "note": "홈페이지 미노출·2024년 이전 수정 — 판매 중인지 확인 못 함(옛 상품 가능성)"
+  },
+  {
+   "title": "마가렛리버 그룹투어",
+   "url": "https://wowhoju.com.au/tour/margaretriver_daytour/",
+   "priceFrom": "$245 AUD",
+   "priceDetail": [
+    "성인 $245",
+    "아동 $138 (4세 – 12세)"
+   ],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "13시간 30분",
+   "availability": "월, 화 목, 금, 토요일 출발",
+   "departureLines": [
+    "토요일 출발",
+    "매주 월요일, 화요일, 목요일, 금요일 그리고 토요일 출발",
+    "수요일과 일요일에는 출발하지않습니다.)"
+   ],
+   "included": [
+    "현지인 가이드",
+    "투어 차량",
+    "맘모스 동굴 입장료",
+    "입장료",
+    "음료와 점심",
+    "와인테스팅"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험"
+   ],
+   "placesMentioned": [
+    "마가렛리버",
+    "등대",
+    "동굴"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "Perth City 호텔 출발 & 각 주요 호텔 픽업",
+    "버셀턴 제티 (Busselton Jetty)",
+    "부트레크 맥주농장 (Bootleg Brewery) 에서 점심 (현지 농장식)",
+    "샌달포드 와이너리",
+    "맘모스 동굴 (Mammoth Cave)",
+    "케이프 르윈 등대 (Cape Leeuwin Lighthouse)",
+    "마가렛리버 시티에서 자유시간",
+    "퍼스 도착"
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2018/09/Margaret-River-17.jpg",
+   "reviewCountShown": 0,
+   "onHomepage": false,
+   "wpPublished": "2018-06-01",
+   "wpModified": "2024-09-24",
+   "categories": [
+    "tour_category-full-day-tour"
+   ],
+   "note": null
+  },
+  {
+   "title": "퍼스 프리맨틀 &동물원 크루즈 패키지",
+   "url": "https://wowhoju.com.au/tour/pink-lake-5/",
+   "priceFrom": "$69 AUD",
+   "priceDetail": [],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "10시간",
+   "availability": "매일 출발",
+   "departureLines": [],
+   "included": [
+    "퍼스-프리맨틀 왕복 티켓",
+    "커피, 티, 와인",
+    "퍼스 동물원 티켓",
+    "Transperth 페리 티켓"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험"
+   ],
+   "placesMentioned": [
+    "프리맨틀"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "퍼스- 프리맨틀 스완리버 왕복 크루즈",
+    "– 커피, 티 무료제공",
+    "– 서호주 와인 시음",
+    "퍼스 엘리자베스키로 귀환",
+    "퍼스 동물원 (Perth Zoo)",
+    "– Transperth Ferry를 타고 사우스퍼스 퍼스 동물원으로 이동합니다.",
+    "– 왕복 페리 티켓 포함이며 돌아오는 시간은 자유입니다.",
+    "퍼스 도착"
+   ],
+   "heroImage": null,
+   "reviewCountShown": 0,
+   "onHomepage": false,
+   "wpPublished": "2018-04-25",
+   "wpModified": "2022-10-26",
+   "categories": [],
+   "note": "홈페이지 미노출·2024년 이전 수정 — 판매 중인지 확인 못 함(옛 상품 가능성)"
+  },
+  {
+   "title": "퍼스 프리맨틀 트리플 투어",
+   "url": "https://wowhoju.com.au/tour/pink-lake-4/",
+   "priceFrom": "$105 AUD",
+   "priceDetail": [],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "10시간",
+   "availability": "매일 출발",
+   "departureLines": [],
+   "included": [
+    "퍼스 - 프리맨틀 왕복 크루즈",
+    "커피, 티, 와인",
+    "프리맨틀 트램 투어",
+    "퍼스 시티 2층 투어 버스 (Perth Explorer Bus Tour)"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험"
+   ],
+   "placesMentioned": [
+    "프리맨틀",
+    "퍼스 시티",
+    "킹스파크"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "Barrack Street Jetty에서 프리맨틀로 가는 크루즈 승선",
+    "프리맨틀 트램 투어",
+    "퍼스 도착",
+    "2층 시티 투어 버스 관광"
+   ],
+   "heroImage": null,
+   "reviewCountShown": 1,
+   "onHomepage": false,
+   "wpPublished": "2018-03-25",
+   "wpModified": "2018-10-02",
+   "categories": [],
+   "note": "홈페이지 미노출·2024년 이전 수정 — 판매 중인지 확인 못 함(옛 상품 가능성)"
+  },
+  {
+   "title": "프리맨틀 트램 & 크루즈 패키지 – 꽃보다 청춘 촬영지",
+   "url": "https://wowhoju.com.au/tour/tram_cruize/",
+   "priceFrom": "$85 AUD",
+   "priceDetail": [],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "7시간",
+   "availability": "매일 출발",
+   "departureLines": [],
+   "included": [
+    "퍼스 - 프리맨틀 왕복 크루즈",
+    "커피, 티, 와인",
+    "프리맨틀 감옥 입장료 (가이드 코멘트) +현지인 가이드",
+    "선박 내 음료, 주류 현금 구매가능"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험"
+   ],
+   "placesMentioned": [
+    "스완밸리",
+    "프리맨틀",
+    "퍼스 시티"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "9:55 am",
+    "Barrack Street Jetty에서 프리맨틀로 가는 크루즈 승선",
+    "– 스완밸리 야하바 커피와 티 무료 제공",
+    "11:10am",
+    "프리맨틀 도착/프리맨틀 감옥으로 가능 트램 출발",
+    "11:30am",
+    "프리맨틀 감옥 도착 & 투어 (가이드 설명)",
+    "프리맨틀 트램 투어",
+    "3:30pm",
+    "퍼스 도착",
+    "트램 투어후 퍼스로 돌아오는 크루즈 출발지로 드롭오프시켜드립니다.",
+    "돌아오는 크루즈에서 서호주 와인 무료 제공"
+   ],
+   "heroImage": null,
+   "reviewCountShown": 14,
+   "onHomepage": false,
+   "wpPublished": "2018-03-25",
+   "wpModified": "2022-10-26",
+   "categories": [],
+   "note": "홈페이지 미노출·2024년 이전 수정 — 판매 중인지 확인 못 함(옛 상품 가능성)"
+  },
+  {
+   "title": "퍼스-프리맨틀 크루즈 왕복 티켓",
+   "url": "https://wowhoju.com.au/tour/pink-lake-6/",
+   "priceFrom": "$40 AUD",
+   "priceDetail": [],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "자유여행",
+   "availability": "매일 출발",
+   "departureLines": [],
+   "included": [
+    "퍼스-프리맨틀 왕복 크루즈",
+    "Yahava  커피와 티 무한 제공",
+    "캠틴의 코멘트",
+    "3:45pm에 프리맨틀에서 돌아오는 페이에서 와인테이스팅 제공"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험"
+   ],
+   "placesMentioned": [
+    "프리맨틀"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "프리맨틀로 가는 크루즈 승선",
+    "– 모닝 커피와 티 무료 제공",
+    "프리맨틀 자유여행",
+    "– 프리맨틀에 관해 궁금한 점이 있으시면 와우호주투어로 문의바랍니다.",
+    "퍼스 도착"
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2018/09/cruize-11.jpg",
+   "reviewCountShown": 14,
+   "onHomepage": false,
+   "wpPublished": "2018-01-25",
+   "wpModified": "2018-09-28",
+   "categories": [],
+   "note": "홈페이지 미노출·2024년 이전 수정 — 판매 중인지 확인 못 함(옛 상품 가능성)"
+  },
+  {
+   "title": "에어벌룬 투어 (Air Balloon Tour)",
+   "url": "https://wowhoju.com.au/tour/airballoon/",
+   "priceFrom": "$300 AUD",
+   "priceDetail": [
+    "평일 $300",
+    "주말/공휴일 $350"
+   ],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": null,
+   "availability": null,
+   "departureLines": [],
+   "included": [
+    "입장료",
+    "음료와 점심",
+    "선박 티켓"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험"
+   ],
+   "placesMentioned": [
+    "로트네스트",
+    "프리맨틀",
+    "퍼스 시티"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "Perth City YHA 호텔 출발 & 각 주요 호텔 픽업",
+    "Perth City YHA",
+    "300 Wellington St, Perth WA 6000",
+    "프리맨틀 항구 출발",
+    "로트네스트 아일랜드 도착",
+    "버스 or 기차로 섬 한바퀴 투어",
+    "경비행기 투어 가능합니다. (추가비용 발생)",
+    "점심식사",
+    "로트네스트 아일랜드 출발",
+    "프리맨틀 도착"
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2018/09/air-balloon-2.jpg",
+   "reviewCountShown": 0,
+   "onHomepage": false,
+   "wpPublished": "2018-01-01",
+   "wpModified": "2019-12-16",
+   "categories": [
+    "tour_category-experiences"
+   ],
+   "note": "홈페이지 미노출·2024년 이전 수정 — 판매 중인지 확인 못 함(옛 상품 가능성)"
+  },
+  {
+   "title": "스카이 다이빙 (로트네스트 섬  Rottnest Island) + 페리",
+   "url": "https://wowhoju.com.au/tour/rottnest_skydiving/",
+   "priceFrom": "$0 AUD",
+   "priceDetail": [],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": null,
+   "availability": null,
+   "departureLines": [],
+   "included": [
+    "스카이 다이빙",
+    "로트네스트 섬 왕복 페리 티켓",
+    "로트네스트 섬 입장료",
+    "해변 Bar, Thomsons Rottnest에서 즐길 수 있는 음료 티켓 (와인, 맥주, 소프트 드링크 중에서 선택)",
+    "Australian Parachute Federation 멤버십 요금 ($30)"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험"
+   ],
+   "placesMentioned": [
+    "로트네스트",
+    "프리맨틀",
+    "프리멘틀",
+    "퍼스 시티"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "프리멘틀 B Shed에서 페리 출발",
+    "로트네스트 섬 도착",
+    "로트네스트 섬 셔틀버스로 자유 여행",
+    "로트네스트 섬 출발",
+    "프리멘틀 B Shed 도착"
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2018/09/Rottnest-sky-diving-2.jpg",
+   "reviewCountShown": 0,
+   "onHomepage": false,
+   "wpPublished": "2016-10-20",
+   "wpModified": "2024-12-02",
+   "categories": [
+    "tour_category-experiences",
+    "tour-destination-perth"
+   ],
+   "note": "가격 $0 표기 — 가격 확인 못 함"
+  },
+  {
+   "title": "어드벤처 보트 투어 (Adventure Boat Tour)",
+   "url": "https://wowhoju.com.au/tour/adventure-boat-tour/",
+   "priceFrom": "$70 AUD",
+   "priceDetail": [
+    "성인 $70",
+    "아동$35 (4-12세)"
+   ],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "Various",
+   "availability": "매일 출발",
+   "departureLines": [],
+   "included": [],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험",
+    "가이드"
+   ],
+   "placesMentioned": [
+    "로트네스트"
+   ],
+   "itineraryStops": [],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2019/10/REX-Adventure-Boat-Tour-Eco-Express-Guests-enjoying-tour_1920-1.jpg",
+   "reviewCountShown": 1,
+   "onHomepage": false,
+   "wpPublished": "2016-03-08",
+   "wpModified": "2024-12-02",
+   "categories": [],
+   "note": null
+  },
+  {
+   "title": "웨이브락 그룹 투어",
+   "url": "https://wowhoju.com.au/tour/waverock-grouptour/",
+   "priceFrom": "$245 AUD",
+   "priceDetail": [
+    "성인 $245",
+    "아동 $138 (4세 – 12세)"
+   ],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": "12시간 30분",
+   "availability": "매주 화,수,금,일 출발",
+   "departureLines": [
+    "매주 화,수,금,일 출발",
+    "매주 화요일, 수요일, 금요일, 일요일 출발"
+   ],
+   "included": [
+    "현지인 영어 가이드",
+    "투어 차량",
+    "입장료",
+    "음료와 점심"
+   ],
+   "excluded": [
+    "개인 여행 경비",
+    "개인 여행자 보험"
+   ],
+   "placesMentioned": [
+    "웨이브락",
+    "동굴",
+    "요크"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "Perth City 출발 & 각 주요 호텔 픽업",
+    "영국 식민지 영향이 고스란히 남아있는 유서깊은 마을 요크 (York) 방문",
+    "9-10월 방문시 화려한 유채꽃을 감상하실 수 있습니다.",
+    "하마 하품 바위",
+    "멀카의 동굴",
+    "웨이브락 (Wave Rock)",
+    "점심식사",
+    "와일드라이프 파크와 앤틱 샵 또는 Toy Soldier 박물관",
+    "야생화 보기 (계절에 따라 다릅니다. 9월-10에만 해당합니다.)",
+    "퍼스 숙소 도착"
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2018/09/wave-rock-4.jpg",
+   "reviewCountShown": 3,
+   "onHomepage": false,
+   "wpPublished": "2015-10-04",
+   "wpModified": "2024-09-24",
+   "categories": [
+    "tour_category-full-day-tour"
+   ],
+   "note": null
+  },
+  {
+   "title": "10일 서호주 로드트립 – 퍼스출발 브룸도착",
+   "url": "https://wowhoju.com.au/tour/10dayperth_broome/",
+   "priceFrom": "$3,495 AUD",
+   "priceDetail": [
+    "성인 $3,495 (미성년자 참여 불가) :연령대 : 18세 이상 / 그룹 인원 : 8-19명",
+    "투어 가격은 사전공지없이 변경될 수 있습니다."
+   ],
+   "currency": "AUD (사이트에 통화 표기 없이 $ — 호주 업체·호주 계좌 기준 AUD로 추정)",
+   "duration": null,
+   "availability": null,
+   "departureLines": [],
+   "included": [
+    "9회의 조식, 10회의 중식, 9회의 석식",
+    "투어 차량",
+    "숙박 : 6박의 호스텔과 3박의 캠핑",
+    "남붕 국립공원 입장료, 칼바리 국립공원 입장료, 멍키 마이어 돌핀스 입장료, 닝갈루 리프 마린 파크 입장료, 카리지니 국립공원 입장료",
+    "투어 준비물",
+    "편안한 복장과 튼튼한 등산화 혹은 걷기에 편한 운동화",
+    "서호주는 기온차가 심하고 이름 아침과 밤에 추울 수 있으니 입을 따뜻한 옷을 준비하시기 바랍니다.",
+    "모자, 썬크림, 썬글라스",
+    "개인 타월과 베개",
+    "카메라",
+    "물놀이 장비",
+    "물병",
+    "약간의 현금",
+    "침낭 (대여가능 $30)",
+    "손전등이나 헤드램프",
+    "젖어도 되는 신발 (쪼리 또는 샌들)",
+    "유의 사항",
+    "본 투어는 국립공원 하이킹과 같은 많은 도보일정이  포함되어있습니다. 본의 건강과 체력상태를 파악하시고 예약을 하시기 바랍니다.",
+    "ATA의 COVID 관련 정책에 대한 최신 정보는 COVID-19 허브를 참조하십시오.",
+    "수하물은 15kg의 엄격한 제한이 있으면 백팩 또는 소프트 백으로 준비하시기 바랍니다. 이 여행에는 침낭이 필요합니다.",
+    "본 투어는 혼숙 다인실과 캠핑으로 구성되어있습니다. 투어 가능 최소 참여 연령은 만 18세입니다.",
+    "투어 일정",
+    "DAY 1 : 퍼스 - 칼바리 (Perth / Kalbarri)",
+    ">> 퍼스 시티를 출발하여 피너클스를 탐험하기 위해 북쪽의 남붕 국립공원으로 향합니다. 이들은 사막에서 솟아오른 고대 암석 조각품입니다.",
+    ">> 포트 그레고리(Port Gregory)에 있는 서호주의 핑크 호수(Pink Lake)로 이동.",
+    ">> 해변 마을인 Kalbarri까지 도착하여 이곳에서 하룻밤을 묵게 됩니다.",
+    "–  주행 시간 약 6.5시간 약 600km / 총 산행 거리 약 2km",
+    "DAY 2 : 칼바리 국립공원 - 샤크베이",
+    ">> 칼바리 국립공원으로 이동하여 자연의 창, 스카이워크, 제트벤드, 머치슨 협곡 경관을 즐기고 하이킹을 즐깁니다.",
+    ">> 점심 식사 후 아름다운 쉘 비치(Shell Beach)를 방문",
+    ">> 데넘과 샤크베이에 도착합니다.",
+    "–  주행 시간 약 5.5시간 약 470km / 총 산행 거리 약 5km 트레킹",
+    "DAY 3 : 멍키 미아 - 코랄 베이",
+    ">> 멍키마이어에서 돌고래 체험을 합니다.",
+    ">> 페론 국립공원(Francoise Peron National Park) 의 목가적인 해안 감상",
+    ">> 하멜린 풀(Hamelin Pool)로 매혹적인 스트로마톨라이트를 볼 수 있습니다. 이 해양 암석은 세계에서 가장 오래되고 가장 큰 살아있는 화석 중 일부입니다.",
+    ">> Carnarvon에 도착하여 짧은 휴식 후 ‘북서부의 보석’으로 알려진 Coral Bay에 도착합니다",
+    "– 주행 시간은 약 6.5시간 약 470km / 산행 거리는 약 2km",
+    "DAY 4 : 코랄 베이",
+    ">> 세계 유산에 등재된 닝갈루 리프(Ningaloo Reef)가 있는 그림 같은 코럴 베이(Coral Bay)를 탐험합니다. 스노클링 장비를 대여할 수 있으며(자비), 바닥이 유리로 된 보트를 타고 암초를 순항하여 수면 아래에서 우글거리는 열대 생물을 관찰할 수 있습니다. 해양 공원에는 250종의 산호와 500종 이상의 물고기가 서식하고 있습니다.",
+    "액티비티 (옵션)",
+    ":",
+    "만타 가오리와 스노클링 – 반나절",
+    "해안 스노클링 (자비로 즐김)",
+    "고래 워칭",
+    "투명 보트 크루즈",
+    "– 주행 시간은 약 2시간 약 185km / 산행 거리는 약 2km",
+    "DAY 5 : 엑스마우스 - 케이프 레인지 국립공원",
+    ">> 아름다운 케이프 레인지 국립공원(Cape Range National Park)의 해변 바로 옆에서 아침 스노클링을 하거나 자유롭게 휴식을 취합니다. 시기에 따라 고래상어와 쥐가오리를 찾아 스노클링이나 스쿠버다이빙을 할 수 있습니다.",
+    ">> 일몰과 일출을 감상할 수 있는 호주에서 몇 안 되는 장소 중 하나인 블라밍 헤드 등대(Vlamingh Head Lighthouse)를 방문합니다.",
+    ">> 엑스머스(Exmouth) 마을을 둘러보면 즐거운 시간을 보냅니다.",
+    "–  액티비티 (옵션)",
+    ": 고래상어와함께 스노클링(자비) / Turquoise Bay에서 스노클링(자비)",
+    "–",
+    "주행 시간은 약 2시간 약 180km / 산행 거리는 약 2km",
+    "DAY 6 : 카리지니 국립공원",
+    ">> Pilbara 지역의 광대한 목축장을 통해 내륙으로 향합니다.  인구 밀도가 낮은 필바라 사막은 붉은 흙과 풍부한 광물 매장지로 유명합니다.",
+    ">> 오후에는 철광석 채굴로 유명한 작은 마을 톰 프라이스(Tom Price)를 통과합니다.",
+    ">> Karijini의 장엄한 Hamersley Range가 내려다 보이는 캠프장에 도착합니다. 잠자리에 들기 전에 지금까지 본 것 중 가장 멋진 밤하늘을 올려다보세요.",
+    "–  총 9시간 이동 / 약 750km",
+    "DAY 7 : 카리지니 국립공원",
+    ">> 카리지니 국립공원의 거대한 협곡을 탐험합니다.  2,500,000,000년 전에 형성된 Hamersley Ranges는 지구상에서 가장 특이한 지형을 갖추고 있습니다. 여기 있는 동안 멋진 사진을 찍을 수 있습니다.",
+    ">> 협곡 깊숙이 하이킹하면 계단식 폭포와 수영하기에 이상적인 신선한 물웅덩이를 만날 수 있습니다.",
+    ">> 여정의 진정한 하이라이트인, 데일스 협곡(Dales Gorge)과 옥러스 전망대(Oxlers Lookout), 포테스큐 폭포(Fortescue Falls), 펀 풀(Fern Pool), 위노(Weano) 및 핸콕 협곡(Hancock Gorge’s)은 방문하게되는 많은 곳들의 일부입니다.",
+    "– 운전 시간은 약 2시간 약 30km / 최대 6km까지 걸을 수 있습니다.",
+    "DAY 8  : 카리지니 국립공원",
+    ">> 계속해서 국립공원 내 매혹적인 협곡들을 더 탐험합니다.",
+    "– 운전 시간은 약 2시간, 약 180km / 최대 6km까지 걸을 수 있습니다.",
+    "DAY 9 : 필버라",
+    ">> 카리지니를 출발해 해안을 향해 이동합니다(총 4시간 소요).",
+    ">> 필바라에서 두 번째로 인구가 많은 도시인 포트 헤들랜드의 철광석 항구를 방문합니다. 도시를 둘러보고 철광석 산업의 규모를 보게됩니다.",
+    ">> 점심 식사 후 인근 역으로 계속 이동하여 여행의 마지막 밤을 보내게 됩니다.",
+    "– 주행 시간은 약 6.5시간 약 520km",
+    "DAY 10 : 브룸",
+    ">> 최종 목적지인 브룸까지 차로 이동합니다. (약 6시간이 소요)",
+    ">> 거대한 80마일 해변을 따라 산책하며 휴식합니다.",
+    ">> 브룸에 도착하여 동료 여행자들에게 작별 인사를 하고 일몰을 즐기며 모든 로드트립의 일정이 종료됩니다.",
+    "– 주행 시간은 약 6시간 약 525km입니다.",
+    "숙소 정보",
+    "캠핑(시설포함)(3박), 호스텔(6박)",
+    "참여형 캠핑:",
+    "이 여행에 참여하려면 매일 모든 상황에서 식사 준비, 설거지, 장작 수집, 캠프 설치 및 짐 꾸리기를 도울 준비가 되어 있어야 합니다.",
+    "이 여행의 표준 숙박 시설은 다음과 같습니다.",
+    "공동 시설을 갖춘 4박 다중 공유 숙소, 5박 캠핑. 이 여행에는 업그레이드 객실이 없으며 다중 공유 숙박 시설로 인해 이 여행의 최소 연령은 18세입니다.",
+    "서해안의 숙박 시설은 다인용 숙박 시설과 캠핑 시 간단한 영구 텐트로 구성됩니다. 캠핑에서 밤을 보낼 수 있도록 침낭을 직접 가져오거나 미리 구입해야 합니다. 원하는 경우 자신의 베개도 제공하십시오. 다중 공유 숙소는 혼성 도미토리에 있을 수 있습니다.",
+    "1일차：Kalbarri Backpackers – 다인실 (호스텔)",
+    "2일차：Denham, Bay Lodge – 다인실(호스텔)",
+    "3일차：Coral Bay, Ningaloo Club – 다인실 (호스텔)",
+    "4일차： 야디 크릭 – 글램핑 2인실, 샤워시설 및 화장실 구비, 카라반 파크 스타일 편의시설",
+    "5일차：야디 크릭 – 글램핑 2인실, 샤워시설 및 화장실 구비, 카라반 파크 스타일 편의시설",
+    "6일차：카리지니 국립공원 – 글램핑 2인실, 태양광 샤워시설 및 화장실 구비",
+    "7일차：카리지니 국립공원 – 글램핑 2인실, 태양광 샤워시설 및 화장실 구비",
+    "8일차：카리지니 국립공원 – 글램핑 2인실, 태양광 샤워시설 및 화장실 구비",
+    "9일차：Pardoo Station – 다인실, 샤워시설 및 화장실 구비, 카라반 파크 스타일 편의시설",
+    "Map"
+   ],
+   "excluded": [],
+   "placesMentioned": [
+    "피너클스",
+    "칼바리",
+    "멍키마이어",
+    "샤크베이",
+    "퍼스 시티",
+    "브룸",
+    "카리지니",
+    "닝갈루",
+    "엑스머스",
+    "등대",
+    "남붕",
+    "핑크 호수",
+    "자연의 창",
+    "톰 프라이스"
+   ],
+   "itineraryStops": [
+    "투어 일정",
+    "DAY 1 : 퍼스 - 칼바리 (Perth / Kalbarri)",
+    ">> 해변 마을인 Kalbarri까지 도착하여 이곳에서 하룻밤을 묵게 됩니다.",
+    "–  주행 시간 약 6.5시간 약 600km / 총 산행 거리 약 2km",
+    "DAY 2 : 칼바리 국립공원 - 샤크베이",
+    ">> 점심 식사 후 아름다운 쉘 비치(Shell Beach)를 방문",
+    ">> 데넘과 샤크베이에 도착합니다.",
+    "–  주행 시간 약 5.5시간 약 470km / 총 산행 거리 약 5km 트레킹",
+    "DAY 3 : 멍키 미아 - 코랄 베이",
+    ">> 멍키마이어에서 돌고래 체험을 합니다.",
+    "– 주행 시간은 약 6.5시간 약 470km / 산행 거리는 약 2km",
+    "DAY 4 : 코랄 베이",
+    "액티비티 (옵션)",
+    "만타 가오리와 스노클링 – 반나절",
+    "해안 스노클링 (자비로 즐김)",
+    "고래 워칭",
+    "투명 보트 크루즈",
+    "– 주행 시간은 약 2시간 약 185km / 산행 거리는 약 2km",
+    "DAY 5 : 엑스마우스 - 케이프 레인지 국립공원",
+    ">> 엑스머스(Exmouth) 마을을 둘러보면 즐거운 시간을 보냅니다.",
+    "–  액티비티 (옵션)",
+    "주행 시간은 약 2시간 약 180km / 산행 거리는 약 2km",
+    "DAY 6 : 카리지니 국립공원",
+    "–  총 9시간 이동 / 약 750km",
+    "DAY 7 : 카리지니 국립공원"
+   ],
+   "heroImage": "https://wowhoju.com.au/wp-content/uploads/2023/05/ATA_WA_Karijini_ORG1113-2.jpg",
+   "reviewCountShown": 14,
+   "onHomepage": false,
+   "wpPublished": "2012-05-29",
+   "wpModified": "2024-09-24",
+   "categories": [
+    "tour_category-2-3",
+    "tour-destination-perth"
+   ],
+   "note": null
+  }
+ ]
+}

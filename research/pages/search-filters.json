@@ -1,0 +1,768 @@
+{
+ "fetched": "2026-10-27",
+ "searchPage": {
+  "url": "https://wowhoju.com.au/dashboard/search-tours/",
+  "method": "GET",
+  "fields": [
+   {
+    "name": "tour-search",
+    "label": "Keywords",
+    "type": "text"
+   },
+   {
+    "name": "tax-tour_category",
+    "label": "Category",
+    "type": "select"
+   },
+   {
+    "name": "tax-tour_tag",
+    "label": "Tag",
+    "type": "select"
+   },
+   {
+    "name": "duration",
+    "label": "Duration",
+    "options": [
+     "Any",
+     "1 Day Tour",
+     "2-4 Days Tour",
+     "5-7 Days Tour",
+     "7+ Days Tour"
+    ]
+   },
+   {
+    "name": "date",
+    "label": "Date",
+    "type": "datepicker"
+   },
+   {
+    "name": "min-price",
+    "label": "Min Price"
+   },
+   {
+    "name": "max-price",
+    "label": "Max Price"
+   },
+   {
+    "name": "rating",
+    "label": "Rating"
+   },
+   {
+    "name": "tax-tour-age[]",
+    "label": "Age 체크박스"
+   },
+   {
+    "name": "tax-tour-activity[]",
+    "label": "Activity 체크박스"
+   },
+   {
+    "name": "tax-tour-destination[]",
+    "label": "Destination 체크박스"
+   }
+  ],
+  "sort": {
+   "orderby": [
+    "Release Date",
+    "Tour Date",
+    "Title",
+    "Price",
+    "Popularity",
+    "Rating",
+    "Duration"
+   ],
+   "order": [
+    "Ascending",
+    "Descending"
+   ]
+  },
+  "results": "빈 검색 시 38 Results Found"
+ },
+ "customerCentreSearch": {
+  "url": "https://wowhoju.com.au/about-us/customercentre/",
+  "fields": [
+   "Keywords",
+   "Activity(select)",
+   "Destination(select)",
+   "Date"
+  ]
+ },
+ "taxonomies": {
+  "tour_category": [
+   {
+    "id": 107,
+    "name": "2박3일",
+    "slug": "2-3",
+    "count": 6
+   },
+   {
+    "id": 1054,
+    "name": "payment",
+    "slug": "payment",
+    "count": 0
+   },
+   {
+    "id": 150,
+    "name": "로컬들이 추천하는 베스트 여행지",
+    "slug": "best-hotplace",
+    "count": 1
+   },
+   {
+    "id": 151,
+    "name": "로트네스트를 즐기는 방법 10가지",
+    "slug": "things-to-do-in-rottnest",
+    "count": 0
+   },
+   {
+    "id": 155,
+    "name": "버스 & 선박 투어",
+    "slug": "bus-ferry-tour",
+    "count": 4
+   },
+   {
+    "id": 156,
+    "name": "서호주에서 꼭 가봐야할 여행지",
+    "slug": "must-go",
+    "count": 6
+   },
+   {
+    "id": 1187,
+    "name": "울루루",
+    "slug": "%ec%9a%b8%eb%a3%a8%eb%a3%a8",
+    "count": 1
+   },
+   {
+    "id": 1189,
+    "name": "울루루 캠핑투어",
+    "slug": "%ec%9a%b8%eb%a3%a8%eb%a3%a8-%ec%ba%a0%ed%95%91%ed%88%ac%ec%96%b4",
+    "count": 1
+   },
+   {
+    "id": 1188,
+    "name": "울루루 호텔 숙박",
+    "slug": "%ec%9a%b8%eb%a3%a8%eb%a3%a8-%ed%98%b8%ed%85%94-%ec%88%99%eb%b0%95",
+    "count": 0
+   },
+   {
+    "id": 1180,
+    "name": "울룰루",
+    "slug": "%ec%9a%b8%eb%a3%b0%eb%a3%a8",
+    "count": 2
+   },
+   {
+    "id": 1182,
+    "name": "울룰루 캠핑투어",
+    "slug": "%ec%9a%b8%eb%a3%b0%eb%a3%a8-%ec%ba%a0%ed%95%91%ed%88%ac%ec%96%b4",
+    "count": 3
+   },
+   {
+    "id": 1183,
+    "name": "울룰루 호텔 숙박",
+    "slug": "%ec%9a%b8%eb%a3%b0%eb%a3%a8-%ed%98%b8%ed%85%94-%ec%88%99%eb%b0%95",
+    "count": 0
+   },
+   {
+    "id": 157,
+    "name": "일일투어",
+    "slug": "full-day-tour",
+    "count": 8
+   },
+   {
+    "id": 159,
+    "name": "체험투어",
+    "slug": "experiences",
+    "count": 2
+   },
+   {
+    "id": 204,
+    "name": "케언즈 여행",
+    "slug": "cairns-tour",
+    "count": 0
+   },
+   {
+    "id": 160,
+    "name": "퍼스 100배 즐기기",
+    "slug": "how-to-enjoy-perth",
+    "count": 3
+   }
+  ],
+  "tour_tag": [
+   {
+    "id": 1209,
+    "name": "#마가렛리버 #버셀튼제티 #와이너리 #호주여행 #퍼스여행",
+    "slug": "%eb%a7%88%ea%b0%80%eb%a0%9b%eb%a6%ac%eb%b2%84-%eb%b2%84%ec%85%80%ed%8a%bc%ec%a0%9c%ed%8b%b0-%ec%99%80%ec%9d%b4%eb%84%88%eb%a6%ac-%ed%98%b8%ec%a3%bc%ec%97%ac%ed%96%89-%ed%8d%bc%ec%8a%a4%ec%97%ac",
+    "count": 1
+   },
+   {
+    "id": 237,
+    "name": "#별빛투어",
+    "slug": "%eb%b3%84%eb%b9%9b%ed%88%ac%ec%96%b4",
+    "count": 2
+   },
+   {
+    "id": 236,
+    "name": "#은하수투어",
+    "slug": "%ec%9d%80%ed%95%98%ec%88%98%ed%88%ac%ec%96%b4",
+    "count": 2
+   },
+   {
+    "id": 234,
+    "name": "#칼바리",
+    "slug": "%ec%b9%bc%eb%b0%94%eb%a6%ac",
+    "count": 2
+   },
+   {
+    "id": 232,
+    "name": "#퍼스한인여행사",
+    "slug": "%ed%8d%bc%ec%8a%a4%ed%95%9c%ec%9d%b8%ec%97%ac%ed%96%89%ec%82%ac",
+    "count": 2
+   },
+   {
+    "id": 235,
+    "name": "#피너클",
+    "slug": "%ed%94%bc%eb%84%88%ed%81%b4",
+    "count": 2
+   },
+   {
+    "id": 191,
+    "name": "#피너클 #서호주여행 #호주여행 #퍼스여행 #한인여행사 #퍼스한인여행사 #한인가이드",
+    "slug": "%ed%94%bc%eb%84%88%ed%81%b4-%ec%84%9c%ed%98%b8%ec%a3%bc%ec%97%ac%ed%96%89-%ed%98%b8%ec%a3%bc%ec%97%ac%ed%96%89-%ed%8d%bc%ec%8a%a4%ec%97%ac%ed%96%89-%ed%95%9c%ec%9d%b8%ec%97%ac%ed%96%89%ec%82%ac",
+    "count": 1
+   },
+   {
+    "id": 192,
+    "name": "#피너클별빛투어 #서호주여행 #호주여행 #퍼스여행 #한인여행사 #퍼스한인여행사 #한인가이드",
+    "slug": "%ed%94%bc%eb%84%88%ed%81%b4%eb%b3%84%eb%b9%9b%ed%88%ac%ec%96%b4-%ec%84%9c%ed%98%b8%ec%a3%bc%ec%97%ac%ed%96%89-%ed%98%b8%ec%a3%bc%ec%97%ac%ed%96%89-%ed%8d%bc%ec%8a%a4%ec%97%ac%ed%96%89-%ed%95%9c",
+    "count": 1
+   },
+   {
+    "id": 233,
+    "name": "#호주여행",
+    "slug": "%ed%98%b8%ec%a3%bc%ec%97%ac%ed%96%89",
+    "count": 5
+   },
+   {
+    "id": 109,
+    "name": "Acoustic",
+    "slug": "acoustic",
+    "count": 0
+   },
+   {
+    "id": 110,
+    "name": "Amusement",
+    "slug": "amusement",
+    "count": 0
+   },
+   {
+    "id": 111,
+    "name": "Aquarium",
+    "slug": "aquarium",
+    "count": 0
+   },
+   {
+    "id": 112,
+    "name": "Attraction",
+    "slug": "attraction",
+    "count": 0
+   },
+   {
+    "id": 113,
+    "name": "balloon",
+    "slug": "balloon",
+    "count": 0
+   },
+   {
+    "id": 114,
+    "name": "Beach",
+    "slug": "beach",
+    "count": 0
+   },
+   {
+    "id": 116,
+    "name": "Bus",
+    "slug": "bus",
+    "count": 0
+   },
+   {
+    "id": 117,
+    "name": "canoeing",
+    "slug": "canoeing",
+    "count": 0
+   },
+   {
+    "id": 118,
+    "name": "climbing",
+    "slug": "climbing",
+    "count": 0
+   },
+   {
+    "id": 119,
+    "name": "Concert",
+    "slug": "concert",
+    "count": 0
+   },
+   {
+    "id": 120,
+    "name": "Dj",
+    "slug": "dj",
+    "count": 0
+   },
+   {
+    "id": 121,
+    "name": "extreme",
+    "slug": "extreme",
+    "count": 0
+   },
+   {
+    "id": 122,
+    "name": "Helicopter",
+    "slug": "helicopter",
+    "count": 0
+   },
+   {
+    "id": 123,
+    "name": "hiking",
+    "slug": "hiking",
+    "count": 0
+   },
+   {
+    "id": 124,
+    "name": "Jazz",
+    "slug": "jazz",
+    "count": 0
+   },
+   {
+    "id": 126,
+    "name": "Limo",
+    "slug": "limo",
+    "count": 0
+   },
+   {
+    "id": 127,
+    "name": "London Eye",
+    "slug": "london-eye",
+    "count": 0
+   },
+   {
+    "id": 130,
+    "name": "Museum",
+    "slug": "museum",
+    "count": 0
+   },
+   {
+    "id": 131,
+    "name": "New York",
+    "slug": "new-york",
+    "count": 0
+   },
+   {
+    "id": 132,
+    "name": "Paris",
+    "slug": "paris",
+    "count": 0
+   },
+   {
+    "id": 134,
+    "name": "Pinnacle",
+    "slug": "pinnacle",
+    "count": 0
+   },
+   {
+    "id": 95,
+    "name": "Popular Deals",
+    "slug": "popular-deals",
+    "count": 0
+   },
+   {
+    "id": 135,
+    "name": "Popular Places",
+    "slug": "popular-places",
+    "count": 0
+   },
+   {
+    "id": 136,
+    "name": "Rock",
+    "slug": "rock",
+    "count": 0
+   },
+   {
+    "id": 137,
+    "name": "Sightseeing",
+    "slug": "sightseeing",
+    "count": 0
+   },
+   {
+    "id": 139,
+    "name": "Snorkeling",
+    "slug": "snorkeling",
+    "count": 0
+   },
+   {
+    "id": 140,
+    "name": "snow",
+    "slug": "snow",
+    "count": 0
+   },
+   {
+    "id": 99,
+    "name": "Top One Day Tour",
+    "slug": "top-one-day-tour",
+    "count": 0
+   },
+   {
+    "id": 100,
+    "name": "Top Vacation Tours",
+    "slug": "top-vacation-tours",
+    "count": 0
+   },
+   {
+    "id": 142,
+    "name": "Transportation",
+    "slug": "transportation",
+    "count": 0
+   },
+   {
+    "id": 143,
+    "name": "Transportation Deals",
+    "slug": "transportation-deals",
+    "count": 0
+   },
+   {
+    "id": 144,
+    "name": "Trending Activities",
+    "slug": "trending-activities",
+    "count": 0
+   },
+   {
+    "id": 1177,
+    "name": "Uluru",
+    "slug": "uluru",
+    "count": 3
+   },
+   {
+    "id": 145,
+    "name": "Universal",
+    "slug": "universal",
+    "count": 0
+   },
+   {
+    "id": 146,
+    "name": "Waxwork",
+    "slug": "waxwork",
+    "count": 0
+   },
+   {
+    "id": 147,
+    "name": "Yatch",
+    "slug": "yatch",
+    "count": 0
+   },
+   {
+    "id": 221,
+    "name": "로트네스트버스투어",
+    "slug": "%eb%a1%9c%ed%8a%b8%eb%84%a4%ec%8a%a4%ed%8a%b8%eb%b2%84%ec%8a%a4%ed%88%ac%ec%96%b4",
+    "count": 0
+   },
+   {
+    "id": 219,
+    "name": "로트네스트섬여행",
+    "slug": "%eb%a1%9c%ed%8a%b8%eb%84%a4%ec%8a%a4%ed%8a%b8%ec%84%ac%ec%97%ac%ed%96%89",
+    "count": 0
+   },
+   {
+    "id": 220,
+    "name": "로트네스트페리",
+    "slug": "%eb%a1%9c%ed%8a%b8%eb%84%a4%ec%8a%a4%ed%8a%b8%ed%8e%98%eb%a6%ac",
+    "count": 0
+   },
+   {
+    "id": 208,
+    "name": "블루마운틴",
+    "slug": "%eb%b8%94%eb%a3%a8%eb%a7%88%ec%9a%b4%ed%8b%b4",
+    "count": 0
+   },
+   {
+    "id": 596,
+    "name": "서호주남부",
+    "slug": "%ec%84%9c%ed%98%b8%ec%a3%bc%eb%82%a8%eb%b6%80",
+    "count": 1
+   },
+   {
+    "id": 194,
+    "name": "서호주여행",
+    "slug": "%ec%84%9c%ed%98%b8%ec%a3%bc%ec%97%ac%ed%96%89",
+    "count": 4
+   },
+   {
+    "id": 196,
+    "name": "서호주한인가이드",
+    "slug": "%ec%84%9c%ed%98%b8%ec%a3%bc%ed%95%9c%ec%9d%b8%ea%b0%80%ec%9d%b4%eb%93%9c",
+    "count": 4
+   },
+   {
+    "id": 211,
+    "name": "시드니시티투어추천",
+    "slug": "%ec%8b%9c%eb%93%9c%eb%8b%88%ec%8b%9c%ed%8b%b0%ed%88%ac%ec%96%b4%ec%b6%94%ec%b2%9c",
+    "count": 0
+   },
+   {
+    "id": 212,
+    "name": "시드니야경투어",
+    "slug": "%ec%8b%9c%eb%93%9c%eb%8b%88%ec%95%bc%ea%b2%bd%ed%88%ac%ec%96%b4",
+    "count": 0
+   },
+   {
+    "id": 206,
+    "name": "시드니여행",
+    "slug": "%ec%8b%9c%eb%93%9c%eb%8b%88%ec%97%ac%ed%96%89",
+    "count": 0
+   },
+   {
+    "id": 210,
+    "name": "시드니한인투어",
+    "slug": "%ec%8b%9c%eb%93%9c%eb%8b%88%ed%95%9c%ec%9d%b8%ed%88%ac%ec%96%b4",
+    "count": 0
+   },
+   {
+    "id": 594,
+    "name": "알바니",
+    "slug": "%ec%95%8c%eb%b0%94%eb%8b%88",
+    "count": 1
+   },
+   {
+    "id": 595,
+    "name": "에스퍼런스",
+    "slug": "%ec%97%90%ec%8a%a4%ed%8d%bc%eb%9f%b0%ec%8a%a4",
+    "count": 1
+   },
+   {
+    "id": 1190,
+    "name": "울루루",
+    "slug": "%ec%9a%b8%eb%a3%a8%eb%a3%a8",
+    "count": 1
+   },
+   {
+    "id": 1173,
+    "name": "울룰루",
+    "slug": "%ec%9a%b8%eb%a3%b0%eb%a3%a8",
+    "count": 3
+   },
+   {
+    "id": 1174,
+    "name": "지구의배꼽",
+    "slug": "%ec%a7%80%ea%b5%ac%ec%9d%98%eb%b0%b0%ea%bc%bd",
+    "count": 3
+   },
+   {
+    "id": 1175,
+    "name": "지구의중심",
+    "slug": "%ec%a7%80%ea%b5%ac%ec%9d%98%ec%a4%91%ec%8b%ac",
+    "count": 3
+   },
+   {
+    "id": 1176,
+    "name": "카타츄타",
+    "slug": "%ec%b9%b4%ed%83%80%ec%b8%84%ed%83%80",
+    "count": 3
+   },
+   {
+    "id": 195,
+    "name": "칼바리국립공원",
+    "slug": "%ec%b9%bc%eb%b0%94%eb%a6%ac%ea%b5%ad%eb%a6%bd%ea%b3%b5%ec%9b%90",
+    "count": 3
+   },
+   {
+    "id": 203,
+    "name": "케언즈여행",
+    "slug": "%ec%bc%80%ec%96%b8%ec%a6%88%ec%97%ac%ed%96%89",
+    "count": 0
+   },
+   {
+    "id": 598,
+    "name": "퍼스남부",
+    "slug": "%ed%8d%bc%ec%8a%a4%eb%82%a8%eb%b6%80",
+    "count": 1
+   },
+   {
+    "id": 198,
+    "name": "퍼스한인가이드",
+    "slug": "%ed%8d%bc%ec%8a%a4%ed%95%9c%ec%9d%b8%ea%b0%80%ec%9d%b4%eb%93%9c",
+    "count": 4
+   },
+   {
+    "id": 197,
+    "name": "퍼스한인투어",
+    "slug": "%ed%8d%bc%ec%8a%a4%ed%95%9c%ec%9d%b8%ed%88%ac%ec%96%b4",
+    "count": 4
+   },
+   {
+    "id": 209,
+    "name": "페더데일동물원",
+    "slug": "%ed%8e%98%eb%8d%94%eb%8d%b0%ec%9d%bc%eb%8f%99%eb%ac%bc%ec%9b%90",
+    "count": 0
+   },
+   {
+    "id": 207,
+    "name": "포트스테판",
+    "slug": "%ed%8f%ac%ed%8a%b8%ec%8a%a4%ed%85%8c%ed%8c%90",
+    "count": 0
+   },
+   {
+    "id": 226,
+    "name": "피나클스사막투어",
+    "slug": "%ed%94%bc%eb%82%98%ed%81%b4%ec%8a%a4%ec%82%ac%eb%a7%89%ed%88%ac%ec%96%b4",
+    "count": 1
+   },
+   {
+    "id": 193,
+    "name": "핑크호수",
+    "slug": "%ed%95%91%ed%81%ac%ed%98%b8%ec%88%98",
+    "count": 3
+   },
+   {
+    "id": 597,
+    "name": "호주남부",
+    "slug": "%ed%98%b8%ec%a3%bc%eb%82%a8%eb%b6%80",
+    "count": 4
+   }
+  ],
+  "tour-activity": [
+   {
+    "id": 77,
+    "name": "City Tours",
+    "slug": "city-tours",
+    "count": 0
+   },
+   {
+    "id": 78,
+    "name": "Cultural & Thematic Tours",
+    "slug": "cultural-thematic-tours",
+    "count": 0
+   },
+   {
+    "id": 82,
+    "name": "Family Friendly Tours",
+    "slug": "family-friendly-tours",
+    "count": 1
+   },
+   {
+    "id": 83,
+    "name": "Holiday & Seasonal Tours",
+    "slug": "holiday-seasonal-tours",
+    "count": 0
+   },
+   {
+    "id": 84,
+    "name": "Indulgence & Luxury Tours",
+    "slug": "indulgence-luxury-tours",
+    "count": 0
+   },
+   {
+    "id": 92,
+    "name": "Outdoor Activites",
+    "slug": "outdoor-activites",
+    "count": 0
+   },
+   {
+    "id": 96,
+    "name": "Relaxation Tours",
+    "slug": "relaxation-tours",
+    "count": 0
+   },
+   {
+    "id": 102,
+    "name": "Wild & Adventure Tours",
+    "slug": "wild-adventure-tours",
+    "count": 0
+   },
+   {
+    "id": 148,
+    "name": "관광",
+    "slug": "sightseeing",
+    "count": 7
+   },
+   {
+    "id": 152,
+    "name": "맛집",
+    "slug": "restaurants-cafes",
+    "count": 0
+   },
+   {
+    "id": 154,
+    "name": "버스 & 선박 투어",
+    "slug": "bus-tour-cruise",
+    "count": 0
+   },
+   {
+    "id": 158,
+    "name": "체험투어",
+    "slug": "experiences",
+    "count": 2
+   }
+  ],
+  "tour-destination": [
+   {
+    "id": 115,
+    "name": "Brisbane & 퀸즈랜드",
+    "slug": "brisbane",
+    "count": 0
+   },
+   {
+    "id": 205,
+    "name": "Cairns",
+    "slug": "cairns",
+    "count": 0
+   },
+   {
+    "id": 128,
+    "name": "Melbourne & 빅토리아주",
+    "slug": "melbourne",
+    "count": 0
+   },
+   {
+    "id": 133,
+    "name": "Perth & 서호주",
+    "slug": "perth",
+    "count": 10
+   },
+   {
+    "id": 141,
+    "name": "Sydney & 뉴사우스웨일즈",
+    "slug": "sydney",
+    "count": 0
+   },
+   {
+    "id": 1179,
+    "name": "Uluru",
+    "slug": "uluru",
+    "count": 1
+   }
+  ],
+  "tour-age": [
+   {
+    "id": 65,
+    "name": "10+",
+    "slug": "10",
+    "count": 0
+   },
+   {
+    "id": 66,
+    "name": "12+",
+    "slug": "12",
+    "count": 0
+   },
+   {
+    "id": 67,
+    "name": "15+",
+    "slug": "15",
+    "count": 0
+   },
+   {
+    "id": 108,
+    "name": "7+",
+    "slug": "7",
+    "count": 0
+   }
+  ]
+ },
+ "note": "tour_tag·tour-activity 상당수가 Traveltour 데모 잔재(Paris, New York, London Eye 등 count 0). 카테고리 중복(울루루/울룰루 2벌)."
+}

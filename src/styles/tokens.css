@@ -1,0 +1,50 @@
+/* 글꼴: 제목·숫자 카페24 써라운드(로고 둥근 고딕) + 본문 SUIT + 인용 마루부리(브랜드 감성 문장만). 근거 src/data/direction.ts */
+@font-face { font-family: 'Cafe24 Ssurround'; font-weight: 700; font-display: swap; src: url('/fonts/Cafe24Ssurround-sub.woff2') format('woff2'); }
+@font-face { font-family: 'SUIT Variable'; font-weight: 100 900; font-display: swap; src: url('/fonts/SUIT-Variable.woff2') format('woff2-variations'); }
+@font-face { font-family: 'MaruBuri'; font-weight: 400; font-display: swap; src: url('/fonts/MaruBuri-Regular-sub.woff2') format('woff2'); }
+
+:root {
+  --night: #1c1716;      /* 가장 어두운 바탕(푸터·영상 뒤) — 별밤 dark를 한 단계 낮춤 */
+  --dark: #342c2a;       /* 피너클스 별밤 */
+  --light: #ded6c8;      /* 란셀린 흰 모래 */
+  --brand: #f15e53;      /* 로고 와우 코랄 */
+  --brand-soft: #f6897f;
+  --point: #fdb839;      /* 로고 o 노랑 = 황금빛 */
+  --point-soft: #fed27f;
+  --sub: #048cce;        /* 로고 호주 블루 = 인도양 */
+  --sub-soft: #5bb8e6;
+
+  --t1: rgba(250, 244, 234, 0.96);
+  --t2: rgba(250, 244, 234, 0.8);
+  --t3: rgba(250, 244, 234, 0.64);
+  --t4: rgba(250, 244, 234, 0.38);
+  --line: rgba(250, 244, 234, 0.18);
+
+  --display: 'Cafe24 Ssurround', 'Apple SD Gothic Neo', sans-serif;
+  --quote: 'MaruBuri', 'AppleMyungjo', serif;
+  --sans: 'SUIT Variable', -apple-system, 'Apple SD Gothic Neo', sans-serif;
+  --display-w: 700;
+
+  /* radius: 소프트 계열 — 로고 글자가 둥글다 */
+  --r1: 14px;
+  --r2: 20px;
+  --r3: 24px;
+
+  --ease-ui: cubic-bezier(0, 0, 0.2, 1);
+  --ease-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --dur-ui: 160ms;
+  --dur-big: 480ms;
+
+  --header-h: 64px;
+  --wrap: 1244px;
+  --gut: clamp(16px, 4vw, 40px);
+}
+
+.on-light {
+  --t1: rgba(40, 32, 28, 0.94);
+  --t2: rgba(40, 32, 28, 0.76);
+  --t3: rgba(40, 32, 28, 0.64);
+  --t4: rgba(40, 32, 28, 0.32);
+  --line: rgba(40, 32, 28, 0.14);
+  color: var(--t1);
+}

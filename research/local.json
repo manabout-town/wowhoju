@@ -1,0 +1,165 @@
+{
+ "climatePerthMonthly": {
+  "station": "Perth Metro (BOM 자료, 1993–2020)",
+  "source": "https://en.wikipedia.org/wiki/Climate_of_Perth",
+  "note": "bom.gov.au 직접 조회는 403 차단 — 위키백과 표(출처 BOM) 사용",
+  "months": [
+   "1",
+   "2",
+   "3",
+   "4",
+   "5",
+   "6",
+   "7",
+   "8",
+   "9",
+   "10",
+   "11",
+   "12"
+  ],
+  "meanMaxC": [
+   31.4,
+   31.7,
+   29.7,
+   26.0,
+   22.4,
+   19.5,
+   18.5,
+   19.2,
+   20.6,
+   23.5,
+   26.8,
+   29.6
+  ],
+  "meanMinC": [
+   18.1,
+   18.4,
+   16.9,
+   13.8,
+   10.5,
+   8.7,
+   8.1,
+   8.5,
+   9.7,
+   11.7,
+   14.4,
+   16.6
+  ],
+  "rainMm": [
+   16.7,
+   13.1,
+   20.0,
+   35.9,
+   86.2,
+   127.1,
+   147.0,
+   122.7,
+   79.3,
+   39.5,
+   24.2,
+   9.4
+  ],
+  "sunHours": [
+   11.5,
+   11.0,
+   9.6,
+   8.3,
+   6.9,
+   5.9,
+   6.1,
+   7.2,
+   7.7,
+   9.6,
+   10.6,
+   11.5
+  ],
+  "climateType": "지중해성 기후(Köppen Csa). 여름 오후 남서풍 \"프리맨틀 닥터\"가 더위를 식힘",
+  "seasons": "남반구 — 12~2월 여름, 3~5월 가을, 6~8월 겨울(우기), 9~11월 봄"
+ },
+ "timezone": {
+  "value": "AWST UTC+8, 서머타임 없음 → 한국(UTC+9)보다 1시간 늦음",
+  "source": "https://en.wikipedia.org/wiki/Perth",
+  "note": "서머타임 미시행은 Time in Australia 문서로 재확인 권장"
+ },
+ "flights": {
+  "value": "인천–퍼스 직항 정기편 확인 못 함. 항공권 검색 결과는 홍콩·쿠알라룸푸르 등 1회 경유편",
+  "sources": [
+   "https://www.kayak.co.kr/항공권/서울-인천국제공항-ICN/퍼스공항-PER",
+   "https://www.hotelscombined.co.kr/flight-routes/Incheon-Intl-ICN/Perth-PER.ksp"
+  ],
+  "note": "운항 일정은 항공사 공지로 재확인 필요"
+ },
+ "perth": {
+  "population": "Greater Perth 2,384,371 (2024)",
+  "isolation": "인구 10만 이상 가장 가까운 도시 애들레이드까지 2,100km 이상",
+  "source": "https://en.wikipedia.org/wiki/Perth"
+ },
+ "attractions": [
+  {
+   "name": "피너클스 (Pinnacles)",
+   "line": "남붕 국립공원 안 수천 개의 석회암 기둥, 퍼스 북서쪽 약 200km",
+   "source": "https://en.wikipedia.org/wiki/Nambung_National_Park"
+  },
+  {
+   "name": "란셀린 (Lancelin)",
+   "line": "퍼스 북쪽 127km 어촌·관광 마을, 흰 모래언덕",
+   "source": "https://en.wikipedia.org/wiki/Lancelin,_Western_Australia"
+  },
+  {
+   "name": "로트네스트 섬",
+   "line": "프리맨틀 서쪽 18km, 19㎢ 섬, A등급 보호구역 — 쿼카 서식지",
+   "source": "https://en.wikipedia.org/wiki/Rottnest_Island"
+  },
+  {
+   "name": "웨이브락 (Wave Rock)",
+   "line": "높이 약 15m·길이 약 110m 파도 모양 화강암, 퍼스 동남동 296km 하이든, 연 10만 명 이상 방문",
+   "source": "https://en.wikipedia.org/wiki/Wave_Rock"
+  },
+  {
+   "name": "핑크호수 (Hutt Lagoon)",
+   "line": "인도양 해안 근처 소금호수, 허트강 하구 북쪽 2km",
+   "source": "https://en.wikipedia.org/wiki/Hutt_Lagoon"
+  },
+  {
+   "name": "칼바리 국립공원",
+   "line": "퍼스 북쪽 485km 미드웨스트 지역",
+   "source": "https://en.wikipedia.org/wiki/Kalbarri_National_Park"
+  },
+  {
+   "name": "멍키마이어",
+   "line": "퍼스 북쪽 약 900km, 샤크베이 해양공원·세계유산 안",
+   "source": "https://en.wikipedia.org/wiki/Monkey_Mia"
+  },
+  {
+   "name": "마가렛리버",
+   "line": "서호주 남서부 대표 와인 산지, 5,840ha 포도밭·215개 와이너리(2012)",
+   "source": "https://en.wikipedia.org/wiki/Margaret_River_(wine_region)"
+  },
+  {
+   "name": "버셀튼 제티",
+   "line": "남반구에서 가장 긴 목재 잔교, 1,841m",
+   "source": "https://en.wikipedia.org/wiki/Busselton_Jetty"
+  },
+  {
+   "name": "스완밸리",
+   "line": "길포드~벨스 래피즈 사이 스완강 상류 지역(캐버샴 포함)",
+   "source": "https://en.wikipedia.org/wiki/Swan_Valley_(Western_Australia)"
+  },
+  {
+   "name": "프리맨틀",
+   "line": "스완강 하구 항구 도시, 퍼스의 항구",
+   "source": "https://en.wikipedia.org/wiki/Fremantle"
+  },
+  {
+   "name": "킹스파크",
+   "line": "퍼스 도심과 퍼스 워터를 내려다보는 400.6ha 공원",
+   "source": "https://en.wikipedia.org/wiki/Kings_Park,_Western_Australia"
+  },
+  {
+   "name": "울루루",
+   "line": "호주 중앙 노던테리토리의 거대한 사암 단일암, 앨리스스프링스 남서쪽 335km",
+   "source": "https://en.wikipedia.org/wiki/Uluru"
+  }
+ ],
+ "notFetched": "westernaustralia.com 명소 페이지는 JS 렌더라 본문 수집 실패"
+}

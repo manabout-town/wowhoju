@@ -1,0 +1,485 @@
+[
+ {
+  "feature": "상단바(전화·이메일·카톡상담·유튜브·인스타)",
+  "where": "https://wowhoju.com.au/",
+  "detail": "+61 416 471 983 / info@wowhoju.com.au / 카톡상담 https://pf.kakao.com/_rxfkLC/chat / YouTube·Instagram 아이콘. PC·모바일 UA 동일 HTML",
+  "data": "research/pages/site-structure.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "메인 메뉴(8항목, 고객센터 하위 3)",
+  "where": "https://wowhoju.com.au/",
+  "detail": "Home·일일투어·단기여행·버스/선박 투어·울룰루·맞춤투어·여행정보·고객센터(개인정보취급방침·이용약관·FAQ)",
+  "data": "research/pages/site-structure.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "모바일 햄버거 슬라이드 메뉴",
+  "where": "https://wowhoju.com.au/",
+  "detail": "메인 메뉴와 같은 트리(menu-main-menu-1)",
+  "data": "research/pages/site-structure.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "푸터(About Us·광고/제휴 문의, 사업자번호, 운영시간, 연락처, 은행계좌, SSL 문구)",
+  "where": "https://wowhoju.com.au/",
+  "detail": "ACN 606 553 333 / ABN 14606553333, 월-토 09-18 퍼스시간, Westpac BSB 036069 계좌 113366",
+  "data": "research/pages/site-structure.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "카카오톡 채널 상담 링크",
+  "where": "https://wowhoju.com.au/",
+  "detail": "상단바·푸터·각 목록/상세 사이드 \"Get a Question?\" 박스의 텍스트 링크. 플로팅 버튼은 없음",
+  "data": "research/pages/site-structure.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "홈 히어로 슬라이더(Revolution Slider 6장)",
+  "where": "https://wowhoju.com.au/",
+  "detail": "풀폭 1280x680, 화살표+불릿, 장마다 한 줄 카피",
+  "data": "research/pages/site-structure.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "홈 투어 카드 3묶음(Must Go 6 / 퍼스 100배 즐기기 3 / 울룰루 3)",
+  "where": "https://wowhoju.com.au/",
+  "detail": "카드: 리본 문구·제목·From 가격·기간·Availability·후기 수. 12개 상품",
+  "data": "research/pages/tours-detail.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "홈 블로그 목록(페이지네이션)",
+  "where": "https://wowhoju.com.au/",
+  "detail": "최신 글 카드+Read More, /page/2 ~ /page/44",
+  "data": "research/pages/blog-recent.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "홈 Why Book With Us 소개",
+  "where": "https://wowhoju.com.au/",
+  "detail": "현지 한인 가이드·일정 조정·소그룹~체험투어 3항목",
+  "data": null,
+  "mustKeep": true
+ },
+ {
+  "feature": "투어 목록 페이지: 일일투어",
+  "where": "https://wowhoju.com.au/tour-category/full-day-tour/",
+  "detail": "tour_category 일일투어(8개) 카드 목록",
+  "data": "research/pages/search-filters.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "투어 목록 페이지: 단기여행",
+  "where": "https://wowhoju.com.au/home/shortbreaks/",
+  "detail": "6개(마가렛리버 2박3일·1박2일, 칼바리 2박3일, 남부 3박4일, 멍키마이어 3박4일, 10일 로드트립)",
+  "data": null,
+  "mustKeep": true
+ },
+ {
+  "feature": "투어 목록 페이지: 버스/선박 투어",
+  "where": "https://wowhoju.com.au/home/bus-cruize/",
+  "detail": "로트네스트 4개 상품 + 카톡 상담 박스",
+  "data": null,
+  "mustKeep": true
+ },
+ {
+  "feature": "투어 목록 페이지: 울룰루(설명글+토글 FAQ)",
+  "where": "https://wowhoju.com.au/home/uluru/",
+  "detail": "캠핑 vs 리조트 설명, 투어 카드 2묶음, 토글 박스",
+  "data": null,
+  "mustKeep": true
+ },
+ {
+  "feature": "투어 목록 페이지: 체험투어",
+  "where": "https://wowhoju.com.au/home/%ec%b2%b4%ed%97%98%ed%88%ac%ec%96%b4/",
+  "detail": "스카이다이빙(From $0 표기)·에어벌룬. 메뉴에 연결 안 됨",
+  "data": null,
+  "mustKeep": true
+ },
+ {
+  "feature": "맞춤투어 안내(폼 없음)",
+  "where": "https://wowhoju.com.au/home/customtour/",
+  "detail": "허니문·가족·단체 맞춤 안내 + 카톡·이메일 연락처만",
+  "data": null,
+  "mustKeep": true
+ },
+ {
+  "feature": "가족 여행 페이지",
+  "where": "https://wowhoju.com.au/%ea%b0%80%ec%a1%b1-%ec%97%ac%ed%96%89/",
+  "detail": "캐버샴+스완밸리 1개 상품만. 메뉴 연결 없음",
+  "data": null,
+  "mustKeep": false
+ },
+ {
+  "feature": "여행지(Destination) 목록",
+  "where": "https://wowhoju.com.au/destinations-2/",
+  "detail": "tour-destination 6개(Perth 10, Uluru 1, 나머지 0개) 카드",
+  "data": null,
+  "mustKeep": false
+ },
+ {
+  "feature": "투어 검색 페이지(Tourmaster)",
+  "where": "https://wowhoju.com.au/dashboard/search-tours/",
+  "detail": "Keywords·Category·Tag·Duration(1일/2-4일/5-7일/7일+)·Date·Min/Max Price·Rating·Age·Activity·Destination, 정렬 7종(출시일·투어일·제목·가격·인기·평점·기간)+오름/내림. 메뉴·홈에 진입점 없음",
+  "data": "research/pages/search-filters.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "고객센터 투어 검색 박스",
+  "where": "https://wowhoju.com.au/about-us/customercentre/",
+  "detail": "Keywords·Activity·Destination·Date",
+  "data": "research/pages/search-filters.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "사이트 글 검색(WP ?s=)",
+  "where": "https://wowhoju.com.au/?s=test",
+  "detail": "블로그 사이드바 검색. 결과에 test·\"후기 테스트입니다\" 글이 노출됨",
+  "data": null,
+  "mustKeep": true
+ },
+ {
+  "feature": "투어 상세: 앵커 탭(여행 소개·투어 일정·지도·사진·후기)",
+  "where": "https://wowhoju.com.au/tour/2%eb%b0%95-3%ec%9d%bc-%ec%b9%bc%eb%b0%94%eb%a6%ac-%ed%88%ac%ec%96%b4-%ed%95%91%ed%81%ac%ed%98%b8%ec%88%98-%ed%94%bc%eb%84%88%ed%81%b4%ec%8a%a4/",
+  "detail": "스크롤 앵커형 탭. \"지도\" 탭은 38개 중 5개 상품만 지도 embed 있음(별빛투어는 지도 없음)",
+  "data": "research/pages/tours-detail.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "투어 상세: 정보 박스(기간·Availability·출발지·도착지)",
+  "where": "https://wowhoju.com.au/tour/pinnaclestargazing-%ed%94%bc%eb%84%88%ed%81%b4%ec%8a%a4-%ec%84%a0%ec%85%8b-%eb%b3%84%eb%b9%9b%ed%88%ac%ec%96%b4/",
+  "detail": "별빛투어 정보박스 290 Wellington St, 본문은 490 Wellington St — 집결지 불일치",
+  "data": "research/pages/tours-detail.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "투어 상세: 가격(성인/아동)·인원 할인 문구",
+  "where": "https://wowhoju.com.au/tour/pinnaclestargazing-%ed%94%bc%eb%84%88%ed%81%b4%ec%8a%a4-%ec%84%a0%ec%85%8b-%eb%b3%84%eb%b9%9b%ed%88%ac%ec%96%b4/",
+  "detail": "본문 텍스트(표 아님). 예: 성인 $200/아동 $170(만3-10세), 1-5인 5%·6인 10% 할인(카톡으로 할인코드)",
+  "data": "research/pages/tours-detail.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "투어 상세: 포함/불포함·참고사항·출발/도착 시간·준비물·환불 규정(울루루)",
+  "where": "https://wowhoju.com.au/tour/uluru2dayscamping/",
+  "detail": "title+텍스트 단락 섹션",
+  "data": "research/pages/tours-detail.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "투어 상세: 일정 토글(시간표)",
+  "where": "https://wowhoju.com.au/tour/2%eb%b0%95-3%ec%9d%bc-%ec%b9%bc%eb%b0%94%eb%a6%ac-%ed%88%ac%ec%96%b4-%ed%95%91%ed%81%ac%ed%98%b8%ec%88%98-%ed%94%bc%eb%84%88%ed%81%b4%ec%8a%a4/",
+  "detail": "gdlr 토글 박스, 칼바리 2박3일 24단계·별빛투어 6단계",
+  "data": "research/pages/tours-detail.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "투어 상세: 사진 갤러리",
+  "where": "https://wowhoju.com.au/tour/2%eb%b0%95-3%ec%9d%bc-%ec%b9%bc%eb%b0%94%eb%a6%ac-%ed%88%ac%ec%96%b4-%ed%95%91%ed%81%ac%ed%98%b8%ec%88%98-%ed%94%bc%eb%84%88%ed%81%b4%ec%8a%a4/",
+  "detail": "라이트박스 갤러리 + Read More 펼침. 상품별 원본 URL 목록",
+  "data": "research/pages/tours-detail.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "예약 바: 날짜 달력(예약가능일만)·성인/아동 인원(각 1~15)·Proceed Booking",
+  "where": "https://wowhoju.com.au/tour/pinnaclestargazing-%ed%94%bc%eb%84%88%ed%81%b4%ec%8a%a4-%ec%84%a0%ec%85%8b-%eb%b3%84%eb%b9%9b%ed%88%ac%ec%96%b4/",
+  "detail": "form POST /?tourmaster-payment (tour-id, tour-date, tour-adult, tour-children). 달력은 요일 고정 출발일 반영(별빛=화·토, 칼바리=수). 모바일 하단 고정 \"Book Now\" 바",
+  "data": "research/pages/tours-detail.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "예약 2단계 이후(고객정보·결제)",
+  "where": "https://wowhoju.com.au/?tourmaster-payment",
+  "detail": "curl POST 시 403(WAF) — 실제 화면 확인 못 함. 페이지 스크립트에 billing_first_name/last_name/email/phone 필드, PayPal·Stripe(woocommerce-gateway-stripe 플러그인), 예치금(deposit) 옵션 문자열 존재",
+  "data": null,
+  "mustKeep": true
+ },
+ {
+  "feature": "결제 수단 안내 페이지(How the payment works)",
+  "where": "https://wowhoju.com.au/about-us/how-the-payment-works/",
+  "detail": "Traveltour 데모 영문 원문 그대로(PayPal·Stripe·오프라인 계좌이체 설명). 실제 수단: 푸터 Westpac 계좌",
+  "data": null,
+  "mustKeep": false
+ },
+ {
+  "feature": "위시리스트(Save To Wish List)",
+  "where": "https://wowhoju.com.au/tour/pinnaclestargazing-%ed%94%bc%eb%84%88%ed%81%b4%ec%8a%a4-%ec%84%a0%ec%85%8b-%eb%b3%84%eb%b9%9b%ed%88%ac%ec%96%b4/",
+  "detail": "\"Adding item to wishlist requires an account\" — 로그인 화면이 비어 있어 사실상 사용 불가",
+  "data": null,
+  "mustKeep": false
+ },
+ {
+  "feature": "투어 후기(별점·후기 수·후기 목록)",
+  "where": "https://wowhoju.com.au/tour/2%eb%b0%95-3%ec%9d%bc-%ec%b9%bc%eb%b0%94%eb%a6%ac-%ed%88%ac%ec%96%b4-%ed%95%91%ed%81%ac%ed%98%b8%ec%88%98-%ed%94%bc%eb%84%88%ed%81%b4%ec%8a%a4/",
+  "detail": "헤더에 \"(14 Reviews)\" 표시되나 후기 섹션 본문 비어 있음. KBoard 댓글 iframe(?kboard_id=1)은 상세페이지 전체를 다시 띄움 — 후기 목록·작성 깨짐",
+  "data": "research/reviews.json",
+  "mustKeep": false
+ },
+ {
+  "feature": "관련 투어(Related Tours)",
+  "where": "https://wowhoju.com.au/tour/2%eb%b0%95-3%ec%9d%bc-%ec%b9%bc%eb%b0%94%eb%a6%ac-%ed%88%ac%ec%96%b4-%ed%95%91%ed%81%ac%ed%98%b8%ec%88%98-%ed%94%bc%eb%84%88%ed%81%b4%ec%8a%a4/",
+  "detail": "38개 중 35개 상품 하단에 2개씩. 별빛투어 등엔 없음",
+  "data": "research/pages/tours-detail.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "투어 상세 사이드 박스(Why Book With Us·Get a Question? 카톡)",
+  "where": "https://wowhoju.com.au/tour/pinnaclestargazing-%ed%94%bc%eb%84%88%ed%81%b4%ec%8a%a4-%ec%84%a0%ec%85%8b-%eb%b3%84%eb%b9%9b%ed%88%ac%ec%96%b4/",
+  "detail": "카톡채널·전화·이메일",
+  "data": null,
+  "mustKeep": true
+ },
+ {
+  "feature": "문의 폼(Enquiry) / 공유 버튼",
+  "where": "https://wowhoju.com.au/tour/pinnaclestargazing-%ed%94%bc%eb%84%88%ed%81%b4%ec%8a%a4-%ec%84%a0%ec%85%8b-%eb%b3%84%eb%b9%9b%ed%88%ac%ec%96%b4/",
+  "detail": "상세페이지에 없음(두 대표 상품 모두 확인)",
+  "data": null,
+  "mustKeep": false
+ },
+ {
+  "feature": "여행정보 허브(이미지 타일 12개)",
+  "where": "https://wowhoju.com.au/info/",
+  "detail": "환율·날씨·행사·일반정보·지역 8곳·뉴스 타일. /community/info/ 로 리다이렉트",
+  "data": "research/pages/site-structure.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "호주환율보기",
+  "where": "https://wowhoju.com.au/info/",
+  "detail": "위젯 아님 — xe.com/currencyconverter 외부 링크",
+  "data": "research/pages/site-structure.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "호주날씨보기",
+  "where": "https://wowhoju.com.au/info/",
+  "detail": "위젯 아님 — 네이버 날씨 외부 링크인데 현재 weather.naver.com/today 로 리다이렉트(퍼스 아님). 고객센터2 페이지는 weatherzone.com.au 링크",
+  "data": "research/pages/site-structure.json",
+  "mustKeep": false
+ },
+ {
+  "feature": "이벤트 행사 정보(서호주 행사 카테고리)",
+  "where": "https://wowhoju.com.au/category/wa-events/",
+  "detail": "24개 글, 최신 2020-02",
+  "data": "research/pages/posts-by-category.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "서호주 뉴스(뉴스 카테고리)",
+  "where": "https://wowhoju.com.au/category/news/",
+  "detail": "169개 글(전체 대부분), 최신 2020-03",
+  "data": "research/pages/posts-by-category.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "호주여행 일반정보(여행 정보 카테고리)",
+  "where": "https://wowhoju.com.au/category/travel-introduction/",
+  "detail": "46개 글",
+  "data": "research/pages/posts-by-category.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "지역별 글 목록: 퍼스33·프리맨틀5·로트네스트16·웨이브락8·칼바리9·마가렛리버11·피나클스19·앨버니4·서호주 맛집7",
+  "where": "https://wowhoju.com.au/category/perth/",
+  "detail": "WP 카테고리 아카이브(사이드바: 검색·최근글·아카이브·카테고리)",
+  "data": "research/pages/posts-by-category.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "지역 카테고리: 샤크베이·멍키마이어",
+  "where": "https://wowhoju.com.au/category/sharkbay/",
+  "detail": "글 0개 — 빈 페이지(샤크베이는 여행정보 타일에 연결됨)",
+  "data": "research/pages/posts-by-category.json",
+  "mustKeep": false
+ },
+ {
+  "feature": "블로그 페이지",
+  "where": "https://wowhoju.com.au/blog/",
+  "detail": "블로그 아이템 그리드가 비어 있음(글 0개 렌더). 실제 블로그 목록은 홈 하단·카테고리 아카이브로만 동작",
+  "data": "research/pages/blog-recent.json",
+  "mustKeep": false
+ },
+ {
+  "feature": "블로그 글 상세(총 173개, 최신 2025-08-30)",
+  "where": "https://wowhoju.com.au/perth-roadtrip-seo-optimized-%ec%84%9c%ed%98%b8%ec%a3%bc-%ec%97%ac%ed%96%89/",
+  "detail": "대표이미지·본문·카테고리·태그",
+  "data": "research/pages/blog-recent.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "About Us",
+  "where": "https://wowhoju.com.au/about-us/",
+  "detail": "회사 소개·Why WoW Hojutour·About Services·Get A Quote 버튼·서비스 칼럼",
+  "data": null,
+  "mustKeep": true
+ },
+ {
+  "feature": "고객센터(검색 박스+전화/이메일/카톡+SNS)",
+  "where": "https://wowhoju.com.au/about-us/customercentre/",
+  "detail": "메뉴 연결. 연락 폼 없음",
+  "data": null,
+  "mustKeep": true
+ },
+ {
+  "feature": "연락 폼(CF7)+지도: \"후기쓰고 쿠폰받기\" 페이지",
+  "where": "https://wowhoju.com.au/about-us/contact-2/",
+  "detail": "필드: 이름·이메일·제목·메시지 + wp-google-map 플러그인 지도 + SNS. 제목과 달리 실제는 고객센터 연락 페이지. 메뉴 연결 없음",
+  "data": null,
+  "mustKeep": true
+ },
+ {
+  "feature": "광고/제휴 문의 폼(CF7)",
+  "where": "https://wowhoju.com.au/%ea%b4%91%ea%b3%a0-%ec%a0%9c%ed%9c%b4-%eb%ac%b8%ec%9d%98/",
+  "detail": "이름(필수)·이메일(필수)·제목·문의 내용. 푸터 링크. 이메일 info@wowhojutour.com(구 도메인) 표기",
+  "data": null,
+  "mustKeep": true
+ },
+ {
+  "feature": "FAQ",
+  "where": "https://wowhoju.com.au/about-us/faq/",
+  "detail": "9문항(예약 및 결제·투어 진행·그 외)",
+  "data": "research/pages/faq.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "이용약관(취소 수수료 포함)",
+  "where": "https://wowhoju.com.au/user-agreement/",
+  "detail": "MADANG GROUP 명의 한영 병기 9개 조항. 취소요금: 15일 전 10%·8-14일 25%·3-7일 50%·2일 이내 100%",
+  "data": "research/pages/policies.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "개인정보취급방침",
+  "where": "https://wowhoju.com.au/privacy-policy/",
+  "detail": "Privacy Act 1988/APP 준수, Madang Group 명의 한영 병기",
+  "data": "research/pages/policies.json",
+  "mustKeep": true
+ },
+ {
+  "feature": "환불정책 페이지",
+  "where": "https://wowhoju.com.au/%ec%9d%b4%ec%9a%a9%ec%95%bd%ea%b4%80-3/",
+  "detail": "본문이 개인정보취급방침과 100% 동일 — 환불 내용 없음, 메뉴 미연결",
+  "data": "research/pages/policies.json",
+  "mustKeep": false
+ },
+ {
+  "feature": "후기 쓰고 $30 쿠폰 이벤트 안내",
+  "where": "https://wowhoju.com.au/%ed%9b%84%ea%b8%b0%ec%93%b0%ea%b3%a0-%ec%bf%a0%ed%8f%b0%eb%b0%9b%ec%9e%90/",
+  "detail": "여행 후 30일 내 후기 작성 시 $30 프로모션 코드(수동 발급). 메뉴 미연결",
+  "data": null,
+  "mustKeep": false
+ },
+ {
+  "feature": "SNS 팔로우 $5 쿠폰 이벤트",
+  "where": "https://wowhoju.com.au/socialmedia/",
+  "detail": "네이버 블로그 호주마당·Youtube·Facebook·Instagram 중 2개 팔로우 시 $5 코드(수동). 메뉴 미연결",
+  "data": null,
+  "mustKeep": false
+ },
+ {
+  "feature": "쿠폰/할인코드 입력",
+  "where": "https://wowhoju.com.au/tour/pinnaclestargazing-%ed%94%bc%eb%84%88%ed%81%b4%ec%8a%a4-%ec%84%a0%ec%85%8b-%eb%b3%84%eb%b9%9b%ed%88%ac%ec%96%b4/",
+  "detail": "본문에 \"카톡으로 할인코드 문의\" 안내. 실제 코드 입력란은 결제 단계(확인 못 함)",
+  "data": null,
+  "mustKeep": true
+ },
+ {
+  "feature": "스페셜 프로모션 박스 페이지(2개)",
+  "where": "https://wowhoju.com.au/promo-boxes/",
+  "detail": "2020년 2~3월·8월 날짜 한정 할인 — 만료된 내용, 메뉴 미연결",
+  "data": null,
+  "mustKeep": false
+ },
+ {
+  "feature": "여행 후기 게시판",
+  "where": "https://wowhoju.com.au/review/",
+  "detail": "[hanaboard] 숏코드가 그대로 노출 — 플러그인 없음, 깨짐",
+  "data": null,
+  "mustKeep": false
+ },
+ {
+  "feature": "인스타그램 피드(2페이지)",
+  "where": "https://wowhoju.com.au/instagram/",
+  "detail": "\"Instagram did not return a 200. Invalid OAuth access token\" 오류 노출",
+  "data": null,
+  "mustKeep": false
+ },
+ {
+  "feature": "포토/영상 갤러리",
+  "where": "https://wowhoju.com.au/gallery/",
+  "detail": "이미지+캡션 수십 장(Photo by Uni M.), 메뉴 미연결",
+  "data": null,
+  "mustKeep": true
+ },
+ {
+  "feature": "스냅 투어 / 영상 투어",
+  "where": "https://wowhoju.com.au/snaptour/",
+  "detail": "스냅 3종 가격표($290/$310/$240 인당) + 갤러리, 영상투어는 유튜브 1편. 메뉴 미연결",
+  "data": null,
+  "mustKeep": false
+ },
+ {
+  "feature": "로그인·회원가입·대시보드·How to pay(Tourmaster)",
+  "where": "https://wowhoju.com.au/dashboard/login/",
+  "detail": "페이지 본문 비어 있음(폼 렌더 안 됨). 헤더에 로그인 버튼도 없음",
+  "data": null,
+  "mustKeep": false
+ },
+ {
+  "feature": "WooCommerce 내 계정(로그인 폼)",
+  "where": "https://wowhoju.com.au/dashboard/my-account/",
+  "detail": "아이디/이메일·비밀번호·기억하기·비밀번호 찾기 폼은 렌더됨. 회원 기능 진입점은 없음",
+  "data": null,
+  "mustKeep": false
+ },
+ {
+  "feature": "장바구니·체크아웃(WooCommerce)",
+  "where": "https://wowhoju.com.au/dashboard/cart/",
+  "detail": "\"Your cart is currently empty\" — Woo 상품 0개, 투어 예약은 Tourmaster 자체 결제 사용. 체크아웃 URL도 장바구니 표시",
+  "data": null,
+  "mustKeep": false
+ },
+ {
+  "feature": "결제 링크 페이지",
+  "where": "https://wowhoju.com.au/about-us/customercentre/payment_link/",
+  "detail": "투어 아이템 블록만 있고 내용 비어 있음(tour_category payment 0개)",
+  "data": null,
+  "mustKeep": false
+ },
+ {
+  "feature": "언어 전환·뉴스레터·플로팅 버튼",
+  "where": "https://wowhoju.com.au/",
+  "detail": "없음(홈·상세 HTML에 WPML/GTranslate/뉴스레터 폼/플로팅 플러그인 흔적 없음)",
+  "data": null,
+  "mustKeep": false
+ },
+ {
+  "feature": "Google Analytics(GA4 G-QREKRJRQW6, MonsterInsights)",
+  "where": "https://wowhoju.com.au/",
+  "detail": "gtag 스크립트",
+  "data": null,
+  "mustKeep": true
+ },
+ {
+  "feature": "데모·테스트 잔재 페이지",
+  "where": "https://wowhoju.com.au/test/",
+  "detail": "/test/(Lorem·데모 슬라이더), /landing-page/(ChatGPT 대화 붙여넣기, 타 업체 Beyond Perth 랜딩), /15725-2/(빈 페이지), /top-vacation-tours/·/popular-deals/(빈 목록), /destinations/(구 도메인 wowhojutour.com 링크, 접속 불가), /community-2/(구 도메인 링크) — 공개 상태",
+  "data": null,
+  "mustKeep": false
+ },
+ {
+  "feature": "검색 노출 테스트 글",
+  "where": "https://wowhoju.com.au/?s=test",
+  "detail": "\"test\"(2025-09-09)·\"후기 테스트입니다\"(2025-12-16) 게시물 공개",
+  "data": null,
+  "mustKeep": false
+ },
+ {
+  "feature": "Traveltour 데모 분류 잔재",
+  "where": "https://wowhoju.com.au/dashboard/search-tours/",
+  "detail": "tour_tag Paris·New York·London Eye 등, tour-activity 영문 8종(count 0), tour_category 울루루/울룰루 중복 — 검색 드롭다운에 그대로 노출",
+  "data": "research/pages/search-filters.json",
+  "mustKeep": false
+ }
+]

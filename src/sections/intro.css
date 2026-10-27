@@ -1,0 +1,17 @@
+.in { position: fixed; inset: 0; z-index: 200; background: #05090d; overflow: hidden; clip-path: inset(0 0 0 0); color: #fbf6ec; }
+.in-video { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; filter: saturate(1.05) contrast(1.05); }
+.in-grain { position: absolute; inset: -50%; opacity: 0.09; pointer-events: none; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E"); animation: grain 0.9s steps(4) infinite; }
+@keyframes grain { 25% { transform: translate(-3%, 2%); } 50% { transform: translate(2%, -3%); } 75% { transform: translate(-2%, -1%); } }
+.in-bar { position: absolute; left: 0; right: 0; height: 9vh; background: #05090d; z-index: 2; }
+.in-bar--t { top: 0; transform-origin: top; }
+.in-bar--b { bottom: 0; transform-origin: bottom; }
+.in-center { position: absolute; inset: 0; display: grid; place-items: center; z-index: 3; text-align: center; padding: 0 var(--gut); }
+.in-lines, .in-mark { grid-area: 1 / 1; }
+.in-lines p { font-size: clamp(24px, 3.4vw, 46px); line-height: 1.55; text-shadow: 0 6px 30px rgba(0, 0, 0, 0.5); opacity: 0; }
+.in-mark { display: grid; justify-items: center; }
+.in-word { display: flex; gap: 0.02em; padding-bottom: 0.08em; font-family: var(--display); font-size: clamp(72px, 16vw, 236px); line-height: 1; white-space: nowrap; color: #efe6d6; text-shadow: 0 2px 0 rgba(0, 0, 0, 0.25), 0 14px 40px rgba(0, 0, 0, 0.45); }
+.in-word span { display: inline-block; }
+
+/* 와우호주: 밝은 란셀린 모래 위 — 글자 읽히게 영상 위 어둠 막, 실제 로고는 뒤에 밝은 모래빛 원형으로 띄움 */
+.in-dim { position: absolute; inset: 0; background: radial-gradient(ellipse at 50% 50%, rgba(28, 22, 20, 0.5), rgba(28, 22, 20, 0.35) 60%, rgba(28, 22, 20, 0.55)); }
+.in-logo { width: min(86vw, 760px); height: auto; opacity: 0; filter: drop-shadow(0 0 28px rgba(250, 244, 234, 0.85)) drop-shadow(0 0 60px rgba(250, 244, 234, 0.6)); }

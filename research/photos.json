@@ -1,0 +1,1585 @@
+{
+ "source": "https://wowhoju.com.au/wp-json/wp/v2/media (WP 미디어 라이브러리 총 2,965건 중 홈·투어·소개 페이지 21곳에 실제 쓰인 이미지 위주)",
+ "note": "세션 중단으로 122장 받음 → 잘린 3장(IMG_1215-scaled.jpg, IMG_1932-scaled.jpg, wow-hoju-thumnail6.jpg) 삭제, 119장. 원본 4032px 사진은 WP 1800px 사이즈로 받음(파일명 -1800x1350 접미사). 사이트 사진 대부분 898x598 이하 소형. AI 의심 파일명(ChatGPT_Image/Gemini_Generated) 0건.",
+ "largeOnes": [
+  "photos/Banner-3.jpg",
+  "photos/Banner-6.jpg",
+  "photos/Granite_Skywalk_Castle_Rock_Porongurup_NP_III-2013.jpeg.jpg",
+  "photos/IMG_1204-scaled.jpg",
+  "photos/IMG_1371-1800x1350.jpeg",
+  "photos/IMG_3055-1800x1350.jpeg",
+  "photos/IMG_6112-1800x1350.jpeg",
+  "photos/IMG_6128-1800x1350.jpeg",
+  "photos/IMG_7039-1800x1350.jpeg",
+  "photos/IMG_7040-copy-2-1800x1350.jpeg",
+  "photos/IMG_7309-1800x1350.jpeg",
+  "photos/IMG_8972-scaled.jpg",
+  "photos/KakaoTalk_Photo_2019-11-04-12-52-52-1800x1010.jpg",
+  "photos/Kalbarri-.jpg",
+  "photos/Kalbarri-2.jpg",
+  "photos/Kalbarri-5.jpg",
+  "photos/Kalbarri-9.jpg",
+  "photos/Margaret-River-3.jpg",
+  "photos/Margaret-river-2.jpg",
+  "photos/Margaret-river-4.jpg",
+  "photos/Margaret-river-5.jpg",
+  "photos/Monkey-Mia.jpeg",
+  "photos/Rottnest-Ferry.png",
+  "photos/background-1-1.jpg",
+  "photos/banner-5.jpg",
+  "photos/bbq_dinner.jpg",
+  "photos/desktop-background-3221104_1920.jpg",
+  "photos/unnamed-1800x2112.jpg",
+  "photos/wowhojutour.jpg"
+ ],
+ "notDownloadedButAvailable": "미디어 라이브러리에 1600px 이상 원본 421장(2019 칼바리·멍키마이어·에스페란스·알바니 IMG_ 원본 등) 있음 — 목록 URL: https://wowhoju.com.au/wp-json/wp/v2/media?per_page=100&page=N (N=1..33)",
+ "photos": [
+  {
+   "file": "photos/2.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/10/2.jpg",
+   "what": "텍스트 버튼 이미지 \"호주환율보기\" (사진 아님)",
+   "people": "사람 없음",
+   "size": [
+    945,
+    591
+   ],
+   "bytes": 737405,
+   "kind": "텍스트 이미지",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/22.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/10/22.jpg",
+   "what": "텍스트 버튼 \"호주날씨보기\" (사진 아님)",
+   "people": "사람 없음",
+   "size": [
+    945,
+    591
+   ],
+   "bytes": 735105,
+   "kind": "텍스트 이미지",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/3.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/10/3.jpg",
+   "what": "텍스트 버튼 \"이벤트 행사 정보\" (사진 아님)",
+   "people": "사람 없음",
+   "size": [
+    945,
+    591
+   ],
+   "bytes": 757086,
+   "kind": "텍스트 이미지",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/32.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/10/32.jpg",
+   "what": "텍스트 버튼 \"NEWS 서호주 뉴스\" (사진 아님)",
+   "people": "사람 없음",
+   "size": [
+    945,
+    591
+   ],
+   "bytes": 779640,
+   "kind": "텍스트 이미지",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/4367991464_1d2dab793b_c.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2020/04/4367991464_1d2dab793b_c.jpg",
+   "what": "알바니 풍력발전단지 해안 (플리커 파일명 — 외부 사진 의심)",
+   "people": "사람 없음",
+   "size": [
+    799,
+    533
+   ],
+   "bytes": 109204,
+   "kind": "외부/스톡 의심",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/5.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/10/5.jpg",
+   "what": "텍스트 버튼 \"퍼스\" (사진 아님)",
+   "people": "사람 없음",
+   "size": [
+    945,
+    591
+   ],
+   "bytes": 42783,
+   "kind": "텍스트 이미지",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/52.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/10/52.jpg",
+   "what": "텍스트 버튼 \"프리맨틀\"",
+   "people": "사람 없음",
+   "size": [
+    945,
+    591
+   ],
+   "bytes": 51181,
+   "kind": "텍스트 이미지",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/58.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/10/58.jpg",
+   "what": "텍스트 버튼 \"웨이브락\"",
+   "people": "사람 없음",
+   "size": [
+    945,
+    591
+   ],
+   "bytes": 55931,
+   "kind": "텍스트 이미지",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/59.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/10/59.jpg",
+   "what": "텍스트 버튼 \"로트네스트\"",
+   "people": "사람 없음",
+   "size": [
+    945,
+    591
+   ],
+   "bytes": 59310,
+   "kind": "텍스트 이미지",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/6.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/10/6.jpg",
+   "what": "텍스트 버튼 \"마가렛리버\"",
+   "people": "사람 없음",
+   "size": [
+    945,
+    591
+   ],
+   "bytes": 52850,
+   "kind": "텍스트 이미지",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/62.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/10/62.jpg",
+   "what": "텍스트 버튼 \"칼바리\"",
+   "people": "사람 없음",
+   "size": [
+    945,
+    591
+   ],
+   "bytes": 44809,
+   "kind": "텍스트 이미지",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/7.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/10/7.jpg",
+   "what": "텍스트 버튼 \"멍키마이어\"",
+   "people": "사람 없음",
+   "size": [
+    945,
+    591
+   ],
+   "bytes": 55930,
+   "kind": "텍스트 이미지",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/70CD0750-8D94-42C0-8FE7-32867913434D.jpeg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/04/70CD0750-8D94-42C0-8FE7-32867913434D.jpeg",
+   "what": "피너클스 해질녘 하트 포즈 실루엣 (스냅투어)",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    738,
+    960
+   ],
+   "bytes": 42516,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/72.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/10/72.jpg",
+   "what": "텍스트 버튼 \"호주여행 일반 정보\"",
+   "people": "사람 없음",
+   "size": [
+    945,
+    591
+   ],
+   "bytes": 76649,
+   "kind": "텍스트 이미지",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/ATA_NT_Red-Centre_uluru_9075.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2023/05/ATA_NT_Red-Centre_uluru_9075.jpg",
+   "what": "울루루 앞 여행자 3명 (ATA=Australia Tourism 계열 제공 사진 의심, 자사 아님)",
+   "people": "손님 얼굴 보임",
+   "size": [
+    709,
+    473
+   ],
+   "bytes": 370795,
+   "kind": "외부/스톡 의심",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/ATA_NT_Uluru_8880-2-2.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2023/05/ATA_NT_Uluru_8880-2-2.jpg",
+   "what": "카타추타 트레킹 무리 (ATA 제공 사진 의심)",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    1024,
+    684
+   ],
+   "bytes": 863123,
+   "kind": "외부/스톡 의심",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/ATA_WA_Karijini_ORG1113-2.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2023/05/ATA_WA_Karijini_ORG1113-2.jpg",
+   "what": "카리지니 협곡 물웅덩이 (ATA 제공 사진 의심)",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    1069,
+    708
+   ],
+   "bytes": 1041442,
+   "kind": "외부/스톡 의심",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Banner-3.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/10/Banner-3.jpg",
+   "what": "노을 들판 비행기 든 아이 (스톡 의심)",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    2000,
+    945
+   ],
+   "bytes": 1428714,
+   "kind": "외부/스톡 의심",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Banner-6.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/10/Banner-6.jpg",
+   "what": "커피·잡지·꽃 정물 (스톡)",
+   "people": "사람 없음",
+   "size": [
+    1920,
+    1280
+   ],
+   "bytes": 968924,
+   "kind": "외부/스톡 의심",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Black-Brewing-Co.png",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Black-Brewing-Co.png",
+   "what": "마가렛리버 블랙 브루잉 양조장 테라스",
+   "people": "사람 없음",
+   "size": [
+    661,
+    496
+   ],
+   "bytes": 656713,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Bus-tour2.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Bus-tour2.jpg",
+   "what": "퍼스 시내 빨간 2층 관광버스",
+   "people": "사람 없음",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 227782,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Busselton-.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Busselton-.jpg",
+   "what": "버셀튼 제티 해변 오두막",
+   "people": "사람 없음",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 257478,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Busselton-2.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Busselton-2.jpg",
+   "what": "버셀튼 제티 빨간 꼬마기차",
+   "people": "사람 없음",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 187109,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Busselton-Jetty-3.jpeg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/12/Busselton-Jetty-3.jpeg",
+   "what": "버셀튼 제티 위 여성 손님",
+   "people": "손님 얼굴 보임",
+   "size": [
+    800,
+    600
+   ],
+   "bytes": 375280,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Canal-rocks.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2022/11/Canal-rocks.jpg",
+   "what": "캐널록스 바위 해안·인도양",
+   "people": "사람 없음",
+   "size": [
+    900,
+    675
+   ],
+   "bytes": 236702,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Granite_Skywalk_Castle_Rock_Porongurup_NP_III-2013.jpeg.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2020/04/Granite_Skywalk_Castle_Rock_Porongurup_NP_III-2013.jpeg.jpg",
+   "what": "포롱거럽 캐슬록 그래나이트 스카이워크 (위키미디어 파일명 — 외부 사진 의심)",
+   "people": "사람 없음",
+   "size": [
+    1600,
+    1200
+   ],
+   "bytes": 496790,
+   "kind": "외부/스톡 의심",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/IMG_1143-1.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/02/IMG_1143-1.jpg",
+   "what": "칼바리 붉은 협곡 위에 앉은 손님(모자)",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    580,
+    435
+   ],
+   "bytes": 77002,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/IMG_1204-scaled.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2024/03/IMG_1204-scaled.jpg",
+   "what": "월폴 트리탑 워크 철제 다리·카리 숲",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    2560,
+    1920
+   ],
+   "bytes": 1462696,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/IMG_1371-1800x1350.jpeg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/03/IMG_1371.jpeg",
+   "what": "칼바리 해안 덤불 사이 흰 산책로",
+   "people": "사람 없음",
+   "size": [
+    1800,
+    1350
+   ],
+   "bytes": 563418,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/IMG_1478-1.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/03/IMG_1478-1.jpg",
+   "what": "피너클스 은하수 아래 손님 4명 앉은 실루엣",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    1500,
+    1000
+   ],
+   "bytes": 1556668,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/IMG_1489.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/03/IMG_1489.jpg",
+   "what": "칼바리 해안 절벽(붉은 사암)·인도양",
+   "people": "사람 없음",
+   "size": [
+    580,
+    435
+   ],
+   "bytes": 91912,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/IMG_2492.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/04/IMG_2492.jpg",
+   "what": "란셀린 흰 모래언덕 샌드보딩 손님 + 사륜구동",
+   "people": "손님 얼굴 보임",
+   "size": [
+    1500,
+    1000
+   ],
+   "bytes": 522649,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/IMG_3055-1800x1350.jpeg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/03/IMG_3055.jpeg",
+   "what": "칼바리 해안 전망대 만세 포즈 손님 3명",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    1800,
+    1350
+   ],
+   "bytes": 283907,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/IMG_3976.jpeg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/12/IMG_3976.jpeg",
+   "what": "마가렛리버 초록 덩굴 아치길 여성 손님",
+   "people": "손님 얼굴 보임",
+   "size": [
+    700,
+    525
+   ],
+   "bytes": 636930,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/IMG_4640.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/02/IMG_4640.jpg",
+   "what": "란셀린 흰 모래언덕 빨간 샌드보드 여성",
+   "people": "손님 얼굴 보임",
+   "size": [
+    1000,
+    750
+   ],
+   "bytes": 432102,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/IMG_5155-1.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/02/IMG_5155-1.jpg",
+   "what": "칼바리 협곡 전망 손님 가족 뒷모습",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    1000,
+    750
+   ],
+   "bytes": 772736,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/IMG_5959.jpeg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/04/IMG_5959.jpeg",
+   "what": "란셀린 모래언덕 샌드보드 든 손님 단체",
+   "people": "손님 얼굴 보임",
+   "size": [
+    1000,
+    750
+   ],
+   "bytes": 471688,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/IMG_6112-1800x1350.jpeg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/03/IMG_6112.jpeg",
+   "what": "칼바리 해안 절벽 점프 남성",
+   "people": "손님 얼굴 보임",
+   "size": [
+    1800,
+    1350
+   ],
+   "bytes": 551445,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/IMG_6128-1800x1350.jpeg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/03/IMG_6128.jpeg",
+   "what": "칼바리 해안 전망대 단체 사진",
+   "people": "손님 얼굴 보임",
+   "size": [
+    1800,
+    1350
+   ],
+   "bytes": 378828,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/IMG_7039-1800x1350.jpeg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/03/IMG_7039.jpeg",
+   "what": "칼바리 협곡 바위에 앉은 손님",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    1800,
+    1350
+   ],
+   "bytes": 425666,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/IMG_7040-copy-2-1800x1350.jpeg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/03/IMG_7040-copy-2.jpeg",
+   "what": "칼바리 협곡 바위 위 양팔 벌린 여성",
+   "people": "손님 얼굴 보임",
+   "size": [
+    1800,
+    1350
+   ],
+   "bytes": 258681,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/IMG_7309-1800x1350.jpeg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/03/IMG_7309.jpeg",
+   "what": "칼바리 해안 전망대 산책로",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    1800,
+    1350
+   ],
+   "bytes": 595210,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/IMG_8972-scaled.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2025/04/IMG_8972-scaled.jpg",
+   "what": "칼바리 계곡 붉은 바위 위를 걷는 손님 (2025)",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    2560,
+    1920
+   ],
+   "bytes": 1090707,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/KakaoTalk_Photo_2019-11-04-12-52-52-1800x1010.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2020/04/KakaoTalk_Photo_2019-11-04-12-52-52.jpg",
+   "what": "알바니 더 갭(The Gap) 화강암 절벽·파도",
+   "people": "사람 없음",
+   "size": [
+    1800,
+    1010
+   ],
+   "bytes": 458134,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Kalbarri-.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/01/Kalbarri-.jpg",
+   "what": "칼바리 제티 파빌리온·청록 바다",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    1795,
+    1197
+   ],
+   "bytes": 398665,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Kalbarri-2.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/01/Kalbarri-2.jpg",
+   "what": "칼바리 해변 노란 조형물",
+   "people": "사람 없음",
+   "size": [
+    1795,
+    1197
+   ],
+   "bytes": 431579,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Kalbarri-4.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Kalbarri-4.jpg",
+   "what": "칼바리 머치슨강 협곡",
+   "people": "사람 없음",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 191213,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Kalbarri-5.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/01/Kalbarri-5.jpg",
+   "what": "핑크 호수(Hutt Lagoon) 속 손님들",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    1795,
+    1197
+   ],
+   "bytes": 454233,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Kalbarri-9.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/01/Kalbarri-9.jpg",
+   "what": "피너클스 석회암 기둥 사이 손님",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    1795,
+    1197
+   ],
+   "bytes": 382116,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Kalbarri.png",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2024/12/Kalbarri.png",
+   "what": "칼바리 협곡 사진 찍는 손님들",
+   "people": "손님 얼굴 보임",
+   "size": [
+    1540,
+    1146
+   ],
+   "bytes": 3128148,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Margaret-River-17.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Margaret-River-17.jpg",
+   "what": "케이프 르윈 흰 등대·망원경 손님",
+   "people": "손님 얼굴 보임",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 180475,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Margaret-River-3.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Margaret-River-3.jpg",
+   "what": "와이너리 포도밭 가로수길",
+   "people": "사람 없음",
+   "size": [
+    1795,
+    1197
+   ],
+   "bytes": 1442502,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Margaret-river-2.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/12/Margaret-river-2.jpg",
+   "what": "마가렛리버 초콜릿·치즈 상점 내부",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    1795,
+    1197
+   ],
+   "bytes": 751262,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Margaret-river-4.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/12/Margaret-river-4.jpg",
+   "what": "캐널록스 다리 위 손님·파도",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    1795,
+    1197
+   ],
+   "bytes": 679854,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Margaret-river-5.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/12/Margaret-river-5.jpg",
+   "what": "캐널록스 바위 사이 하얀 파도",
+   "people": "사람 없음",
+   "size": [
+    1795,
+    1197
+   ],
+   "bytes": 707955,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Monkey-Mia.jpeg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/12/Monkey-Mia.jpeg",
+   "what": "멍키마이어 얕은 바다 돌고래 만나는 손님",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    2000,
+    1500
+   ],
+   "bytes": 1659987,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Moore-River-11.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Moore-River-11.jpg",
+   "what": "무어리버 나무 데크길·강과 바다",
+   "people": "사람 없음",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 265798,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Moore-River-12.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Moore-River-12.jpg",
+   "what": "무어리버 하구 맑은 물·바위",
+   "people": "사람 없음",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 306658,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Moore-River-2.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Moore-River-2.jpg",
+   "what": "무어리버 해변 노란 파라솔·인도양",
+   "people": "사람 없음",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 137471,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Moore-River-4.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Moore-River-4.jpg",
+   "what": "무어리버 언덕 계단길 전경",
+   "people": "사람 없음",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 392340,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Moore-River-5.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Moore-River-5.jpg",
+   "what": "무어리버 강 카약·물놀이",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 342685,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Moore-River-7.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Moore-River-7.jpg",
+   "what": "무어리버 강물 속 손님들",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 329240,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Moore-river.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/06/Moore-river.jpg",
+   "what": "무어리버 강가에 앉은 커플",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    800,
+    600
+   ],
+   "bytes": 421515,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Perth-city-1.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/12/Perth-city-1.jpg",
+   "what": "퍼스 엘리자베스 키 다리·스카이라인",
+   "people": "사람 없음",
+   "size": [
+    718,
+    479
+   ],
+   "bytes": 316897,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Perth-city-2.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/12/Perth-city-2.jpg",
+   "what": "엘리자베스 키 선착장",
+   "people": "사람 없음",
+   "size": [
+    718,
+    479
+   ],
+   "bytes": 260411,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Perth-city-3.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/12/Perth-city-3.jpg",
+   "what": "엘리자베스 키 스테인리스 새 조형물",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    718,
+    479
+   ],
+   "bytes": 265586,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Pinnacles-13.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Pinnacles-13.jpg",
+   "what": "피너클스 사막 관광객들",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 226701,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Pinnacles-14.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Pinnacles-14.jpg",
+   "what": "피너클스 석회암 기둥·물결 모래",
+   "people": "사람 없음",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 283407,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Pinnacles.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2022/11/Pinnacles.jpg",
+   "what": "피너클스에서 쿵푸 점프 포즈 손님 2명",
+   "people": "손님 얼굴 보임",
+   "size": [
+    966,
+    725
+   ],
+   "bytes": 58222,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Rottnest-11.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Rottnest-11.jpg",
+   "what": "로트네스트 꼬마기차 운전석 창 밖 선로",
+   "people": "사람 없음",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 261755,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Rottnest-12.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Rottnest-12.jpg",
+   "what": "로트네스트 기차 운전사",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 204935,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Rottnest-15.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Rottnest-15.jpg",
+   "what": "올리버힐 포대 투어 관광객",
+   "people": "손님 얼굴 보임",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 203800,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Rottnest-16.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Rottnest-16.jpg",
+   "what": "올리버힐 포대 대포",
+   "people": "사람 없음",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 226772,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Rottnest-2.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Rottnest-2.jpg",
+   "what": "올리버힐 포대 내부 전시",
+   "people": "손님 얼굴 보임",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 196945,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Rottnest-20.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Rottnest-20.jpg",
+   "what": "로트네스트 주황 교회 건물",
+   "people": "사람 없음",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 247769,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Rottnest-23.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Rottnest-23.jpg",
+   "what": "로트네스트 자전거 커플·분홍 호수",
+   "people": "손님 얼굴 보임",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 267889,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Rottnest-27.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Rottnest-27.jpg",
+   "what": "로트네스트 프랭키스 식당",
+   "people": "사람 없음",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 327045,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Rottnest-3.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Rottnest-3.jpg",
+   "what": "올리버힐 터널 내부",
+   "people": "사람 없음",
+   "size": [
+    598,
+    898
+   ],
+   "bytes": 212939,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Rottnest-31.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Rottnest-31.jpg",
+   "what": "로트네스트 흰 해변·청록 바다 (상공 전망)",
+   "people": "사람 없음",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 227284,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Rottnest-33.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Rottnest-33.jpg",
+   "what": "로트네스트 청록 인도양",
+   "people": "사람 없음",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 302126,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Rottnest-36.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Rottnest-36.jpg",
+   "what": "로트네스트 해안 전망 데크 관광객",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 294911,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Rottnest-37.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Rottnest-37.jpg",
+   "what": "로트네스트 덤불 언덕·흰 등대",
+   "people": "사람 없음",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 205451,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Rottnest-5.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Rottnest-5.jpg",
+   "what": "올리버힐 포대 기계 장치",
+   "people": "사람 없음",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 238567,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Rottnest-6.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Rottnest-6.jpg",
+   "what": "로트네스트 베이커리 건물",
+   "people": "사람 없음",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 299111,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Rottnest-7.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Rottnest-7.jpg",
+   "what": "로트네스트 교회 내부",
+   "people": "사람 없음",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 187877,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Rottnest-8.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Rottnest-8.jpg",
+   "what": "로트네스트 박물관 내부",
+   "people": "사람 없음",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 249062,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Rottnest-9.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Rottnest-9.jpg",
+   "what": "로트네스트 기차 객차 내부",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 286819,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Rottnest-Ferry.png",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/10/Rottnest-Ferry.png",
+   "what": "로트네스트 익스프레스 빨간 페리 (운항사 사진 의심)",
+   "people": "사람 없음",
+   "size": [
+    1980,
+    1102
+   ],
+   "bytes": 911102,
+   "kind": "외부/스톡 의심",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Star-gazing-1.png",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2024/10/Star-gazing-1.png",
+   "what": "피너클스 은하수 아래 양팔 벌린 손님",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    858,
+    596
+   ],
+   "bytes": 904155,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/Swings-roundabouts.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/Swings-roundabouts.jpg",
+   "what": "마가렛리버 스윙즈 앤 라운드어바웃 와이너리 정원",
+   "people": "사람 없음",
+   "size": [
+    661,
+    496
+   ],
+   "bytes": 99624,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/background-1-1.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/background-1-1.jpg",
+   "what": "피너클스 석회암 기둥·노을빛",
+   "people": "사람 없음",
+   "size": [
+    1795,
+    1197
+   ],
+   "bytes": 583696,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/background1.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/background1.jpg",
+   "what": "호숫가 노을 배낭여행자 (스톡)",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    800,
+    533
+   ],
+   "bytes": 263160,
+   "kind": "외부/스톡 의심",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/banner-5.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/10/banner-5.jpg",
+   "what": "여권 위 미니어처 여행자 인형 (스톡)",
+   "people": "사람 없음",
+   "size": [
+    2000,
+    1335
+   ],
+   "bytes": 985564,
+   "kind": "외부/스톡 의심",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/bbq_dinner.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/03/bbq_dinner.jpg",
+   "what": "투어 중 바비큐 저녁 스테이크·샐러드",
+   "people": "사람 없음",
+   "size": [
+    2000,
+    1500
+   ],
+   "bytes": 2424558,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/bush.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/bush.jpg",
+   "what": "안개 낀 숲길 (스톡 의심)",
+   "people": "사람 없음",
+   "size": [
+    1000,
+    667
+   ],
+   "bytes": 276380,
+   "kind": "외부/스톡 의심",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/caversham-wild-park18.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/caversham-wild-park18.jpg",
+   "what": "캐버샴 야생공원 직원·아이들과 캥거루/웜뱃 (공원 제공 사진 의심)",
+   "people": "손님 얼굴 보임",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 250263,
+   "kind": "외부/스톡 의심",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/cotteslow1.png",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2020/03/cotteslow1.png",
+   "what": "코테슬로 조각전 글자 카드 (사진 아님)",
+   "people": "사람 없음",
+   "size": [
+    900,
+    900
+   ],
+   "bytes": 184518,
+   "kind": "텍스트 이미지",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/cruize-10.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/cruize-10.jpg",
+   "what": "스완강 크루즈선·퍼스 스카이라인",
+   "people": "사람 없음",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 218033,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/cruize-16.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/cruize-16.jpg",
+   "what": "선착장 크루즈선",
+   "people": "사람 없음",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 210188,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/desktop-background-3221104_1920.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/desktop-background-3221104_1920.jpg",
+   "what": "선글라스·폰 정물 (픽사베이 스톡)",
+   "people": "사람 없음",
+   "size": [
+    1920,
+    1278
+   ],
+   "bytes": 219632,
+   "kind": "외부/스톡 의심",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/desktop.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/desktop.jpg",
+   "what": "책·차·꽃 정물 (스톡)",
+   "people": "사람 없음",
+   "size": [
+    800,
+    533
+   ],
+   "bytes": 473062,
+   "kind": "외부/스톡 의심",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/perth-city.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/12/perth-city.jpg",
+   "what": "엘리자베스 키 새 조형물·다리",
+   "people": "사람 없음",
+   "size": [
+    800,
+    598
+   ],
+   "bytes": 365601,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/sanp-tour.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/07/sanp-tour.jpg",
+   "what": "피너클스 별밤 헤드랜턴 커플 (스냅투어)",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    482,
+    697
+   ],
+   "bytes": 224761,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/swanvalley2.png",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/11/swanvalley2.png",
+   "what": "스완밸리 포도밭 가로수길",
+   "people": "사람 없음",
+   "size": [
+    900,
+    675
+   ],
+   "bytes": 1518381,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/travel2.png",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/09/travel2.png",
+   "what": "피너클스 해질녘 바위 위 실루엣",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    900,
+    675
+   ],
+   "bytes": 637537,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/uluru.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2025/04/uluru.jpg",
+   "what": "울루루 해질녘 별하늘",
+   "people": "사람 없음",
+   "size": [
+    1004,
+    591
+   ],
+   "bytes": 472794,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/uluru5.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2025/04/uluru5.jpg",
+   "what": "울루루 노을 바라보는 손님 2명·붉은 흙",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    496,
+    372
+   ],
+   "bytes": 187566,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/unnamed-1800x2112.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2019/03/unnamed.jpg",
+   "what": "투어 단체 식사 테이블",
+   "people": "손님 얼굴 보임",
+   "size": [
+    1800,
+    2112
+   ],
+   "bytes": 794299,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/wave-rock-4.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/09/wave-rock-4.jpg",
+   "what": "웨이브락 파도 모양 화강암",
+   "people": "사람 없음",
+   "size": [
+    898,
+    598
+   ],
+   "bytes": 289422,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/wave-rock.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/12/wave-rock.jpg",
+   "what": "웨이브락 앞 서핑 포즈 손님 단체",
+   "people": "손님 얼굴 보임",
+   "size": [
+    800,
+    598
+   ],
+   "bytes": 483688,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/winery.jpeg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/12/winery.jpeg",
+   "what": "와이너리 시음 (와인잔·스파클링 병)",
+   "people": "손님 얼굴 보임",
+   "size": [
+    750,
+    563
+   ],
+   "bytes": 405643,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/wow-hoju-thumnail3.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2025/02/wow-hoju-thumnail3.jpg",
+   "what": "월폴 트리탑 워크 상공 카리 숲",
+   "people": "사람 없음",
+   "size": [
+    1134,
+    850
+   ],
+   "bytes": 1280746,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/wow-hoju-thumnail4.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2025/02/wow-hoju-thumnail4.jpg",
+   "what": "인도양 노을 해변 하트 포즈 실루엣",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    1134,
+    850
+   ],
+   "bytes": 752153,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/wow-hoju-thumnail5.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2025/02/wow-hoju-thumnail5.jpg",
+   "what": "알바니 풍력발전단지 덤불 언덕",
+   "people": "사람 없음",
+   "size": [
+    1134,
+    850
+   ],
+   "bytes": 927392,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/wow-hoju-thumnail7.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2025/02/wow-hoju-thumnail7.jpg",
+   "what": "버셀튼 제티 빨간 기차·하늘색 건물",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    1134,
+    850
+   ],
+   "bytes": 505727,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/wow-hoju-thumnail8.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2025/02/wow-hoju-thumnail8.jpg",
+   "what": "엘리펀트 록스(덴마크) 해질녘 바위·바다",
+   "people": "사람 없음",
+   "size": [
+    1134,
+    850
+   ],
+   "bytes": 733283,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/wow-hoju-thumnail9.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2025/02/wow-hoju-thumnail9.jpg",
+   "what": "캐널록스 다리 관광객·화강암",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    1134,
+    850
+   ],
+   "bytes": 826266,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/wowhoju-1.png",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2025/08/wowhoju-1.png",
+   "what": "홈 카드: 칼바리 붉은 협곡 강 + 문구 \"여행은 이미 다시 시작되었고 이제 이야기도 다시 시작됩니다.\"",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    744,
+    744
+   ],
+   "bytes": 906685,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  },
+  {
+   "file": "photos/wowhojutour.jpg",
+   "url": "https://wowhoju.com.au/wp-content/uploads/2018/10/wowhojutour.jpg",
+   "what": "시골 정원 녹슨 빈티지 트럭과 아이들(와이너리/농장)",
+   "people": "뒷모습·실루엣·작게",
+   "size": [
+    2000,
+    1500
+   ],
+   "bytes": 3075828,
+   "kind": "업체 자체 사진(추정)",
+   "aiSuspect": false
+  }
+ ]
+}
