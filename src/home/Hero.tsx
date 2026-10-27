@@ -2,6 +2,7 @@ import { useEffect, useRef } from 'react';
 import { ScrollTrigger, reduced } from '../lib/gsap';
 import { mulberry32 } from '../fx/rng';
 import { say } from '../data/copy';
+import { Lines } from '../components/Lines';
 import { heroStage, STAR_COUNT } from './heroTimeline';
 import './hero.css';
 
@@ -58,7 +59,7 @@ export function Hero() {
         {STARS.map((s, i) => <i key={i} className="hx-star" style={{ left: `${s.x}%`, top: `${s.y}%`, width: s.s, height: s.s, ['--o' as string]: s.o }} />)}
       </div>
       <div className="hx-title wrap">
-        <h1><span className="ln nw">퍼스에 가면,</span><span className="ln nw">어디부터 봐야 할까요?</span></h1>
+        <h1><Lines l={[['퍼스에 가면,'], ['어디부터', '봐야 할까요?']]} /></h1>
         <p className="lead">퍼스에서 직접 운영하는 한인 여행사가<br />서호주의 하루를 처음부터 끝까지 안내합니다.</p>
       </div>
       <p className="hx-line hx-gold quote">{say('golden')}</p>
