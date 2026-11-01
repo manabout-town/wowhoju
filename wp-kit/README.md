@@ -21,3 +21,6 @@
    빠지는 것: 위 로고와 중복된 큰 로고, 링크 없는 페이스북 아이콘, 빈 줄.
 
 되돌리기: 추가 CSS 지우기 · Top Bar Right Text 비우기 · 메뉴 항목 삭제.
+
+## 미리보기 주소(대표님 공유용)
+https://wowhoju-wp-preview.vercel.app — 원래 홈 HTML(2026-11-01)에 이 키트를 입힌 정적 사본. `/story/` = 여행이야기 페이지. 분석 코드(GA) 제거·noindex. 재배포: `cd wp-kit/preview/wowhoju-wp-preview && vercel --prod --yes`.
