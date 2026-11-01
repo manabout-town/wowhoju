@@ -42,3 +42,8 @@
   .traveltour-top-bar-right { justify-content: flex-end; width: 100%; box-sizing: border-box; }
   .wh-talk { font-size: 14px; order: 2; }
 }
+
+/* 4) '여행이야기' 페이지: 새로 만든 와우호주 사이트를 원래 사이트 안에 그대로 담기(헤더 아래 화면 꽉) */
+.wh-embed { position: relative; width: 100vw; margin-left: calc(50% - 50vw); }
+.wh-embed iframe { display: block; width: 100%; height: calc(100vh - 152px); min-height: 560px; border: 0; }
+@media (max-width: 999px) { .wh-embed iframe { height: calc(100svh - 128px); } }
