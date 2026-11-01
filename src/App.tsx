@@ -21,6 +21,7 @@ const InfoPage = lazy(() => import('./pages/Pages').then((m) => ({ default: m.In
 const HelpPage = lazy(() => import('./pages/Pages').then((m) => ({ default: m.HelpPage })));
 const AboutPage = lazy(() => import('./pages/Pages').then((m) => ({ default: m.AboutPage })));
 import { useLenis } from './lib/useLenis';
+import { isEmbed } from './lib/embed';
 import { useReveal } from './lib/useReveal';
 import { useRoute } from './lib/route';
 import { ScrollTrigger } from './lib/gsap';
@@ -42,8 +43,8 @@ export default function App() {
   return (
     <>
       <SceneBg page={key} />
-      {home && <Intro video="/video/lancelin.mp4" poster="/video/lancelin.jpg" lines={[[say('painting').split(',')[0] + ','], ['잊지 못할 서호주 여행']]} word="와우호주" logo="/logo/logo-ko.png" storageKey="wowhoju-intro" />}
-      <Header path={'/' + route.page + (route.parts.length ? '/' + route.parts.join('/') : '')} />
+      {home && !isEmbed && <Intro video="/video/lancelin.mp4" poster="/video/lancelin.jpg" lines={[[say('painting').split(',')[0] + ','], ['잊지 못할 서호주 여행']]} word="와우호주" logo="/logo/logo-ko.png" storageKey="wowhoju-intro" />}
+      {!isEmbed && <Header path={'/' + route.page + (route.parts.length ? '/' + route.parts.join('/') : '')} />}
       <main id="main" tabIndex={-1} key={key}>
         {home && (
           <>
@@ -69,7 +70,7 @@ export default function App() {
           {route.page === 'about' && <AboutPage />}
         </Suspense>
       </main>
-      <Footer />
+      {!isEmbed && <Footer />}
     </>
   );
 }

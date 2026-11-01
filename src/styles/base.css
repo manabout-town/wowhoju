@@ -91,3 +91,7 @@ p, li, figcaption, blockquote, summary { text-wrap: balance; }
 .ft__logo { width: 180px; height: auto; }
 .ft__contact { grid-column: 1 / -1; display: flex; flex-wrap: wrap; gap: 8px 20px; font-size: 14px; font-weight: 600; }
 .ft__contact a { text-underline-offset: 3px; }
+
+/* 담기는 모드(원래 사이트 iframe 안): 우리 헤더가 없으니 헤더 높이 0 */
+html.is-embed { --header-h: 0px !important; }
+html.is-embed body { --header-h: 0px !important; }
