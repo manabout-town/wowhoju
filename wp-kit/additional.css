@@ -1,0 +1,44 @@
+/* ===== 와우호주 — 카톡상담 버튼 + 짧은 하단 (외모 > 사용자 정의하기 > 추가 CSS 에 통째로 붙여넣기) ===== */
+
+/* 1) 상단 오른쪽 카톡상담: 카톡 노랑 밑줄 */
+.traveltour-top-bar-right { display: flex; align-items: center; gap: 14px; }
+.wh-talk {
+  font-weight: 700; font-size: 15px; color: #3c1e1e !important;
+  text-decoration: underline; text-decoration-color: #fee500;
+  text-decoration-thickness: 6px; text-underline-offset: -2px; text-decoration-skip-ink: none;
+  transition: color .16s ease-out;
+}
+.wh-talk:hover { color: #000 !important; }
+
+/* 2) 메인 메뉴 '여행이야기' 항목(메뉴 CSS 클래스 wh-story) */
+.wh-story > a { color: #f15e53 !important; }
+
+/* 3) 하단: 세로 줄이고 간결하게 — 내용은 그대로 */
+.traveltour-footer-wrapper { padding-top: 36px !important; padding-bottom: 12px !important; }
+.traveltour-footer-wrapper .traveltour-widget { margin-bottom: 18px !important; }
+.traveltour-footer-wrapper .traveltour-widget-title { margin-bottom: 10px !important; font-size: 13px !important; }
+.traveltour-footer-wrapper .textwidget p,
+.traveltour-footer-wrapper .widget_nav_menu li { margin: 0 0 2px !important; padding: 0 !important; border: 0 !important; font-size: 14px; line-height: 1.6; }
+.traveltour-footer-wrapper .widget_nav_menu li a { padding: 2px 0 !important; }
+.traveltour-footer-wrapper .gdlr-core-space-shortcode { display: none !important; }
+#text-17 .textwidget > p:nth-last-child(-n+2) { display: none !important; } /* 소셜 아이콘 아래 빈 줄 2개 */
+.traveltour-footer-wrapper img.wp-image-14273 { display: none; }               /* 위 로고와 중복되는 큰 로고 */
+.traveltour-footer-wrapper img.wp-image-11480 { width: 52px !important; height: auto !important; margin: 6px 0 0 !important; float: none !important; } /* Quality Tourism 인증 배지 작게 */
+.traveltour-footer-wrapper .fa-facebook { display: none !important; }          /* 연결 안 된 페이스북 아이콘 */
+.traveltour-footer-wrapper .fa-instagram,
+.traveltour-footer-wrapper .fa-youtube { font-size: 22px !important; margin: 6px 14px 0 0 !important; }
+.traveltour-footer-wrapper .gdlr-core-widget-box-shortcode { padding: 14px 16px !important; margin-top: 10px !important; }
+.traveltour-footer-wrapper .gdlr-core-widget-box-shortcode-title { font-size: 14px !important; margin-bottom: 4px !important; }
+.traveltour-footer-wrapper .gdlr-core-widget-box-shortcode-icon { display: none !important; }
+.traveltour-footer-wrapper .gdlr-core-widget-box-shortcode-content { padding-left: 0 !important; }
+.traveltour-footer-wrapper .gdlr-core-widget-box-shortcode-content p { font-size: 12px !important; }
+.traveltour-copyright-container { padding-top: 14px !important; padding-bottom: 14px !important; }
+
+/* 폰: 세 칸을 아래로 쌓되 간격만 */
+@media (max-width: 767px) {
+  .traveltour-footer-wrapper { padding-top: 24px !important; }
+  .traveltour-footer-wrapper .traveltour-footer-column { padding-bottom: 0 !important; margin-bottom: 0 !important; border: 0 !important; }
+  .traveltour-footer-wrapper .traveltour-footer-column + .traveltour-footer-column { border-top: 1px solid rgba(255,255,255,.08) !important; padding-top: 16px !important; }
+  .traveltour-top-bar-right { justify-content: flex-end; width: 100%; box-sizing: border-box; }
+  .wh-talk { font-size: 14px; order: 2; }
+}
