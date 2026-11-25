@@ -164,7 +164,7 @@ function Booking({ t }: { t: Tour }) {
         <button type="button" disabled={!ok} onClick={copyKakao}>카톡으로 예약 문의</button>
         <a aria-disabled={!ok} href={ok ? `mailto:${facts.email.value}?subject=${encodeURIComponent(`[예약 문의] ${t.title}`)}&body=${encodeURIComponent(msg)}` : undefined}>이메일로 예약 문의</a>
       </div>
-      <p className="td-sumnote" aria-live="polite"><Sents s={copied ? '문의 내용을 복사했습니다. 카톡 대화창에 붙여 넣어 보내세요.' : '이 페이지는 제안 시안이라 결제는 진행되지 않습니다. 예약 확정·결제는 와우호주 상담으로 진행됩니다.'} /></p>
+      <p className="td-sumnote" aria-live="polite"><Sents s={copied ? '문의 내용을 복사했습니다. 카톡 대화창에 붙여 넣어 보내세요.' : '이 페이지에서는 결제가 진행되지 않습니다. 예약 확정·결제는 와우호주 상담으로 진행됩니다.'} /></p>
       <p className="td-sumnote"><a href="#/help">취소 수수료·FAQ 보기</a></p>
       <div className="td-why">
         <h3>궁금한 점이 있나요?</h3>

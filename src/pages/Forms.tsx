@@ -27,7 +27,7 @@ export function MailForm({ subject, fields, submit = '이메일로 보내기' }:
       ))}
       {err && <p className="mf-err" role="alert">{err}</p>}
       <p className="mf-acts"><button type="submit">{submit}</button><a href={facts.kakaoChat.value} target="_blank" rel="noreferrer">카톡으로 상담</a></p>
-      <p className="mf-note">제안 시안이라 이 폼은 서버로 보내지 않고, 적은 내용으로 이메일 앱을 엽니다.</p>
+      <p className="mf-note">이 폼은 서버로 보내지 않고, 적은 내용으로 이메일 앱을 엽니다.</p>
     </form>
   );
 }
